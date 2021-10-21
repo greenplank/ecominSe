@@ -2,15 +2,6 @@ import React, { Component } from 'react';
 import Link from 'next/link';
 import Lightbox from 'react-image-lightbox';
 
-const images = [
-    ('/images/portfolio/portfolio1.jpg'),
-    ('/images/portfolio/portfolio2.jpg'),
-    ('/images/portfolio/portfolio3.jpg'),
-    ('/images/portfolio/portfolio4.jpg'),
-    ('/images/portfolio/portfolio5.jpg'),
-    ('/images/portfolio/portfolio6.jpg'),
-    ('/images/portfolio/portfolio7.jpg'),
-]
 
 class Portfolio extends Component {
 

@@ -110,7 +110,7 @@ class BestServices extends Component {
 
                                             <div className="content">
                                                 <div className="icon">
-                                                    <i className="pe-7s-scissors"></i>
+                                                    <i className="pe-7s-display1"></i>
                                                 </div>
 
                                                 <h3>Webbdesign</h3>
@@ -126,7 +126,7 @@ class BestServices extends Component {
 
                                             <div className="content">
                                                 <div className="icon">
-                                                    <i className="pe-7s-scissors"></i>
+                                                    <i className="pe-7s-phone"></i>
                                                 </div>
 
                                                 <h3>Mobil applikationsdesign</h3>
@@ -141,7 +141,7 @@ class BestServices extends Component {
                                             <img src="/images/services/service3.jpg" alt="image" />
                                             <div className="content">
                                                 <div className="icon">
-                                                    <i className="pe-7s-scissors"></i>
+                                                    <i className="pe-7s-sun"></i>
                                                 </div>
 
                                                 <h3>Visuell kommunikation</h3>
@@ -157,7 +157,7 @@ class BestServices extends Component {
 
                                             <div className="content">
                                                 <div className="icon">
-                                                    <i className="pe-7s-scissors"></i>
+                                                    <i className="pe-7s-menu"></i>
                                                 </div>
 
                                                 <h3>Trådramar</h3>
@@ -173,7 +173,7 @@ class BestServices extends Component {
 
                                             <div className="content">
                                                 <div className="icon">
-                                                    <i className="pe-7s-scissors"></i>
+                                                    <i className="pe-7s-note2"></i>
                                                 </div>
 
                                                 <h3>Prototyper</h3>
@@ -189,7 +189,7 @@ class BestServices extends Component {
                                             <img src="/images/services/service1.jpg" alt="image" />
                                             <div className="content">
                                                 <div className="icon">
-                                                    <i className="pe-7s-scissors"></i>
+                                                    <i className="pe-7s-diamond"></i>
                                                 </div>
 
                                                 <h3>Interaktionsdesign</h3>

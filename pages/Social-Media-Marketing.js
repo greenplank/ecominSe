@@ -1,23 +1,22 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import UXUIDetailsContent from '../components/Portfolio/UXUIDetailsContent';
-import BestServices from '../components/StartupAgency/BestServices';
+import SocialMediaDetailsContent from '../components/Services/SocialMediaDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 
-class UXUIDesign extends Component {
+class SocialMediaMarketing extends Component {
     render() {
         return (
             <>
                 <NavbarTwo />
-                
+
                 <PageBanner 
-                    pageTitle="UX/UI Designing" 
-                    BGImage="bg-two"
+                    pageTitle="Social Media Marketing" 
+                    BGImage="bg-one"
                 />  
-                
-                <UXUIDetailsContent />
+
+                <SocialMediaDetailsContent />
 
                 <CtaAreaTwo />
 
@@ -27,4 +26,4 @@ class UXUIDesign extends Component {
     }
 }
 
-export default UXUIDesign;
+export default SocialMediaMarketing;

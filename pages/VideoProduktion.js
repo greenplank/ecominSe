@@ -1,23 +1,22 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import UXUIDetailsContent from '../components/Portfolio/UXUIDetailsContent';
-import BestServices from '../components/StartupAgency/BestServices';
+import VideoProduktionDetailsContent from '../components/Services/VideoProduktionDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 
-class UXUIDesign extends Component {
+class VideoProduktion extends Component {
     render() {
         return (
             <>
                 <NavbarTwo />
-                
+
                 <PageBanner 
-                    pageTitle="UX/UI Designing" 
-                    BGImage="bg-two"
+                    pageTitle="Video Produktion" 
+                    BGImage="bg-one"
                 />  
-                
-                <UXUIDetailsContent />
+
+                <VideoProduktionDetailsContent />
 
                 <CtaAreaTwo />
 
@@ -27,4 +26,4 @@ class UXUIDesign extends Component {
     }
 }
 
-export default UXUIDesign;
+export default VideoProduktion;

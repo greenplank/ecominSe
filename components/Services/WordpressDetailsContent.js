@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 //     ssr: false
 // });
 
-class ServiceDetailsContent extends Component {
+class WordpressDetailsContent extends Component {
 
     // state = {
     //     isOpen: false,
@@ -76,4 +76,4 @@ class ServiceDetailsContent extends Component {
     }
 }
 
-export default ServiceDetailsContent;
+export default WordpressDetailsContent;

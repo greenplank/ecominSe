@@ -58,11 +58,11 @@ class CaseStudies extends Component {
                                             </span>
                                         </li>
 
-                                        <li onClick={(e) => this.openTabSection(e, 'tab4')}>
+                                        {/* <li onClick={(e) => this.openTabSection(e, 'tab4')}>
                                             <span>
                                                 UX/UI Design
                                             </span>
-                                        </li>
+                                        </li> */}
 
                                         {/* <li onClick={(e) => this.openTabSection(e, 'tab5')}>
                                             <span>

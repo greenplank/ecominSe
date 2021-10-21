@@ -90,12 +90,12 @@ class NavbarTwo extends Component {
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/service-details" activeClassName="active">
+                                                <Link href="/Mobile-app-development" activeClassName="active">
                                                     <a className="nav-link">Mobile App Development</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="#" activeClassName="active">
+                                                <Link href="/WordpressDevelopment" activeClassName="active">
                                                     <a className="nav-link">Wordpress Development</a>
                                                 </Link>
                                             </li>
@@ -114,17 +114,17 @@ class NavbarTwo extends Component {
                                         </Link>
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
-                                                <Link href="#" activeClassName="active">
+                                                <Link href="/Social-Media-Marketing" activeClassName="active">
                                                     <a className="nav-link">Social Media Marketing</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="#" activeClassName="active">
+                                                <Link href="/Search-Engine-Optimization" activeClassName="active">
                                                     <a className="nav-link">Search Engine Optimization(SEO)</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="#" activeClassName="active">
+                                                <Link href="/VideoProduktion" activeClassName="active">
                                                     <a className="nav-link">Video Produktion</a>
                                                 </Link>
                                             </li>
