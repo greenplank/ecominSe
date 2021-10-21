@@ -56,9 +56,9 @@ class BestServices extends Component {
                             <div className="col-lg-5 p-0">
                                 <div className="services-inner">
                                     <div className="services-section-title">
-                                        <h2>Offering The Best of Services</h2>
+                                        <h2>Expertis och färdigheter</h2>
                                         <div className="bar"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                        <p>Ecomin skapar konverteringsoptimerade användargränssnitt och användarupplevelser. Våra produktdesigner är alltid inriktade på människocentrerat designtänkande, liksom kreativa, unika och anpassade. Vi är säkra på att vi kan skapa en produkt för dig som kommer att resultera i höga konverteringar och en minnesvärd användarupplevelse.</p>
 
                                         <img src="/images/women-with-table.png" alt="Women" />
                                     </div>
@@ -82,9 +82,9 @@ class BestServices extends Component {
                                                 <h3>UX Design</h3>
                                                 <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
 
-                                                <Link href="/service-details">
+                                                {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
-                                                </Link>
+                                                </Link> */}
                                             </div>
                                         </div>
 
@@ -99,9 +99,9 @@ class BestServices extends Component {
                                                 <h3>UI Design</h3>
                                                 <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                                 
-                                                <Link href="/service-details">
+                                                {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
-                                                </Link>
+                                                </Link> */}
                                             </div>
                                         </div>
 
@@ -113,30 +113,93 @@ class BestServices extends Component {
                                                     <i className="pe-7s-scissors"></i>
                                                 </div>
 
-                                                <h3>Digital Product Design</h3>
+                                                <h3>Webbdesign</h3>
                                                 <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                                 
-                                                <Link href="/service-details">
+                                                {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
-                                                </Link>
+                                                </Link> */}
                                             </div>
                                         </div>
-
                                         <div className="single-services">
-                                            <img src="/images/services/service1.jpg" alt="image" />
+                                            <img src="/images/services/service3.jpg" alt="image" />
 
                                             <div className="content">
                                                 <div className="icon">
                                                     <i className="pe-7s-scissors"></i>
                                                 </div>
 
-                                                <h3>Digital Product Design</h3>
+                                                <h3>Mobil applikationsdesign</h3>
                                                 <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                                 
-                                                <Link href="/service-details">
+                                                {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
-                                                </Link>
+                                                </Link> */}
                                             </div>
+                                        </div>
+                                        <div className="single-services">
+                                            <img src="/images/services/service3.jpg" alt="image" />
+                                            <div className="content">
+                                                <div className="icon">
+                                                    <i className="pe-7s-scissors"></i>
+                                                </div>
+
+                                                <h3>Visuell kommunikation</h3>
+                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                                
+                                                {/* <Link href="/service-details">
+                                                    <a className="read-more-btn">Read More</a>
+                                                </Link> */}
+                                            </div>
+                                        </div>
+                                        <div className="single-services">
+                                            <img src="/images/services/service3.jpg" alt="image" />
+
+                                            <div className="content">
+                                                <div className="icon">
+                                                    <i className="pe-7s-scissors"></i>
+                                                </div>
+
+                                                <h3>Trådramar</h3>
+                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                                
+                                                {/* <Link href="/service-details">
+                                                    <a className="read-more-btn">Read More</a>
+                                                </Link> */}
+                                            </div>
+                                        </div>
+                                        <div className="single-services">
+                                            <img src="/images/services/service3.jpg" alt="image" />
+
+                                            <div className="content">
+                                                <div className="icon">
+                                                    <i className="pe-7s-scissors"></i>
+                                                </div>
+
+                                                <h3>Prototyper</h3>
+                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                                
+                                                {/* <Link href="/service-details">
+                                                    <a className="read-more-btn">Read More</a>
+                                                </Link> */}
+                                            </div>
+                                        </div>
+
+                                        <div className="single-services">
+                                            <img src="/images/services/service1.jpg" alt="image" />
+                                            <div className="content">
+                                                <div className="icon">
+                                                    <i className="pe-7s-scissors"></i>
+                                                </div>
+
+                                                <h3>Interaktionsdesign</h3>
+                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                                
+                                                {/* <Link href="/service-details">
+                                                    <a className="read-more-btn">Read More</a>
+                                                </Link> */}
+                                            </div>
+
                                         </div>
                                     </OwlCarousel> : ''}
                                 </div>

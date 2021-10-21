@@ -1,25 +1,11 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 import Lightbox from 'react-image-lightbox';
-
-const images = [
-    ('/images/portfolio/portfolio1.jpg'),
-    ('/images/portfolio/portfolio2.jpg'),
-    ('/images/portfolio/portfolio3.jpg'),
-    ('/images/portfolio/portfolio4.jpg'),
-    ('/images/portfolio/portfolio5.jpg'),
-]
+import BestServices from '../../components/StartupAgency/BestServices';
 
 class UXUIDetailsContent extends Component {
 
-    // state = {
-    //     photoIndex: 0,
-    //     isOpenImage: false
-    // }
-
     render() {
-
-        // const { photoIndex, isOpenImage } = this.state;
 
         return (
             <>
@@ -91,16 +77,14 @@ class UXUIDetailsContent extends Component {
                         </div>
                     </div>
                 </section>
+
+                <BestServices />
+
                 <section className="portfolio-details ptb-110 ">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="portfolio-desc" style={{ textAlign: "center", fontSize: "500em" }}>
-                                    {/* <h2>Topp Magento utvecklingsbolag</h2>
-                                    <p>Vårt team av certifierade Magento -experter utnyttjar de bästa e -handelswebbdesignmetoderna och utvecklar konsekvent engagerande e -handelswebbplatser. Vårt Magento webbutvecklingsföretag har 40+ Magento -certifierade utvecklare och kan fullt ut möta dina anpassade handelsbehov inklusive; UI -ändringar, databasändringar, admin -ändringar, anpassningar av kassan, orderhanteringsintegrationer, katalogutcheckningsstruktur och funktionalitetsändringar, migration och mycket mer.</p> */}
-
-
-
                                     <h2 style={{ fontSize: "48px" }}>Våra UI / UX -tjänster</h2>
                                 </div>
                             </div>
