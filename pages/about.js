@@ -25,12 +25,6 @@ class Aabout extends Component {
 
                 <About />
 
-                {/* <FunFactsTwo />
-
-                <TeamStyleThree /> */}
-
-                {/* <Feedback /> */}
-
                 <Partner />
 
                 <CtaAreaTwo />

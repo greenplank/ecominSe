@@ -23,15 +23,6 @@ class About extends Component {
                             <div className="col-lg-5 col-md-12">
                                 <div className="about-image">
                                     <img src="/images/about2.png" alt="image" className="rounded-10" />
-
-                                    {/* <div className="video-box">
-                                        <div
-                                            onClick={e => { e.preventDefault(); this.openModal() }}
-                                            className="video-btn"
-                                        >
-                                            <i className="pe-7s-play"></i>
-                                        </div>
-                                    </div> */}
                                 </div>
                             </div>
 
@@ -44,34 +35,6 @@ class About extends Component {
                                             <a className="btn btn-primary">Läs mer</a>
                                         </Link>
                                     </div>
-
-                                    {/* <div className="about-text">
-                                        <h4>Who We Are</h4>
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                    </div> */}
-
-                                    {/* <div className="about-text">
-                                        <h4>Our History</h4>
-                                        <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth.</p>
-                                    </div> */}
-
-                                    {/* <div className="about-text">
-                                        <h4>Our Mission</h4>
-                                        <ul>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            </li>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                            </li>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.
-                                            </li>
-                                        </ul>
-                                    </div> */}
                                 </div>
                             </div>
                         </div>
