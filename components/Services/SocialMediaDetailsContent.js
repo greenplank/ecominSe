@@ -1,72 +1,130 @@
 import React, { Component } from 'react';
-// import dynamic from 'next/dynamic';
-// const ModalVideo = dynamic(() => import('react-modal-video'), {
-//     ssr: false
-// });
+
 
 class SocialMediaDetailsContent extends Component {
-
-    // state = {
-    //     isOpen: false,
-    // }
-    // openModal = () => {
-    //     this.setState({isOpen: true})
-    // }
 
     render() {
         return (
             <>
                 <section className="services-details-area ptb-100">
-                    {/* If you want to change the video need to update below videoID */}
-                    {/* <ModalVideo 
-                        channel='youtube' 
-                        isOpen={this.state.isOpen} 
-                        videoId='_ysd-zHamjk' 
-                        onClose={() => this.setState({isOpen: false})} 
-                    /> */}
 
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-image">
-                                    <img src="/images/services/single-service.jpg" alt="image" />
+                                    <img src="/images/digital-marketing.png" alt="image" />
+                                </div>
+                            </div>
 
-                                    {/* <div className="video-box">
-                                        <div
-                                            onClick={e => {e.preventDefault(); this.openModal()}}
-                                            className="video-btn"
-                                        > 
-                                            <i className="pe-7s-play"></i>
+
+
+                            <div className="col-lg-12 col-md-12">
+                                <div className="services-details-info section-title pt-100">
+                                    <h2>Digital Marketing Add-Ons</h2>
+                                    <p>Google AdWords Management </p>
+                                </div>
+                                <div className="container">
+                                    <div className="row justify-content-center" style={{ textAlign: "center" }}>
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/knowledge.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>350
+                                                    <span>/month</span></b> with SEO package
+                                                </span>
+                                                </h6>
+                                            </div>
                                         </div>
-                                    </div> */}
+
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/loupe.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>300
+                                                    <span>/month</span></b> Facebook Adds Management with SEO package 
+                                                </span>
+                                                </h6>
+
+                                            </div>
+                                        </div>
+
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/wireframe.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>150-450
+                                                    <span>/month</span></b> Tier 1 Back Link 
+                                                </span>
+                                                </h6>
+
+                                            </div>
+                                        </div>
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/illustration.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>90
+                                                    <span>/month</span></b> Tier 2 Back Link  
+                                                </span>
+                                                </h6>
+
+                                            </div>
+                                        </div>
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/prototyping.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>99
+                                                    <span>/month</span></b> Social Syndication per website
+                                                </span>
+                                                </h6>
+
+                                            </div>
+                                        </div>
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/3d-movie.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>65
+                                                    <span>/month</span></b> Full Reporting
+                                                </span>
+                                                </h6>
+
+                                            </div>
+                                        </div>
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/copyright.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>45
+                                                    <span>/month</span></b> Google My Business Reviews
+                                                </span>
+                                                </h6>
+
+                                            </div>
+                                        </div>
+                                        <div className="col-lg-3 col-sm-6">
+                                            <div className="funfact-card">
+                                                <img src="/images/review.svg" alt="image" className="rounded-10" width="80" />
+                                                <h6> 
+                                                <span><b>
+                                                    <sup>€</sup>350
+                                                    <span>/month</span></b> 3 Business Social Media Account Setup
+                                                </span>
+                                                </h6>
+
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
 
-                            <div className="col-lg-8 col-md-12">
-                                <div className="services-details-desc">
-                                    <h2>Services Description</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
-
-                                    <p>ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>
-
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter.</p>
-
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis.</p>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-4 col-md-12">
-                                <div className="services-details-info">
-                                    <h3>Our Working Process</h3>
-                                    <ul>
-                                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</li>
-                                        <li>Creative Team Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</li>
-                                        <li>Branding But I must explain to you how all this mistaken idea of denouncing.</li>
-                                        <li>Clean Code At vero eos et accusamus et iusto odio dignissimos ducimus qui.</li>
-                                        <li>UX/UI Friendly On the other hand, we denounce with righteous indignation.</li>
-                                        <li>24/7 Support There are many variations of passages of Lorem Ipsum available.</li>
-                                    </ul>
-                                </div>
                             </div>
                         </div>
                     </div>

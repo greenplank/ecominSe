@@ -79,7 +79,7 @@ class NavbarTwo extends Component {
                                         </Link>
 
                                         <ul className="dropdown-menu">
-                                            <li className="nav-item">
+                                            {/* <li className="nav-item">
                                                 <Link href="/magento-developer" activeClassName="active">
                                                     <a className="nav-link">Magento Development</a>
                                                 </Link>
@@ -88,17 +88,17 @@ class NavbarTwo extends Component {
                                                 <Link href="/react-developer" activeClassName="active">
                                                     <a className="nav-link">ReactJs Development</a>
                                                 </Link>
-                                            </li>
+                                            </li> */}
                                             <li className="nav-item">
-                                                <Link href="/Mobile-app-development" activeClassName="active">
-                                                    <a className="nav-link">Mobile App Development</a>
+                                                <Link href="/web-development" activeClassName="active">
+                                                    <a className="nav-link">Web Development</a>
                                                 </Link>
                                             </li>
-                                            <li className="nav-item">
+                                            {/* <li className="nav-item">
                                                 <Link href="/WordpressDevelopment" activeClassName="active">
                                                     <a className="nav-link">Wordpress Development</a>
                                                 </Link>
-                                            </li>
+                                            </li> */}
                                             <li className="nav-item">
                                                 <Link href="/ux-ui-design" activeClassName="active">
                                                     <a className="nav-link">UX/UI Designing</a>
@@ -120,14 +120,14 @@ class NavbarTwo extends Component {
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/Search-Engine-Optimization" activeClassName="active">
-                                                    <a className="nav-link">Search Engine Optimization(SEO)</a>
+                                                    <a className="nav-link">SEO Plan</a>
                                                 </Link>
                                             </li>
-                                            <li className="nav-item">
+                                            {/* <li className="nav-item">
                                                 <Link href="/VideoProduktion" activeClassName="active">
                                                     <a className="nav-link">Video Produktion</a>
                                                 </Link>
-                                            </li>
+                                            </li> */}
                                         </ul>
                                     </li>
                                     <li className="nav-item">

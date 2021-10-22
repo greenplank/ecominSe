@@ -1,25 +1,22 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import SEODetailsContent from '../components/Services/SEODetailsContent';
-import PricingStyleOne from '../components/Pricing/PricingStyleOne';
+import ReactDetailsContent from '../components/Portfolio/ReactDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 
-class SearchOptimization extends Component {
+class WebDevelopment extends Component {
     render() {
         return (
             <>
                 <NavbarTwo />
-
-                <PageBanner 
-                    pageTitle="Search Engine Optimization" 
-                    BGImage="bg-one"
-                />  
-
-                <SEODetailsContent />
                 
-                <PricingStyleOne/>
+                <PageBanner 
+                    pageTitle="Web Development" 
+                    BGImage="bg-two"
+                />  
+                
+                <ReactDetailsContent />
 
                 <CtaAreaTwo />
 
@@ -29,4 +26,4 @@ class SearchOptimization extends Component {
     }
 }
 
-export default SearchOptimization;
+export default WebDevelopment;

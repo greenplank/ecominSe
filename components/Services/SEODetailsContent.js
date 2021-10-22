@@ -1,72 +1,92 @@
 import React, { Component } from 'react';
-// import dynamic from 'next/dynamic';
-// const ModalVideo = dynamic(() => import('react-modal-video'), {
-//     ssr: false
-// });
+
 
 class SEODetailsContent extends Component {
 
-    // state = {
-    //     isOpen: false,
-    // }
-    // openModal = () => {
-    //     this.setState({isOpen: true})
-    // }
 
     render() {
         return (
             <>
                 <section className="services-details-area ptb-100">
-                    {/* If you want to change the video need to update below videoID */}
-                    {/* <ModalVideo 
-                        channel='youtube' 
-                        isOpen={this.state.isOpen} 
-                        videoId='_ysd-zHamjk' 
-                        onClose={() => this.setState({isOpen: false})} 
-                    /> */}
 
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-image">
-                                    <img src="/images/services/single-service.jpg" alt="image" />
+                                    <img src="/images/seo.png" alt="image" />
 
-                                    {/* <div className="video-box">
-                                        <div
-                                            onClick={e => {e.preventDefault(); this.openModal()}}
-                                            className="video-btn"
-                                        > 
-                                            <i className="pe-7s-play"></i>
-                                        </div>
-                                    </div> */}
                                 </div>
                             </div>
 
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>Services Description</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
+                                    <h2>GET DISCOVERED WITH SEARCH ENGINE OPTIMIZATION</h2>
+                                    <p>An established web presence can skyrocket your online success, but it requires one critical component - visibility. If your website isn't highly visible, you will struggle to find success. eComIN, a well-known digital marketing agency believes that a key component of creating great online visibility is search engine optimization. Our custom SEO services cover all the bases of optimization to make sure that your site is always visible to potential customers.
+                                    </p>
 
-                                    <p>ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>
+                                    <p>Depending on the size of your business and budget, we offer a variety of SEO packages that fits your online needs. Our organic marketing packages have SEO certification and are designed to increase leads, and ultimately, generate more sales for you. No matter where your budget stands, we focus on growing visibility in organic (non-paid) search engine results both in the technical and creative elements required to improve page rankings, drive traffic, and increase awareness in search engines.
+                                    </p>
+                                    <h2>Local SEO</h2>
+                                    <p>SEO Pricing for local businesses with specific locations.  If you have a brick and mortar business or provide local services, dominating the Google Map Pack is the most cost effective marketing that you can do.</p>
 
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter.</p>
-
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis.</p>
+                                    <h3>Local SEO Pricing</h3>
+                                    <p>With the explosion of Google My Business listings dominating search results for users that are looking for a local business, Local SEO is simply the hottest advertising funnel you can implement if you want to dominate Google for searches for local businesses.
+                                    </p>
+                                    <h3>SEO for local business</h3>
+                                    <p>Ranking in the Map Pack of Google Searches is how modern companies get new business.
+                                    </p>
+                                    <div className="services-details-info">
+                                        <h3>Get Local SEO Plan</h3>
+                                        <p>Managed SEO covers all aspects of your online marketing including strategy, implementation and responsibility.  For us to provide a Managed SEO quote, we must first understand your businesses value proposition as well as review your competition.  </p>
+                                        <p>We work with our Managed SEO clients to provide an Affordable SEO Package that delivers a solid return on investment (ROI). We learn your business goals and leverage our experience to provide the most cost-effective SEO Campaign possible.</p>
+                                        <p>Ranking your website for keywords that do not convert into sales is NOT what we do. Unlike many other SEO agencies, we look at all Digital Marketing Campaigns with a holistic approach.
+                                        </p>
+                                        <p>Each custom campaign may apply Search Engine Optimization, Search Engine Marketing, Social Media Marketing, Re-marketing, Content Marketing, PPC, Local SEO, or a variety of other advertising options to achieve your long term business goals in the most cost-effective manner possible.</p>
+                                        <p>We strive to build lasting relationships with our clients and we understand the only way to do that is to deliver to your bottom line.
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
 
                             <div className="col-lg-4 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>Our Working Process</h3>
+                                    <h3>Local SEO is best for:</h3>
                                     <ul>
-                                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</li>
-                                        <li>Creative Team Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</li>
-                                        <li>Branding But I must explain to you how all this mistaken idea of denouncing.</li>
-                                        <li>Clean Code At vero eos et accusamus et iusto odio dignissimos ducimus qui.</li>
-                                        <li>UX/UI Friendly On the other hand, we denounce with righteous indignation.</li>
-                                        <li>24/7 Support There are many variations of passages of Lorem Ipsum available.</li>
+                                        <li>Urgent Care Facilities</li>
+                                        <li>Restaurants</li>
+                                        <li>Contractors</li>
+                                        <li>Dentists</li>
+                                        <li>Real Estate</li>
+                                        <li>Mini Storage</li>
+                                        <li>General Practitioners</li>
+                                        <li>Insurance Agencies</li>
                                     </ul>
                                 </div>
+                                <div className="services-details-info">
+                                    <h3>Our Local SEO Pricing Includes:</h3>
+                                    <ul>
+                                        <li>Creation and Optimization of your Google My Business Listing</li>
+                                        <li>Full Citation Audit</li>
+                                        <li>Citation Cleanup (if necessary)</li>
+                                        <li>Creation of 40+ Primary Citations</li>
+                                        <li>Creation of 60+ Secondary Citations</li>
+                                        <li>Google Map Embeds</li>
+                                        <li>Google Directions Created and Sent to Indexing Service</li>
+                                        <li>1 Press Release with GMB backlinks</li>
+                                        <li>Minimum of 3 Google Posts per Week</li>
+                                        <li>Local Authority Links</li>
+                                        <li>Tier 1 Website Backlinks</li>
+                                        <li>Claim Apple Maps</li>
+                                        <li>More Proprietary Tactics!</li>
+                                        <li>Our Local SEO Pricing is <b>
+                                            <span>
+                                                <sup>€</sup>800
+                                                <span>/month</span>
+                                            </span></b> for 9 months then <b><sup>€</sup>300 per month</b> thereafter to maintain.</li>
+                                    </ul>
+                                </div>
+
+
                             </div>
                         </div>
                     </div>

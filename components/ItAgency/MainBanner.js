@@ -24,9 +24,9 @@ class MainBanner extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
-                                        <p style={{fontSize:"30px"}}><b>IT -design och rådgivning</b></p>
+                                        <p style={{fontSize:"20px"}}><b>IT -design och rådgivning</b></p>
                                            
-                                            <h1 style={{fontSize:"50px"}}>Våra intelligenta
+                                            <h1 style={{fontSize:"30px"}}>Våra intelligenta
                                                 teknologilösningar och tjänster</h1>
 
                                             <p >Vi arbetar tillsammans med våra kunder för att bygga en övertygande produkt som ger varaktig spänning och värde för våra kunder. Vi har passionerade, kreativa och erfarna utvecklare</p>
