@@ -14,7 +14,7 @@ class ContactInfo extends Component {
                                 <h3>Email here
                                 </h3>
                                 {/* <p><a href="mailto:admin@pungent.com">admin@pungent.com</a></p> */}
-                                <p><a href="mailto:info@ecomin.se">info@ecomin.se</a></p>
+                                <p><a href="mailto:info@ecomin.online">info@ecomin.online</a></p>
                             </div>
                         </div>
 
