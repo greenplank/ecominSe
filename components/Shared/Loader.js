@@ -4,9 +4,9 @@ class Loader extends Component {
     render() {
         return (
             <>
-                <div className={`preloader ${this.props.loading ? '' : 'preloader-deactivate'}`}>
+                {/* <div className={`preloader ${this.props.loading ? '' : 'preloader-deactivate'}`}>
                     <div className="spinner"></div>
-                </div>
+                </div> */}
             </>
         );
     }
