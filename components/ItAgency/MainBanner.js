@@ -21,7 +21,7 @@ class MainBanner extends Component {
                     <div className="d-table">
                         <div className="d-table-cell">
                             <div className="container">
-                                <div className="row align-items-center">
+                                <div className="row ">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
                                             <p style={{ fontSize: "20px" }}><b>IT design and consulting
