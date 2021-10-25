@@ -21,7 +21,7 @@ class MainBanner extends Component {
                     <div className="d-table">
                         <div className="d-table-cell">
                             <div className="container">
-                                <div className="row ">
+                                <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
                                             <p style={{ fontSize: "20px" }}><b>IT design and consulting
@@ -51,7 +51,7 @@ class MainBanner extends Component {
 
                                     <div className="col-lg-6">
                                         <div className="animate-banner-image">
-                                            <img src="/images/illustration1.png" alt="Animate image" />
+                                            <img src="/images/illustration1.png" alt="Animate image" width="80%" />
                                         </div>
                                     </div>
                                 </div>
