@@ -13,7 +13,7 @@ class Contact extends Component {
                 <NavbarTwo />
 
                 <PageBanner 
-                    pageTitle="Kontakta oss" 
+                    pageTitle="Contact Us" 
                     BGImage="bg-one"
                 />  
 

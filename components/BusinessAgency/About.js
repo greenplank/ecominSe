@@ -24,8 +24,10 @@ class About extends Component {
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
-                                        <h2>Vi arbetar med mer än 2 års erfarenhet</h2>
-                                        <p>Vi gör vardagen enklare för människor och företag genom webb- och mobil utvecklingsteknik, samtidigt som vi marknadsför dem med digital marknadsföring.</p>
+                                        <h2>We work with more than 2 years of experience
+                                        </h2>
+                                        <p>We make everyday life easier for people and companies through web and mobile development technology, at the same time as we market them with digital marketing.
+                                        </p>
                                     </div>
 
 
@@ -36,19 +38,19 @@ class About extends Component {
                                                     <li>
                                                         <i className="pe-7s-check"></i>
 
-                                                        Webbdesign och utveckling
+                                                        Web design and development
                                                     </li>
                                                     <li>
                                                         <i className="pe-7s-check"></i>
-                                                        Gränssnittsdesign
+                                                        Interface design
                                                     </li>
                                                     <li>
                                                         <i className="pe-7s-check"></i>
-                                                        Expertteam
+                                                        Expert team
                                                     </li>
                                                     <li>
                                                         <i className="pe-7s-check"></i>
-                                                        Kreativitet och tydlighet.
+                                                        Creativity and clarity
                                                     </li>
                                                 </ul>
                                             </div>
@@ -59,7 +61,7 @@ class About extends Component {
                                                 <ul>
                                                     <li>
                                                         <i className="pe-7s-check"></i>
-                                                        Digital marknadsföring
+                                                        Digital marketing
                                                     </li>
                                                     <li>
                                                         <i className="pe-7s-check"></i>
@@ -67,7 +69,7 @@ class About extends Component {
                                                     </li>
                                                     <li>
                                                         <i className="pe-7s-check"></i>
-                                                        Snabb åtkomst
+                                                        Quick access
                                                     </li>
                                                 </ul>
                                             </div>

@@ -24,15 +24,18 @@ class MainBanner extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
-                                        <p style={{fontSize:"20px"}}><b>IT -design och rådgivning</b></p>
-                                           
-                                            <h1 style={{fontSize:"30px"}}>Våra intelligenta
-                                                teknologilösningar och tjänster</h1>
+                                            <p style={{ fontSize: "20px" }}><b>IT design and consulting
+                                            </b></p>
 
-                                            <p >Vi arbetar tillsammans med våra kunder för att bygga en övertygande produkt som ger varaktig spänning och värde för våra kunder. Vi har passionerade, kreativa och erfarna utvecklare</p>
+                                            <h1 style={{ fontSize: "30px" }}>Our intelligent
+                                                technology solutions and services</h1>
 
-                                            <Link href="/contact" >
-                                                <a className="btn btn-primary">Våra tjänster</a>
+                                            <p >We work together with our customers to build a convincing product that provides lasting excitement and value for our customers. We have passionate, creative and experienced developers
+                                            </p>
+
+                                            <Link href="/web-development" >
+                                                <a className="btn btn-primary">Our Services
+                                                </a>
                                             </Link>
 
                                             <Link href="/#play-video">
@@ -40,7 +43,7 @@ class MainBanner extends Component {
                                                     onClick={e => { e.preventDefault(); this.openModal() }}
                                                     className="btn btn-secondary"
                                                 >
-                                                    <i className="icofont-ui-play"></i>Kolla på video
+                                                    <i className="icofont-ui-play"></i>Watch the video
                                                 </a>
                                             </Link>
                                         </div>

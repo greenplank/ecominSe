@@ -59,54 +59,6 @@ class Partner extends Component {
                                 </a>
                             </div>
                         </div>
-
-                        {/* <div className="col-lg-2 col-6 col-sm-4">
-                            <div className="single-partner">
-                                <a href="#" target="_blank">
-                                    <img src="/images/partners/partner7.png" alt="image" />
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-2 col-6 col-sm-4">
-                            <div className="single-partner">
-                                <a href="#" target="_blank">
-                                    <img src="/images/partners/partner8.png" alt="image" />
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-2 col-6 col-sm-4">
-                            <div className="single-partner">
-                                <a href="#" target="_blank">
-                                    <img src="/images/partners/partner9.png" alt="image" />
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-2 col-6 col-sm-4">
-                            <div className="single-partner">
-                                <a href="#" target="_blank">
-                                    <img src="/images/partners/partner10.png" alt="image" />
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-2 col-6 col-sm-4">
-                            <div className="single-partner">
-                                <a href="#" target="_blank">
-                                    <img src="/images/partners/partner11.png" alt="image" />
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-2 col-6 col-sm-4">
-                            <div className="single-partner">
-                                <a href="#" target="_blank">
-                                    <img src="/images/partners/partner12.png" alt="image" />
-                                </a>
-                            </div>
-                        </div> */}
                     </div>
                 </div>
             </section>

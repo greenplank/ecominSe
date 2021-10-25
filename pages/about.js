@@ -14,7 +14,7 @@ class Aabout extends Component {
                 <NavbarTwo />
 
                 <PageBanner 
-                    pageTitle="Om oss" 
+                    pageTitle="About Us" 
                     BGImage="bg-one"
                 />  
 

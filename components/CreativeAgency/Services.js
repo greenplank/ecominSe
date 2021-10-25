@@ -8,8 +8,10 @@ class Services extends Component {
                 <div className="bg-fcfbfb ptb-100 pb-70">
                     <div className="container">
                         <div className="section-title">
-                            <h2>Vi tillhandahåller IT -tjänster</h2>
-                            <p>Kombinera strategi, innovation, teknik och design för att bygga de mest komplexa affärslösningarna.</p>
+                            <h2>We provide IT services
+                            </h2>
+                            <p>Combine strategy, innovation, technology and design to build the most complex business solutions.
+                            </p>
                         </div>
 
                         <div className="row justify-content-center">
@@ -18,10 +20,12 @@ class Services extends Component {
                                     <i className="pe-7s-comment bg-13c4a1"></i>
                                     <h3>
                                         <Link href="/service-details">
-                                            <a>Gränssnittsdesign</a>
+                                            <a>Interface design
+                                            </a>
                                         </Link>
                                     </h3>
-                                    <p>Vi är ett av de ledande webbdesignföretagen i Europa och vi bygger innovativa användargränssnitt som ger bra resultat i tid och på budget</p>
+                                    <p>We are one of the leading web design companies in Europe and we build innovative user interfaces that provide good results on time and on budget
+                                    </p>
                                 </div>
                             </div>
 
@@ -30,10 +34,12 @@ class Services extends Component {
                                     <i className="pe-7s-display2 bg-6610f2"></i>
                                     <h3>
                                         <Link href="/service-details">
-                                            <a>webbutveckling</a>
+                                            <a>web development
+                                            </a>
                                         </Link>
                                     </h3>
-                                    <p>Vårt webbutvecklingsföretag arbetar med kunder baserade över hela Europe och över hela världen.</p>
+                                    <p>Our web development company works with customers based all over Europe and all over the world.
+                                    </p>
                                 </div>
                             </div>
 
@@ -42,10 +48,12 @@ class Services extends Component {
                                     <i className="pe-7s-light bg-ffb700"></i>
                                     <h3>
                                         <Link href="/service-details">
-                                            <a>Digital marknadsföring</a>
+                                            <a>Digital marketing
+                                            </a>
                                         </Link>
                                     </h3>
-                                    <p>Vi gör digital marknadsföring för ert varumärke och företag eller era produkter och tjänster. Världen är för närvarande online</p>
+                                    <p>We do digital marketing for your brand and company or your products and services. The world is currently online
+                                    </p>
                                 </div>
                             </div>
 
@@ -54,10 +62,11 @@ class Services extends Component {
                                     <i className="pe-7s-phone bg-fc3549"></i>
                                     <h3>
                                         <Link href="/service-details">
-                                            <a>Mobilapputveckling</a>
+                                            <a>Mobile app development
+                                            </a>
                                         </Link>
                                     </h3>
-                                    <p>Mobilapplikationsmarknaden växer otroligt snabbt. Enligt Gartners förutsägelser kommer efterfrågan på mobilappsutvecklingstjänster att växa snabbare
+                                    <p>The mobile application market is growing incredibly fast. According to Gartner's predictions, demand for mobile app development services will grow faster
                                     </p>
                                 </div>
                             </div>
@@ -67,11 +76,11 @@ class Services extends Component {
                                     <i className="pe-7s-cart bg-00d280"></i>
                                     <h3>
                                         <Link href="/service-details">
-                                            <a>e -handelsutveckling
+                                            <a>E-commerce development
                                             </a>
                                         </Link>
                                     </h3>
-                                    <p>Vi svarar på olika utvecklingsbehov med expertis som sträcker sig från högpresterande infrastrukturinstallation till användarcentrerad webbdesign och ekosystemimplementering.
+                                    <p>We respond to various development needs with expertise ranging from high-performance infrastructure installation to user-centric web design and ecosystem implementation.
                                     </p>
                                 </div>
                             </div>
@@ -81,10 +90,10 @@ class Services extends Component {
                                     <i className="pe-7s-users bg-ff612f"></i>
                                     <h3>
                                         <Link href="/service-details">
-                                            <a>SEO Optimiserande</a>
+                                            <a>SEO Optimizing</a>
                                         </Link>
                                     </h3>
-                                    <p>Vi analyserar och definierar de sökord som sökes i Google relativt och är avgörande för din affärsutveckling</p>
+                                    <p>We analyze and define the keywords that are searched in Google relatively and are crucial for your business development</p>
                                 </div>
                             </div>
                         </div>

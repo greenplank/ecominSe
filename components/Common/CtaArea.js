@@ -9,9 +9,9 @@ class CtaArea extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-7 col-md-8">
                             <div className="cta-content">
-                                <h3>Har du ett projekt i åtanke?
+                                <h3>Do you have a project in mind?
                                 </h3>
-                                <p>Låt oss börja jobba
+                                <p>Let's start working
                                 </p>
                             </div>
                         </div>
@@ -19,7 +19,7 @@ class CtaArea extends Component {
                         <div className="col-lg-5 col-md-4">
                             <div className="cta-btn-box">
                                 <Link href="/contact">
-                                    <a className="btn btn-primary">Kontakta oss
+                                    <a className="btn btn-primary">Contact Us
                                     </a>
                                 </Link>
                             </div>

@@ -10,7 +10,7 @@ class About extends Component {
         isOpen: false,
     }
     openModal = () => {
-        this.setState({isOpen: true})
+        this.setState({ isOpen: true })
     }
 
     render() {
@@ -22,52 +22,24 @@ class About extends Component {
                             <div className="col-lg-5 col-md-12">
                                 <div className="about-image">
                                     <img src="/images/about21.png" alt="image" className="rounded-10" />
-
-                                    {/* <div className="video-box">
-                                        <div
-                                            onClick={e => {e.preventDefault(); this.openModal()}}
-                                            className="video-btn"
-                                        > 
-                                            <i className="pe-7s-play"></i>
-                                        </div>
-                                    </div> */}
                                 </div>
                             </div>
 
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
-                                        <h2>Exklusiv byrå för teknik som ger en lösning</h2>
-                                        <p>Vi har ett team av proffs inom IT -tjänster och managementkonsult med stor erfarenhet inom diversifierade branscher. Vi kan kunskapen om kravanalys för implementering av lösningar. Utveckling av smarta och effektiva lösningar som inte bara möter våra kunders behov utan också motiverar deras budgetar. Att bygga sådana lösningar som ger kunderna en differentierad och konkurrensfördel. Fokus för vår verksamhet bygger på kärnfilosofin "Att tillhandahålla smarta lösningar" för IT -tjänster och managementkonsult. Kundorientering, byggnad som är enkel att installera och använda, effektiva och effektiva smarta lösningar är vår högsta prioritet som ger våra kunder en konkurrensfördel för att uppnå företagstillväxt.</p>
+                                        <h2>Exclusive agency for technology that provides a solution
+                                        </h2>
+                                        <p>We have a team of professionals in IT services and management consultant with extensive experience in diversified industries. We know the knowledge of requirements analysis for implementing solutions. Development of smart and efficient solutions that not only meet our customers' needs but also motivate their budgets. To build such solutions that give customers a differentiated and competitive advantage. The focus of our business is based on the core philosophy "Providing smart solutions" for IT services and management consultant. Customer orientation, building that is easy to install and use, efficient and effective smart solutions are our highest priority that gives our customers a competitive advantage to achieve business growth.
+                                        </p>
                                     </div>
-
-                              
-
-                                    {/* <div className="about-text">
-                                        <h4>Our Mission</h4>
-                                        <ul>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            </li>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                            </li>
-                                            <li>
-                                                <i className="pe-7s-check"></i> 
-                                                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.
-                                            </li>
-                                        </ul>
-                                    </div> */}
-
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     {/* If you want to change the video need to update below videoID */}
-                    
+
                 </section>
             </>
         );

@@ -29,10 +29,13 @@ class About extends Component {
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
-                                        <h2>Om ECOMIN</h2>
-                                        <p style={{ fontSize: "20px",marginBottom:"20px" }}>Vi erbjuder flera tjänster inom webbplatsutveckling, grafisk design, digital marknadsföring och mobilapputveckling. Vi tillverkar CMS, CRM och erbjuder ERP -lösningar. Ecomin är ett dataföretag i Pakistan och även ett registrerat företag i Pakistan. Ytterligare tjänster vi tillhandahåller inkluderar webbdesign, API -utveckling, SEO Company Pakistan och iOS -apputveckling. Vi har mycket erfarna webbutvecklare som framgångsrikt har startat olika stora projekt och bevisat sin kompetens i många projekt. Vi är ansvariga för arbetet och vi försöker upprätthålla den bästa relationen med våra kunder. Som ett ledande programvaruhus i Pakistan har vi designat hundratals webbplatser, mobilappar, logotyper och ikoner för våra kunder med en unik forskningsbaserad process. Vårt mjukvaruhus sprider de bästa tjänsterna inom IT -branschen från de senaste fyra åren.</p>
+                                        <h2>About ECOMIN
+                                        </h2>
+                                        <p style={{ fontSize: "20px", marginBottom: "20px" }}>We offer several services in website development, graphic design, digital marketing and mobile app development. We manufacture CMS, CRM and offer ERP solutions. Ecomin is a computer company in Pakistan and also a registered company in Pakistan. Additional services we provide include web design, API development, SEO Company Pakistan and iOS app development. We have very experienced web developers who have successfully started various large projects and proven their competence in many projects. We are responsible for the work and we try to maintain the best relationship with our customers. As a leading software house in Pakistan, we have designed hundreds of websites, mobile apps, logos and icons for our customers with a unique research-based process. Our software house spreads the best services in the IT industry from the last four years.
+                                        </p>
                                         <Link href="/contact">
-                                            <a className="btn btn-primary">Läs mer</a>
+                                            <a className="btn btn-primary">Read more
+                                            </a>
                                         </Link>
                                     </div>
                                 </div>

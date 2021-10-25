@@ -12,7 +12,7 @@ class VideoProduktion extends Component {
                 <NavbarTwo />
 
                 <PageBanner 
-                    pageTitle="Video Produktion" 
+                    pageTitle="Video Production                    " 
                     BGImage="bg-one"
                 />  
 

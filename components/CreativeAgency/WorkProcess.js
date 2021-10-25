@@ -7,7 +7,7 @@ class WorkProcess extends Component {
                 <section className="work-process-area ptb-100">
                     <div className="container">
                         <div className="section-title">
-                            <h2>Vår arbetsprocess
+                            <h2>Our work process
                             </h2>
                             {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                         </div>
@@ -20,8 +20,8 @@ class WorkProcess extends Component {
                                     <div className="icon">
                                         <i className="pe-7s-display1"></i>
                                     </div>
-                                    <h3>Planera</h3>
-                                    <span>Visuell design
+                                    <h3>Plan</h3>
+                                    <span>Visual design
                                     </span>
                                 </div>
 
@@ -29,8 +29,8 @@ class WorkProcess extends Component {
                                     <div className="icon">
                                         <i className="pe-7s-display2"></i>
                                     </div>
-                                    <h3>Definiera</h3>
-                                    <span>Trådramar
+                                    <h3>Define</h3>
+                                    <span>Wire frames
                                     </span>
                                 </div>
 
@@ -39,7 +39,7 @@ class WorkProcess extends Component {
                                         <i className="pe-7s-airplay"></i>
                                     </div>
                                     <h3>Design</h3>
-                                    <span>Skärmflöde
+                                    <span>Screen flow
                                     </span>
                                 </div>
 
@@ -47,8 +47,8 @@ class WorkProcess extends Component {
                                     <div className="icon">
                                         <i className="pe-7s-note2"></i>
                                     </div>
-                                    <h3>Byggnad</h3>
-                                    <span>genomförande
+                                    <h3>Building</h3>
+                                    <span>implementation
                                     </span>
                                 </div>
 
@@ -56,18 +56,18 @@ class WorkProcess extends Component {
                                     <div className="icon">
                                         <i className="pe-7s-light"></i>
                                     </div>
-                                    <h3>Testning
+                                    <h3>Testing
                                     </h3>
-                                    <span>Användarforskning</span>
+                                    <span>User research</span>
                                 </div>
 
                                 <div className="single-work-process">
                                     <div className="icon">
                                         <i className="pe-7s-sun"></i>
                                     </div>
-                                    <h3>Spridning
+                                    <h3>Delpoyment
                                     </h3>
-                                    <span>Lunch/analysera
+                                    <span>Lunch / analyze
                                     </span>
                                 </div>
                             </div>

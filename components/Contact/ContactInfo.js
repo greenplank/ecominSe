@@ -11,7 +11,7 @@ class ContactInfo extends Component {
                                 <div className="icon">
                                     <i className="pe-7s-mail"></i>
                                 </div>
-                                <h3>Maila här
+                                <h3>Email here
                                 </h3>
                                 {/* <p><a href="mailto:admin@pungent.com">admin@pungent.com</a></p> */}
                                 <p><a href="mailto:info@ecomin.se">info@ecomin.se</a></p>
@@ -23,7 +23,7 @@ class ContactInfo extends Component {
                                 <div className="icon">
                                     <i className="pe-7s-map-2"></i>
                                 </div>
-                                <h3>Besök här
+                                <h3>Visit here
                                 </h3>
                                 <p>Klågarupsvägan 361 SE 212 36 Malmö Sweden</p>
                             </div>
@@ -34,7 +34,7 @@ class ContactInfo extends Component {
                                 <div className="icon">
                                     <i className="pe-7s-call"></i>
                                 </div>
-                                <h3>Ring här
+                                <h3>Call here
                                 </h3>
                                 <p><a href="0046-761734777">0046-761734777</a></p>
                                 {/* <p><a href="+2414524526">+241 452 4526</a></p> */}

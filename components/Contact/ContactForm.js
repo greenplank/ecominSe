@@ -52,9 +52,8 @@ const ContactForm = () => {
 
     return (
         <div className="contact-form">
-            <h2>Komma i kontakt
+            <h2>Get in touch
             </h2>
-
             <form onSubmit={handleSubmit}>
                 <div className="container">
                     <div className="row">
@@ -63,7 +62,7 @@ const ContactForm = () => {
                                 <input
                                     type="text"
                                     name="name"
-                                    placeholder="namn"
+                                    placeholder="name"
                                     className="form-control"
                                     value={contact.name}
                                     onChange={handleChange}
@@ -76,7 +75,7 @@ const ContactForm = () => {
                                 <input
                                     type="text"
                                     name="email"
-                                    placeholder="E-post"
+                                    placeholder="E-mail"
                                     className="form-control"
                                     value={contact.email}
                                     onChange={handleChange}
@@ -89,7 +88,7 @@ const ContactForm = () => {
                                 <input
                                     type="text"
                                     name="number"
-                                    placeholder="Telefonnummer"
+                                    placeholder="Phone number"
                                     className="form-control"
                                     value={contact.number}
                                     onChange={handleChange}
@@ -102,7 +101,7 @@ const ContactForm = () => {
                                 <input
                                     type="text"
                                     name="subject"
-                                    placeholder="Ämne"
+                                    placeholder="Subject"
                                     className="form-control"
                                     value={contact.subject}
                                     onChange={handleChange}
@@ -116,7 +115,8 @@ const ContactForm = () => {
                                     name="text"
                                     cols="30"
                                     rows="6"
-                                    placeholder="Skriv ditt meddelande..."
+                                    placeholder="Write your message
+                                    ..."
                                     className="form-control"
                                     value={contact.text}
                                     onChange={handleChange}
@@ -126,7 +126,7 @@ const ContactForm = () => {
                         </div>
                         <div className="col-lg-12 col-sm-12">
                             <button type="submit" className="btn btn-primary">
-                            Skicka meddelande
+                                Send Message
                             </button>
                         </div>
                     </div>

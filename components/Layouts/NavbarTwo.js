@@ -35,6 +35,7 @@ class NavbarTwo extends Component {
         const classTwo = collapsed ? 'navbar-toggler navbar-toggler-right collapsed' : 'navbar-toggler navbar-toggler-right';
 
         return (
+            // navbar-style-2
             <>
                 <div id="navbar" className="navbar-area navbar-style-2">
                     <nav className="navbar navbar-expand-md navbar-light">
@@ -66,7 +67,7 @@ class NavbarTwo extends Component {
                                     <li className="nav-item">
                                         <Link href="/">
                                             <a className="nav-link" activeClassName="active">
-                                                Hem
+                                                Home
                                             </a>
                                         </Link>
                                     </li>
@@ -74,7 +75,8 @@ class NavbarTwo extends Component {
                                     <li className="nav-item">
                                         <Link href="#">
                                             <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                Tjänster <i className="icofont-thin-down"></i>
+                                                Services
+                                                <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
 
@@ -123,29 +125,31 @@ class NavbarTwo extends Component {
                                                     <a className="nav-link">SEO Plan</a>
                                                 </Link>
                                             </li>
-                                            {/* <li className="nav-item">
-                                                <Link href="/VideoProduktion" activeClassName="active">
-                                                    <a className="nav-link">Video Produktion</a>
+                                            <li className="nav-item">
+                                                <Link href="/Site-Audit-Report" activeClassName="active">
+                                                    <a className="nav-link">Site Audit Reporting</a>
                                                 </Link>
-                                            </li> */}
+                                            </li>
                                         </ul>
                                     </li>
                                     <li className="nav-item">
                                         <Link href="/portfolio">
                                             <a className="nav-link">
-                                                Portfölj
+                                                Portfolio
                                             </a>
                                         </Link>
                                     </li>
 
                                     <li className="nav-item">
                                         <Link href="/about">
-                                            <a className="nav-link">Om oss</a>
+                                            <a className="nav-link">About us
+                                            </a>
                                         </Link>
                                     </li>
                                     <li className="nav-item">
                                         <Link href="/contact">
-                                            <a className="nav-link">Kontakta oss</a>
+                                            <a className="nav-link">Contact Us
+                                            </a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -153,7 +157,7 @@ class NavbarTwo extends Component {
                                 <div className="others-options">
                                     <Link href="/contact">
                                         <a className="btn btn-primary">
-                                            Få ett citat
+                                            Get a quote
                                         </a>
                                     </Link>
                                 </div>

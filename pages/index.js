@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import MainBanner from '../components/ItAgency/MainBanner';
+// import MainBanner2 from '../components/ItAgency/MainBanner2';
 import About from '../components/CreativeAgency/About';
 import Services from '../components/CreativeAgency/Services';
 import Feedback from '../components/Common/Feedback';

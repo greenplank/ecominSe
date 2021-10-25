@@ -43,7 +43,8 @@ class Feedback extends Component {
                             {...options}
                         >
                             <div className="single-feedback">
-                                <p>Sammantaget hade jag en bra upplevelse. Kommunikationen var prickig några gånger, men jag inser att mycket berodde på det</p>
+                                <p>Overall, I had a great experience. The communication was spotty a few times, but I realize that a lot was due to it
+                                </p>
 
                                 <div className="bar"></div>
 
@@ -51,7 +52,8 @@ class Feedback extends Component {
                             </div>
 
                             <div className="single-feedback">
-                                <p>Utmärkt arbete för våra sociala medier. Kreativ och professionell.</p>
+                                <p>Excellent work for our social media. Creative and professional.
+                                </p>
 
                                 <div className="bar"></div>
 
@@ -59,7 +61,8 @@ class Feedback extends Component {
                             </div>
 
                             <div className="single-feedback">
-                                <p>Utmärkt jobb och ett riktigt proffs. Hon levererade bättre värde än vi kom överens om och före deadline. Jag förstår</p>
+                                <p>Excellent job and a real professional. She delivered better value than we agreed on and before the deadline. I understand
+                                </p>
 
                                 <div className="bar"></div>
 
@@ -67,7 +70,8 @@ class Feedback extends Component {
                                 {/* <span>Angular JS Specialist</span> */}
                             </div>
                             <div className="single-feedback">
-                                <p>utmärkt service, mycket värdefull och användbar revision. Jag förväntar mig att rekommendationerna kommer att ge ett positivt resultat. jag skulle</p>
+                                <p>excellent service, very valuable and helpful audit. I expect that the recommendations will give a positive result. I would
+                                </p>
 
                                 <div className="bar"></div>
 
@@ -78,17 +82,6 @@ class Feedback extends Component {
                     </div>
                 </div>
 
-                {/* Client image */}
-                {/* <div className="client-image-box">
-                    <img src="/images/clients/client1.png" className="client1" alt="client" />
-                    <img src="/images/clients/client2.png" className="client2" alt="client" />
-                    <img src="/images/clients/client3.png" className="client3" alt="client" />
-                    <img src="/images/clients/client4.png" className="client4" alt="client" />
-                    <img src="/images/clients/client5.png" className="client5" alt="client" />
-                    <img src="/images/clients/client6.png" className="client6" alt="client" />
-                    <img src="/images/clients/client7.png" className="client7" alt="client" />
-                    <img src="/images/clients/client8.png" className="client8" alt="client" />
-                </div> */}
             </section>
         );
     }

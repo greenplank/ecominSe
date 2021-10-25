@@ -13,21 +13,21 @@ const options = {
         "<i class='pe-7s-angle-left'></i>",
         "<i class='pe-7s-angle-right'></i>"
     ],
-    responsive:{
+    responsive: {
         0: {
-            items:1,
+            items: 1,
         },
         576: {
-            items:2,
+            items: 2,
         },
         768: {
-            items:2,
+            items: 2,
         },
         1200: {
-            items:2,
+            items: 2,
         },
         1400: {
-            items:3,
+            items: 3,
         }
     }
 }
@@ -37,11 +37,11 @@ class BestServices extends Component {
 
     _isMounted = false;
     state = {
-        display:false
+        display: false
     }
-    componentDidMount(){ 
+    componentDidMount() {
         this._isMounted = true;
-        this.setState({ display: true }) 
+        this.setState({ display: true })
     }
     componentWillUnmount() {
         this._isMounted = false;
@@ -56,9 +56,11 @@ class BestServices extends Component {
                             <div className="col-lg-5 p-0">
                                 <div className="services-inner">
                                     <div className="services-section-title">
-                                        <h2>Expertis och färdigheter</h2>
+                                        <h2>Expertise and skills
+                                        </h2>
                                         <div className="bar"></div>
-                                        <p>Ecomin skapar konverteringsoptimerade användargränssnitt och användarupplevelser. Våra produktdesigner är alltid inriktade på människocentrerat designtänkande, liksom kreativa, unika och anpassade. Vi är säkra på att vi kan skapa en produkt för dig som kommer att resultera i höga konverteringar och en minnesvärd användarupplevelse.</p>
+                                        <p>Ecomin creates conversion-optimized user interfaces and user experiences. Our product designers are always focused on people-centered design thinking, as well as creative, unique and customized. We are confident that we can create a product for you that will result in high conversions and a memorable user experience.
+                                        </p>
 
                                         <img src="/images/women-with-table.png" alt="Women" />
                                     </div>
@@ -67,10 +69,10 @@ class BestServices extends Component {
 
                             <div className="col-lg-7 p-0">
                                 <div className="services-list">
-                                    {this.state.display ? <OwlCarousel 
-                                    className="services-slides owl-carousel owl-theme"
+                                    {this.state.display ? <OwlCarousel
+                                        className="services-slides owl-carousel owl-theme"
                                         {...options}
-                                    > 
+                                    >
                                         <div className="single-services">
                                             <img src="/images/services/service1.jpg" alt="image" />
 
@@ -80,7 +82,7 @@ class BestServices extends Component {
                                                 </div>
 
                                                 <h3>UX Design</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                                <p>Client-focused, creating user and customer experiences designed to have engaging user interfaces (UI) and deliver tangible business results, Ecomin helps brands navigate any and all facets of the digital landscape.</p>
 
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
@@ -97,8 +99,8 @@ class BestServices extends Component {
                                                 </div>
 
                                                 <h3>UI Design</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                                
+                                                <p>User experience design is about shaping the experience of using a product, interaction design shapes the experience between the user and the product. </p>
+
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
                                                 </Link> */}
@@ -113,9 +115,10 @@ class BestServices extends Component {
                                                     <i className="pe-7s-display1"></i>
                                                 </div>
 
-                                                <h3>Webbdesign</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                                
+                                                <h3>Web design
+                                                </h3>
+                                                <p>Ecomin is the best source of responsive website designing which means our designs respond well to Desktop, Mobile and Tablet devices.We have an wide range of designs that support perfectly multiple screens. </p>
+
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
                                                 </Link> */}
@@ -129,9 +132,10 @@ class BestServices extends Component {
                                                     <i className="pe-7s-phone"></i>
                                                 </div>
 
-                                                <h3>Mobil applikationsdesign</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                                
+                                                <h3>Mobile application design
+                                                </h3>
+                                                <p>We specialize in developing high-quality, engaging mobile applications for both Android and iOS platforms. Logo icons, themes and backgrounds, widget designs, screen transitions, animations and the overall look of the application</p>
+
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
                                                 </Link> */}
@@ -144,9 +148,10 @@ class BestServices extends Component {
                                                     <i className="pe-7s-sun"></i>
                                                 </div>
 
-                                                <h3>Visuell kommunikation</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                                
+                                                <h3>Visual communication
+                                                </h3>
+                                                <p>We envision a cohesive community in which individuals who are deaf, hearing, and those with hearing loss share equal access to information and communication.</p>
+
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
                                                 </Link> */}
@@ -160,9 +165,10 @@ class BestServices extends Component {
                                                     <i className="pe-7s-menu"></i>
                                                 </div>
 
-                                                <h3>Trådramar</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                                
+                                                <h3>Wire frames
+                                                </h3>
+                                                <p>Ecomin helps enterprises navigate any and all facets of the digital landscape, assisting with wire-framing and interactive prototyping, creating experiences that deliver tangible business results.</p>
+
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
                                                 </Link> */}
@@ -176,9 +182,9 @@ class BestServices extends Component {
                                                     <i className="pe-7s-note2"></i>
                                                 </div>
 
-                                                <h3>Prototyper</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                                
+                                                <h3>Prototypes</h3>
+                                                <p>The service prototype has the objective of replicating, as much as possible, the final experience of interacting with the service, in order to test and validate all the design choices.</p>
+
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
                                                 </Link> */}
@@ -192,9 +198,10 @@ class BestServices extends Component {
                                                     <i className="pe-7s-diamond"></i>
                                                 </div>
 
-                                                <h3>Interaktionsdesign</h3>
-                                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                                
+                                                <h3>
+                                                    Interaction design</h3>
+                                                <p>At Ecomin, we apply a full range of UI/UX services to build efficient customer retention strategies and help brands create genuine, human-centered identities that engage, excite, and build trust.</p>
+
                                                 {/* <Link href="/service-details">
                                                     <a className="read-more-btn">Read More</a>
                                                 </Link> */}

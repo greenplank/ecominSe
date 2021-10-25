@@ -7,7 +7,8 @@ class FunFactsTwo extends Component {
             <section className="funfacts-area ptb-100 bg-fcfbfb">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Vi försöker alltid förstå användarnas förväntningar
+                        <h2>We always try to understand users' expectations
+
                         </h2>
                         {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                     </div>
@@ -17,7 +18,7 @@ class FunFactsTwo extends Component {
                             <div className="funfact">
                                 <i className="icofont-checked"></i>
                                 <h3>22+</h3>
-                                <p>Avslutade projekt
+                                <p>Finished projects
                                 </p>
                             </div>
                         </div>
@@ -26,7 +27,7 @@ class FunFactsTwo extends Component {
                             <div className="funfact">
                                 <i className="icofont-ui-love"></i>
                                 <h3>8+</h3>
-                                <p>Glada kunder
+                                <p>Happy customers
                                 </p>
                             </div>
                         </div>
@@ -35,7 +36,7 @@ class FunFactsTwo extends Component {
                             <div className="funfact">
                                 <i className="icofont-tasks"></i>
                                 <h3>5+</h3>
-                                <p>Pågående projekt
+                                <p>Ongoing project
                                 </p>
                             </div>
                         </div>
@@ -50,13 +51,13 @@ class FunFactsTwo extends Component {
                     </div>
 
                     <div className="contact-cta-box">
-                        <h3>Har du några frågor om oss?
+                        <h3>Do you have any questions about us?
                         </h3>
-                        <p>Tveka inte att kontakta oss
+                        <p>Do not hesitate to contact us
                         </p>
 
                         <Link href="/contact">
-                            <a className="btn btn-primary">Kontakta oss
+                            <a className="btn btn-primary">Contact Us
                             </a>
                         </Link>
                     </div>

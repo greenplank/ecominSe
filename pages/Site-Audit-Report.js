@@ -1,26 +1,23 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import CaseStudies from '../components/StartupAgency/CaseStudies';
+import AuditDetailsContent from '../components/Services/AuditDetailsContent';
+import PricingStyleOne from '../components/Pricing/PricingStyleOne';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 
-class Portfolio extends Component {
+class SearchOptimization extends Component {
     render() {
         return (
             <>
                 <NavbarTwo />
 
-                <PageBanner
-                    pageTitle="Our portfolio"
-                    BGImage="bg-three"
-                />
+                <PageBanner 
+                    pageTitle="Site Audit Report" 
+                    BGImage="bg-one"
+                />  
 
-                <CaseStudies />
-
-                {/* <WorksStyleOne />
-
-                <WorksStyleTwo /> */}
+                <AuditDetailsContent />
 
                 <CtaAreaTwo />
 
@@ -30,4 +27,4 @@ class Portfolio extends Component {
     }
 }
 
-export default Portfolio;
+export default SearchOptimization;

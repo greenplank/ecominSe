@@ -16,12 +16,13 @@ class Footer extends Component {
                                     <div className="logo">
                                         <Link href="/">
                                             <a>
-                                                <img src="/images/EComnIN-logo.png" alt="image" />
+                                                <img src="/images/ECommerceIN.png" alt="image" />
                                             </a>
                                         </Link>
                                     </div>
 
-                                    <p>Ecomin är en mjukvaruutvecklingsorganisation som erbjuder förstklassiga tjänster till företag av alla slag.</p>
+                                    <p>Ecomin is a software development organization that offers first-class services to companies of all kinds.
+                                    </p>
 
                                     <ul className="social-links">
                                         <li>
@@ -34,24 +35,25 @@ class Footer extends Component {
                                                 <i className="icofont-linkedin"></i>
                                             </a>
                                         </li>
-                                     
+
                                     </ul>
                                 </div>
                             </div>
 
                             <div className="col-lg-3 col-md-6 col-sm-6">
                                 <div className="single-footer-widget ml-4 pl-5">
-                                    <h3>Utforska</h3>
+                                    <h3>Explore
+                                    </h3>
 
                                     <ul className="list">
                                         <li>
                                             <Link href="/">
-                                                <a>Hem</a>
+                                                <a>Home</a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/portfolio">
-                                                <a>Portfölj</a>
+                                                <a>Portfolio</a>
                                             </Link>
                                         </li>
                                         {/* <li>
@@ -65,47 +67,29 @@ class Footer extends Component {
 
                             <div className="col-lg-3 col-sm-6">
                                 <div className="single-footer-widget ml-4">
-                                    <h3>snabblänkar
+                                    <h3>Quick links
                                     </h3>
 
                                     <ul className="list">
                                         <li>
                                             <Link href="/about">
-                                                <a>Handla om</a>
+                                                <a>About Us</a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/contact">
-                                                <a>Kontakta oss</a>
+                                                <a>Contact Us
+                                                </a>
                                             </Link>
                                         </li>
-                                        {/* <li>
-                                            <Link href="/pricing">
-                                                <a>Pricing</a>
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/faq">
-                                                <a>Faq</a>
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/privacy-policy">
-                                                <a>Privacy Policy</a>
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/terms-conditions">
-                                                <a>Terms & Conditions</a>
-                                            </Link>
-                                        </li> */}
+                                       
                                     </ul>
                                 </div>
                             </div>
 
                             <div className="col-lg-3 col-sm-6">
                                 <div className="single-footer-widget">
-                                    <h3>Komma i kontakt
+                                    <h3>Get in touch
                                     </h3>
 
                                     <ul className="get-in-touch">
