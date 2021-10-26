@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Lightbox from 'react-image-lightbox';
 
 
-class ReactDetailsContent extends Component {
+class WebDetailsContent extends Component {
 
 
     render() {
@@ -179,4 +179,4 @@ class ReactDetailsContent extends Component {
     }
 }
 
-export default ReactDetailsContent;
+export default WebDetailsContent;

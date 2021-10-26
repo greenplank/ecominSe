@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 import Lightbox from 'react-image-lightbox';
-import BestServices from '../../components/StartupAgency/BestServices';
+import UXUIFeatures from './UXUIFeatures';
 
 class UXUIDetailsContent extends Component {
 
@@ -83,7 +83,7 @@ class UXUIDetailsContent extends Component {
                     </div>
                 </section>
 
-                <BestServices />
+                <UXUIFeatures />
 
                 <section className="portfolio-details ptb-110 ">
                     <div className="container">

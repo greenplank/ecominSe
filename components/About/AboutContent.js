@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import dynamic from 'next/dynamic';
-const ModalVideo = dynamic(() => import('react-modal-video'), {
-    ssr: false
-});
+
 
 class About extends Component {
 

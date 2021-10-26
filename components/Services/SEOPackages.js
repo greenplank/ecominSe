@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 
-class PricingStyleOne extends Component {
+class SEOPackages extends Component {
     render() {
         return (
             <>
@@ -229,4 +229,4 @@ class PricingStyleOne extends Component {
     }
 }
 
-export default PricingStyleOne;
+export default SEOPackages;

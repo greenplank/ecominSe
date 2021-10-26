@@ -19,8 +19,6 @@ class SocialMediaMarketing extends Component {
 
                 <SocialMediaDetailsContent />
 
-                {/* <PricingStyleOne/> */}
-
                 <CtaAreaTwo />
 
                 <Footer />

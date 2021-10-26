@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import ReactDetailsContent from '../components/Portfolio/ReactDetailsContent';
-import PricingStyle from '../components/Pricing/PricingStyle';
+import WebDetailsContent from '../components/Services/WebDetailsContent';
+import WebPackages from '../components/Services/WebPackages';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 
@@ -17,9 +17,9 @@ class WebDevelopment extends Component {
                     BGImage="bg-two"
                 />  
                 
-                <ReactDetailsContent />
+                <WebDetailsContent />
 
-                <PricingStyle/>
+                <WebPackages/>
 
                 <CtaAreaTwo />
 

@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
-import MainBanner from '../components/ItAgency/MainBanner';
-// import MainBanner2 from '../components/ItAgency/MainBanner2';
-import About from '../components/CreativeAgency/About';
-import Services from '../components/CreativeAgency/Services';
-import Feedback from '../components/Common/Feedback';
-import WorkProcess from '../components/CreativeAgency/WorkProcess';
-import FunFactsTwo from '../components/Common/FunFactsTwo';
+import MainBanner from '../components/Home/MainBanner';
+import About from '../components/Home/About';
+import Services from '../components/Home/Services';
+import Feedback from '../components/Home/Feedback';
+import WorkProcess from '../components/Home/WorkProcess';
+import FunFactsTwo from '../components/Home/FunFactsTwo';
 import CtaArea from '../components/Common/CtaArea';
 import Partner from '../components/Common/Partner';
 import Footer from '../components/Layouts/Footer';
@@ -25,17 +24,9 @@ class CreativeAgency extends Component {
 
                 <WorkProcess />
 
-                {/* <OurWorks /> */}
-
                 <Feedback /> 
 
-                {/* <PricingStyleOne />  */}
-
-                {/* <Team /> */}
-
                 <FunFactsTwo />
-
-                {/* <LatestNewsSlider /> */}
 
                 <CtaArea />
 

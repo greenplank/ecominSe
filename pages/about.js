@@ -4,7 +4,7 @@ import PageBanner from '../components/Common/PageBanner';
 import AboutContent from '../components/About/AboutContent';
 import Partner from '../components/Common/Partner';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
-import About from '../components/BusinessAgency/About';
+import About from '../components/About/About';
 import Footer from '../components/Layouts/Footer';
 
 class Aabout extends Component {
