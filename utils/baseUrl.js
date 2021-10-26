@@ -1,5 +1,5 @@
 const baseUrl = process.env.NODE_ENV === "production" 
 ? 'https://trynext-react.envytheme.com' 
-: 'http://localhost:3000';
+: 'https://www.ecomin.online/';
 
 export default baseUrl;
