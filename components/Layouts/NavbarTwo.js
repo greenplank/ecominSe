@@ -75,22 +75,12 @@ class NavbarTwo extends Component {
                                     <li className="nav-item">
                                         <Link href="#">
                                             <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                Services
+                                                Website Development
                                                 <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
 
                                         <ul className="dropdown-menu">
-                                            {/* <li className="nav-item">
-                                                <Link href="/magento-developer" activeClassName="active">
-                                                    <a className="nav-link">Magento Development</a>
-                                                </Link>
-                                            </li>
-                                            <li className="nav-item">
-                                                <Link href="/react-developer" activeClassName="active">
-                                                    <a className="nav-link">ReactJs Development</a>
-                                                </Link>
-                                            </li> */}
                                             <li className="nav-item">
                                                 <Link href="/web-development" activeClassName="active">
                                                     <a className="nav-link">Web Development</a>
