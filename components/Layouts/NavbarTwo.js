@@ -99,25 +99,66 @@ class NavbarTwo extends Component {
                                         </ul>
                                     </li>
                                     <li className="nav-item">
+                                        <Link href="#">
+                                            <a className="nav-link" onClick={e => e.preventDefault()}>
+                                                E-Commerce
+                                                <i className="icofont-thin-down"></i>
+                                            </a>
+                                        </Link>
+
+                                        <ul className="dropdown-menu">
+                                            {/* <li className="nav-item">
+                                                <Link href="/web-development" activeClassName="active">
+                                                    <a className="nav-link">Magento</a>
+                                                </Link>
+                                            </li> */}
+                                            <li className="nav-item">
+                                                <Link href="/WooCommerce" activeClassName="active">
+                                                    <a className="nav-link">WooCommerce</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/Shopify" activeClassName="active">
+                                                    <a className="nav-link">Shopify</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/BigCommerce" activeClassName="active">
+                                                    <a className="nav-link">BigCommerce</a>
+                                                </Link>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li className="nav-item">
                                         <Link href="#" onClick={e => e.preventDefault()}>
                                             <a className="nav-link">
                                                 Digital Marketing<i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
                                         <ul className="dropdown-menu">
+                                        <li className="nav-item">
+                                                <Link href="/Search-Engine-Optimization" activeClassName="active">
+                                                    <a className="nav-link">SEO Services</a>
+                                                </Link>
+                                            </li>
                                             <li className="nav-item">
                                                 <Link href="/Social-Media-Marketing" activeClassName="active">
                                                     <a className="nav-link">Social Media Marketing</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/Search-Engine-Optimization" activeClassName="active">
-                                                    <a className="nav-link">SEO Plan</a>
+                                                <Link href="/Site-Audit-Report" activeClassName="active">
+                                                    <a className="nav-link">Site Audit Reporting</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/Site-Audit-Report" activeClassName="active">
-                                                    <a className="nav-link">Site Audit Reporting</a>
+                                                <Link href="/PaidMarketing" activeClassName="active">
+                                                    <a className="nav-link">Paid Marketing-PPC</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/ContentStrategy" activeClassName="active">
+                                                    <a className="nav-link">Content Strategy & Writing</a>
                                                 </Link>
                                             </li>
                                         </ul>

@@ -1,25 +1,23 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import SocialMediaDetailsContent from '../components/Services/SocialMediaDetailsContent';
-import SocialMediaDetailsContent1 from '../components/Services/SocialMediaDetailsContent1';
+import BigCommerceDetailsContent from '../components/Services/BigCommerceDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 
-class SocialMediaMarketing extends Component {
+class BigCommerce extends Component {
     render() {
         return (
             <>
                 <NavbarTwo />
 
                 <PageBanner 
-                    pageTitle="Social Media Marketing" 
+                    pageTitle="BigCommerce Development" 
                     BGImage="bg-one"
                 />  
 
-                <SocialMediaDetailsContent />
-
-                <SocialMediaDetailsContent1/>
+                <BigCommerceDetailsContent/>           
+ 
 
                 <CtaAreaTwo />
 
@@ -29,4 +27,4 @@ class SocialMediaMarketing extends Component {
     }
 }
 
-export default SocialMediaMarketing;
+export default BigCommerce;

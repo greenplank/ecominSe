@@ -1,25 +1,22 @@
 import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
-import SocialMediaDetailsContent from '../components/Services/SocialMediaDetailsContent';
-import SocialMediaDetailsContent1 from '../components/Services/SocialMediaDetailsContent1';
+import ContentWritingDetailsContent from '../components/Services/ContentWritingDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 
-class SocialMediaMarketing extends Component {
+class ContentStrategy extends Component {
     render() {
         return (
             <>
                 <NavbarTwo />
 
                 <PageBanner 
-                    pageTitle="Social Media Marketing" 
+                    pageTitle="Content Strategy & Writing" 
                     BGImage="bg-one"
                 />  
 
-                <SocialMediaDetailsContent />
-
-                <SocialMediaDetailsContent1/>
+                <ContentWritingDetailsContent />
 
                 <CtaAreaTwo />
 
@@ -29,4 +26,4 @@ class SocialMediaMarketing extends Component {
     }
 }
 
-export default SocialMediaMarketing;
+export default ContentStrategy;

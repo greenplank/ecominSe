@@ -3,6 +3,7 @@ import NavbarTwo from '../components/Layouts/NavbarTwo';
 import MainBanner from '../components/Home/MainBanner';
 import About from '../components/Home/About';
 import Services from '../components/Home/Services';
+import ChooseEcomin from '../components/Home/ChooseEcomin';
 import Feedback from '../components/Home/Feedback';
 import WorkProcess from '../components/Home/WorkProcess';
 import FunFactsTwo from '../components/Home/FunFactsTwo';
@@ -21,6 +22,8 @@ class CreativeAgency extends Component {
                 <About />
 
                 <Services />
+
+                <ChooseEcomin/>
 
                 <WorkProcess />
 
