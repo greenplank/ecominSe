@@ -10,7 +10,7 @@ class ChooseEcomin extends Component {
                             <div className="col-lg-6">
                                 <div className="service-info pr-50">
                                     <div className="info-head">
-                                        <h2 className="title">Why Choose EComIN?</h2>
+                                        <h2 className="title">Why Choose EcomIN AB?</h2>
                                         <p>Our talented team of BigCommerce developers have one, overarching goal: Be a part of your success story!</p>
                                         <p>In order to do this, we must hold ourselves to the highest standards of quality. Here is what we bring to the table:</p>
                                         <p>Dedicated and Experienced Team of BigCommerce Developers.

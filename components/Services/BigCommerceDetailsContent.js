@@ -23,7 +23,7 @@ class SEODetailsContent extends Component {
                                     <h2>BigCommerce Development, Design, Marketing and SEO </h2>
                                     <p>With a trusted BigCommerce store designer.
                                     </p>
-                                    <p>EComIN is an experienced website development agency specialising in developing powerful, custom-tailored BigCommerce e-commerce stores that are both unique and beautiful. Off the shelf BigCommerce templates are good enough for some people, but not you; you’re better than that and we know it. That’s why we’re going to work with you to find the absolute best way to translate your idea, business, products, and brand, into a lean, mean, selling machine.
+                                    <p>EcomIN AB is an experienced website development agency specialising in developing powerful, custom-tailored BigCommerce e-commerce stores that are both unique and beautiful. Off the shelf BigCommerce templates are good enough for some people, but not you; you’re better than that and we know it. That’s why we’re going to work with you to find the absolute best way to translate your idea, business, products, and brand, into a lean, mean, selling machine.
                                     </p>
                                     <h2>Why BigCommerce? </h2>
                                     <p>Every e-commerce store has its own unique set of quirks and nuances. </p>

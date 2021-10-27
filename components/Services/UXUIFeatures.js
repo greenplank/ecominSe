@@ -59,7 +59,7 @@ class BestServices extends Component {
                                         <h2>Expertise and skills
                                         </h2>
                                         <div className="bar"></div>
-                                        <p>Ecomin creates conversion-optimized user interfaces and user experiences. Our product designers are always focused on people-centered design thinking, as well as creative, unique and customized. We are confident that we can create a product for you that will result in high conversions and a memorable user experience.
+                                        <p>EcomIN AB creates conversion-optimized user interfaces and user experiences. Our product designers are always focused on people-centered design thinking, as well as creative, unique and customized. We are confident that we can create a product for you that will result in high conversions and a memorable user experience.
                                         </p>
 
                                         <img src="/images/women-with-table.png" alt="Women" />
