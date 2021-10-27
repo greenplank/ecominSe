@@ -24,9 +24,9 @@ class About extends Component {
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
-                                        <h2>We work with more than 2 years of experience
+                                        <h2>How we work?
                                         </h2>
-                                        <p>We make everyday life easier for people and companies through web and mobile development technology, at the same time as we market them with digital marketing.
+                                        <p>Team of WordPress developers analysing new project
                                         </p>
                                     </div>
 
@@ -36,21 +36,16 @@ class About extends Component {
                                             <div className="about-text mb-30">
                                                 <ul>
                                                     <li>
-                                                        <i className="pe-7s-check"></i>
-
-                                                        Web design and development
+                                                        <h4>1. Analysis</h4>
+                                                        <p>Let’s meet: online or in-person and discuss your ideas and needs.<br /> Deadline marked on a calendar</p>
                                                     </li>
                                                     <li>
-                                                        <i className="pe-7s-check"></i>
-                                                        Interface design
+                                                    <h4>2. Estimation</h4>
+                                                    <p>Based on all the gathered information we will prepare a detailed timeline for the project. You will know the costs right away. <br /> Custom WordPress theme code displayed on a screen</p>
                                                     </li>
                                                     <li>
-                                                        <i className="pe-7s-check"></i>
-                                                        Expert team
-                                                    </li>
-                                                    <li>
-                                                        <i className="pe-7s-check"></i>
-                                                        Creativity and clarity
+                                                    <h4>3. Development</h4>
+                                                    <p>Our work begins. Our developers turn your designs and vision into quality code. <br/> Testing your website on different devices</p>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -60,16 +55,12 @@ class About extends Component {
                                             <div className="about-text mb-30">
                                                 <ul>
                                                     <li>
-                                                        <i className="pe-7s-check"></i>
-                                                        Digital marketing
+                                                        <h4>4. Quality assurance</h4>
+                                                        <p>One of the final stages of the process. We make sure your code is completely bug- free. <br /> Race start</p>
                                                     </li>
                                                     <li>
-                                                        <i className="pe-7s-check"></i>
-                                                        Online support
-                                                    </li>
-                                                    <li>
-                                                        <i className="pe-7s-check"></i>
-                                                        Quick access
+                                                        <h4>5. Implementation</h4>
+                                                        <p>We install the product on servers of your choosing. Do you need hosting services? We got you covered. </p>
                                                     </li>
                                                 </ul>
                                             </div>

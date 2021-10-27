@@ -26,10 +26,31 @@ class About extends Component {
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
-                                        <h2>Exclusive agency for technology that provides a solution
+                                        <h2>Our story
                                         </h2>
-                                        <p>We have a team of professionals in IT services and management consultant with extensive experience in diversified industries. We know the knowledge of requirements analysis for implementing solutions. Development of smart and efficient solutions that not only meet our customers' needs but also motivate their budgets. To build such solutions that give customers a differentiated and competitive advantage. The focus of our business is based on the core philosophy "Providing smart solutions" for IT services and management consultant. Customer orientation, building that is easy to install and use, efficient and effective smart solutions are our highest priority that gives our customers a competitive advantage to achieve business growth.
+                                        <p>30+
+                                            size of our team
                                         </p>
+                                        <ul>
+                                            <li><b>5 years+ </b>
+                                                average developer experience
+                                            </li>
+                                            <li><b>300+ </b>
+                                                WordPress projects completed
+                                            </li>
+                                            <li><b>380 000+  </b>
+                                            hours spent on projects 
+                                            </li>
+                                            <li><b>15+ </b>
+                                            strategic partnerships with digital agencies 
+                                            </li>
+                                            <li><b>90% </b>
+                                            clients recommend working with us 
+                                            </li>
+                                            <li><b>95% </b>
+                                            projects finished on time 
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>

@@ -46,21 +46,39 @@ class Footer extends Component {
                                     </h3>
 
                                     <ul className="list">
+
+
                                         <li>
-                                            <Link href="/">
-                                                <a>Home</a>
+                                            <Link href="/web-development">
+                                                <a>Web Development</a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/portfolio">
-                                                <a>Portfolio</a>
+                                            <Link href="/ux-ui-design">
+                                                <a>UX/UI Design</a>
                                             </Link>
                                         </li>
-                                        {/* <li>
-                                            <Link href="/team">
-                                                <a>Team</a>
+                                        
+                                        <li>
+                                            <Link href="/Search-Engine-Optimization">
+                                                <a>SEO Services</a>
                                             </Link>
-                                        </li> */}
+                                        </li>
+                                        <li>
+                                            <Link href="/Social-Media-Marketing">
+                                                <a>Social Media Marketing</a>
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/PaidMarketing">
+                                                <a>Paid Marketing-PPC</a>
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/Site-Audit-Report">
+                                                <a>Site Audit Reporting</a>
+                                            </Link>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -72,6 +90,21 @@ class Footer extends Component {
 
                                     <ul className="list">
                                         <li>
+                                            <Link href="/">
+                                                <a>Home</a>
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/portfolio">
+                                                <a>Portfolio</a>
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/Faqs">
+                                                <a>Faqs</a>
+                                            </Link>
+                                        </li>
+                                        <li>
                                             <Link href="/about">
                                                 <a>About Us</a>
                                             </Link>
@@ -82,7 +115,8 @@ class Footer extends Component {
                                                 </a>
                                             </Link>
                                         </li>
-                                       
+
+
                                     </ul>
                                 </div>
                             </div>

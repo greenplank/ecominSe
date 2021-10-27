@@ -71,6 +71,13 @@ class NavbarTwo extends Component {
                                             </a>
                                         </Link>
                                     </li>
+                                    {/* <li className="nav-item">
+                                        <Link href="/PlatformMigration">
+                                            <a className="nav-link" activeClassName="active">
+                                            Platform Migration
+                                            </a>
+                                        </Link>
+                                    </li> */}
 
                                     <li className="nav-item">
                                         <Link href="#">
@@ -86,14 +93,14 @@ class NavbarTwo extends Component {
                                                     <a className="nav-link">Web Development</a>
                                                 </Link>
                                             </li>
-                                            {/* <li className="nav-item">
-                                                <Link href="/WordpressDevelopment" activeClassName="active">
-                                                    <a className="nav-link">Wordpress Development</a>
-                                                </Link>
-                                            </li> */}
                                             <li className="nav-item">
                                                 <Link href="/ux-ui-design" activeClassName="active">
                                                     <a className="nav-link">UX/UI Designing</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/PlatformMigration" activeClassName="active">
+                                                    <a className="nav-link">Platform Migration</a>
                                                 </Link>
                                             </li>
                                         </ul>

@@ -18,75 +18,63 @@ class ContentWritingDetailsContent extends Component {
                                 </div>
                             </div> */}
 
-                            <div className="col-lg-8 col-md-12">
+                            <div className="col-lg-12 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>GET DISCOVERED WITH SEARCH ENGINE OPTIMIZATION</h2>
-                                    <p>An established web presence can skyrocket your online success, but it requires one critical component - visibility. If your website isn't highly visible, you will struggle to find success. eComIN, a well-known digital marketing agency believes that a key component of creating great online visibility is search engine optimization. Our custom SEO services cover all the bases of optimization to make sure that your site is always visible to potential customers.
+                                    <h2>Professional Content Writing Services for Better Results </h2>
+                                    <p>It doesn’t matter whether you have an entire website or one business profile to write up; eComIN can help you with all your creative writing needs. It is no surprise that compelling content can go a long way. Our web content writing services can help you construct a stellar article, press release, blog post or website content to get your audience reading. The power of words can have a huge impact on the success of your writing so it needs to be done correctly. Whether your content needs to be written for search engine readers or human beings there are certain steps that are required.
+                                    </p>
+                                    <h3>Article & Website Content Writers for Hire </h3>
+                                    <p>Professional Website Content Writers for Every Niche and Project
+                                        Our content writers are industry experts vetted for your convenience. You’ll no longer need to spend your time filtering applicants. We remove the hassle by assigning the content writer best suited to work on your brand’s projects. If you need specific edits or revisions to your content, you can chat with your writers through the messaging system inside our platform. Or, you can always contact your account manager to request revisions if you’re a Managed Service client.
                                     </p>
 
-                                    <p>Depending on the size of your business and budget, we offer a variety of SEO packages that fits your online needs. Our organic marketing packages have SEO certification and are designed to increase leads, and ultimately, generate more sales for you. No matter where your budget stands, we focus on growing visibility in organic (non-paid) search engine results both in the technical and creative elements required to improve page rankings, drive traffic, and increase awareness in search engines.
+                                    <h3>SEO-Friendly Content Writing </h3>
+                                    <p>Our qualified content writers deliver unique, top-notch content that’s optimised for search. Whether you need a website landing page, blog post, or other types of content, we always follow SEO best practices. This ensures your site’s content will outperform the competition. We know SEO is constantly in flux. That’s why we make it a priority to adapt to new algorithm updates from search engines like Google.
                                     </p>
-                                    <h2>Local SEO</h2>
-                                    <p>SEO Pricing for local businesses with specific locations.  If you have a brick and mortar business or provide local services, dominating the Google Map Pack is the most cost effective marketing that you can do.</p>
-
-                                    <h3>Local SEO Pricing</h3>
-                                    <p>With the explosion of Google My Business listings dominating search results for users that are looking for a local business, Local SEO is simply the hottest advertising funnel you can implement if you want to dominate Google for searches for local businesses.
+                                    <h3>Scalable Website Content Creation </h3>
+                                    <p>Order as little or as much content as you need for your website using our premium SEO writing service. We’ll work with you to get your content marketing vision right, so you can focus on managing other parts of your business. It’s what makes Compose.ly the best article writing service online for any growing company. Our platform is an efficient and cost-effective solution for building out your content.
                                     </p>
-                                    <h3>SEO for local business</h3>
-                                    <p>Ranking in the Map Pack of Google Searches is how modern companies get new business.
-                                    </p>
-                                    <div className="services-details-info">
-                                        <h3>Get Local SEO Plan</h3>
-                                        <p>Managed SEO covers all aspects of your online marketing including strategy, implementation and responsibility.  For us to provide a Managed SEO quote, we must first understand your businesses value proposition as well as review your competition.  </p>
-                                        <p>We work with our Managed SEO clients to provide an Affordable SEO Package that delivers a solid return on investment (ROI). We learn your business goals and leverage our experience to provide the most cost-effective SEO Campaign possible.</p>
-                                        <p>Ranking your website for keywords that do not convert into sales is NOT what we do. Unlike many other SEO agencies, we look at all Digital Marketing Campaigns with a holistic approach.
-                                        </p>
-                                        <p>Each custom campaign may apply Search Engine Optimization, Search Engine Marketing, Social Media Marketing, Re-marketing, Content Marketing, PPC, Local SEO, or a variety of other advertising options to achieve your long term business goals in the most cost-effective manner possible.</p>
-                                        <p>We strive to build lasting relationships with our clients and we understand the only way to do that is to deliver to your bottom line.
-                                        </p>
-                                    </div>
+                                    <h4 className="pt-4"><em>Content makes the web go round. Make sure your content marketing strategy is a winning one. </em></h4>
                                 </div>
                             </div>
 
-                            <div className="col-lg-4 col-md-12">
+                            <div className="col-lg-12 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>Local SEO is best for:</h3>
+                                    <h3>Writing Services for All Types of Content </h3>
                                     <ul>
-                                        <li>Urgent Care Facilities</li>
-                                        <li>Restaurants</li>
-                                        <li>Contractors</li>
-                                        <li>Dentists</li>
-                                        <li>Real Estate</li>
-                                        <li>Mini Storage</li>
-                                        <li>General Practitioners</li>
-                                        <li>Insurance Agencies</li>
+                                        <li>Website Copy Writing
+                                            Website content could just be the “make or break” when it comes to website conversions. Compelling website content could take your website above and beyond the competition which is why it’s a very important area of focus when marketing a website. Our website content writing services will make sure to keep your audience glued to your website. We can help you take your content to a whole new level by getting your website visitors eyes popping and senses tingling.
+                                        </li>
+                                        <li>Your website content is usually the last area a potential client or customer reads before they decide to pull the trigger on anything. Don’t resort to sub par content just to fill the page. Rather think about how your content will stimulate your reader to take things to the next step. </li>
+                                        <li><b>Blog Posts: </b>A strategic blog content marketing strategy will boost your company profile and increase your website’s traffic. Hire a blog post writer to transform your company’s blog into a hub of expertly crafted, informative blog posts for your customers. </li>
+                                        <li><b>SEO Content: </b>Proper search engine optimisation (SEO) can mean the difference between a steady, ongoing stream of traffic to your brand’s website and none at all. Our SEO content writers know exactly how to create optimised articles to enhance your business’s visibility on the web. </li>
+                                        <li><b>Press Releases: </b>What better way to grab the attention of media outlets than with a press release? Our expert press release writers will help create buzz around a product or development from your company. </li>
+                                        <li><b>Article Writing Services: </b>If you want to position yourself as an expert in your industry our space writing articles is one of the most effective ways to accomplish this task. With a dash of search engine optimisation, a sprinkle of personality and hint of professional quality writing, your article could pull in the attention that your business is looking for. </li>
+                                        <li><b>Ebooks: </b>Want to enhance your brand’s authority with an e-book? By diving into a topic related to your industry, e-books are useful resources for all businesses, small and large. But writing an e-book is a major undertaking. Let us do the heavy lifting and write a piece
+                                            of long-form content for your industry.
+                                        </li>
+                                        <li><b>White Papers: </b>A well-written white paper can influence the opinions of customers and thought leaders. By clarifying issues or uses of certain products, white papers are great resources for any business. The eComIN team has the writing experience to produce industry-leading content that will add value to your brand. </li>
+                                        <li><b>Newsletters & Email Marketing Copy: </b>Research shows that email is still one of the most effective forms of content marketing. It works for businesses of all sizes and industries. But email marketing depends on high-quality content writing. Our content services provide the help you need to start growing your business online. </li>
+                                        <li><b>Writer Specialisation: </b>Our writers specialise in a range of categories, providing tailored content for your industry.
+                                            <ul>
+                                                <li>Travel And Lifestyle</li>
+                                                <li>Tech And Internet</li>
+                                                <li>Consumer Products</li>
+                                                <li>Food And Beverage</li>
+                                                <li>Sports Gaming And Fitness Design And Architecture</li>
+                                                <li>Medical And Healthcare</li>
+                                                <li>Finance Business And Real Estate </li>
+                                                <li>Fashion</li>
+                                                <li>Legal Government And Nonprofits</li>
+                                                <li>Manufacturing</li>
+                                                <li>Fashion Music And Entertainment </li>
+                                                <li>Science And Technology</li>
+                                                <li>Religion, Spirituality, And Philosophy Education And Daycare</li>
+                                                <li>Services And Online Services</li>
+                                                <li>Sales And Marketing </li>
+                                            </ul></li>
                                     </ul>
                                 </div>
-                                <div className="services-details-info">
-                                    <h3>Our Local SEO Pricing Includes:</h3>
-                                    <ul>
-                                        <li>Creation and Optimization of your Google My Business Listing</li>
-                                        <li>Full Citation Audit</li>
-                                        <li>Citation Cleanup (if necessary)</li>
-                                        <li>Creation of 40+ Primary Citations</li>
-                                        <li>Creation of 60+ Secondary Citations</li>
-                                        <li>Google Map Embeds</li>
-                                        <li>Google Directions Created and Sent to Indexing Service</li>
-                                        <li>1 Press Release with GMB backlinks</li>
-                                        <li>Minimum of 3 Google Posts per Week</li>
-                                        <li>Local Authority Links</li>
-                                        <li>Tier 1 Website Backlinks</li>
-                                        <li>Claim Apple Maps</li>
-                                        <li>More Proprietary Tactics!</li>
-                                        <li>Our Local SEO Pricing is <b>
-                                            <span>
-                                                <sup>€</sup>800
-                                                <span>/month</span>
-                                            </span></b> for 9 months then <b><sup>€</sup>300 per month</b> thereafter to maintain.</li>
-                                    </ul>
-                                </div>
-
-
                             </div>
                         </div>
                     </div>
