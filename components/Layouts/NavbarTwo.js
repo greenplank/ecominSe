@@ -42,8 +42,10 @@ class NavbarTwo extends Component {
                         <div className="container-fluid">
                             <Link href="/">
                                 <a className="navbar-brand">
-                                    <img src="/images/ECommerceIN-06.png" className="black-logo" alt="logo" />
-                                    <img src="/images/ECommerceIN-07.png" className="white-logo" alt="logo" />
+                                    {/* <img src="/images/ECommerceIN-06.png" className="black-logo" alt="logo" />
+                                    <img src="/images/ECommerceIN-07.png" className="white-logo" alt="logo" /> */}
+                                    <img src="/images/ECommerceIN copy-01.png" className="black-logo" alt="logo" />
+                                    <img src="/images/ECommerceIN copy-02.png" className="white-logo" alt="logo" />
                                 </a>
                             </Link>
 
@@ -78,7 +80,13 @@ class NavbarTwo extends Component {
                                             </a>
                                         </Link>
                                     </li> */}
-
+                                    <li className="nav-item">
+                                        <Link href="/App-Development">
+                                            <a className="nav-link">
+                                                App Development
+                                            </a>
+                                        </Link>
+                                    </li>
                                     <li className="nav-item">
                                         <Link href="#">
                                             <a className="nav-link" onClick={e => e.preventDefault()}>
@@ -94,6 +102,11 @@ class NavbarTwo extends Component {
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
+                                                <Link href="/React-Next-Development" activeClassName="active">
+                                                    <a className="nav-link">React&NextJs Development</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
                                                 <Link href="/ux-ui-design" activeClassName="active">
                                                     <a className="nav-link">UX/UI Designing</a>
                                                 </Link>
@@ -101,6 +114,21 @@ class NavbarTwo extends Component {
                                             <li className="nav-item">
                                                 <Link href="/PlatformMigration" activeClassName="active">
                                                     <a className="nav-link">Platform Migration</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/CloudHosting" activeClassName="active">
+                                                    <a className="nav-link">Cloud Hosting</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/CyberSecurity" activeClassName="active">
+                                                    <a className="nav-link">Cyber Security</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/SoftwareQATesting" activeClassName="active">
+                                                    <a className="nav-link">Software QA Testing</a>
                                                 </Link>
                                             </li>
                                         </ul>
@@ -114,11 +142,11 @@ class NavbarTwo extends Component {
                                         </Link>
 
                                         <ul className="dropdown-menu">
-                                            {/* <li className="nav-item">
-                                                <Link href="/web-development" activeClassName="active">
-                                                    <a className="nav-link">Magento</a>
+                                            <li className="nav-item">
+                                                <Link href="/Magento-Development" activeClassName="active">
+                                                    <a className="nav-link">Magento Development</a>
                                                 </Link>
-                                            </li> */}
+                                            </li>
                                             <li className="nav-item">
                                                 <Link href="/WooCommerce" activeClassName="active">
                                                     <a className="nav-link">WooCommerce</a>
@@ -143,7 +171,7 @@ class NavbarTwo extends Component {
                                             </a>
                                         </Link>
                                         <ul className="dropdown-menu">
-                                        <li className="nav-item">
+                                            <li className="nav-item">
                                                 <Link href="/Search-Engine-Optimization" activeClassName="active">
                                                     <a className="nav-link">SEO Services</a>
                                                 </Link>

@@ -16,7 +16,8 @@ class Footer extends Component {
                                     <div className="logo">
                                         <Link href="/">
                                             <a>
-                                                <img src="/images/ECommerceIN-06.png" alt="image" />
+                                                {/* <img src="/images/ECommerceIN-06.png" alt="image" /> */}
+                                                <img src="/images/ECommerceIN copy-01.png" alt="image" />
                                             </a>
                                         </Link>
                                     </div>
@@ -135,8 +136,8 @@ class Footer extends Component {
                                         </li>
                                         <li>
                                             <i className="icofont-envelope"></i>
-                                            <a href="mailto:info@ecomin.online">
-                                                info@ecomin.online</a>
+                                            <a href="mailto:info@ecomin.se">
+                                                info@ecomin.se</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -146,7 +147,7 @@ class Footer extends Component {
 
                     <div className="copyright-area">
                         <div className="container">
-                            <p>Copyright &copy; {currentYear} Ecomin. All Rights Reserved By <a href="https://ecomin.se" target="_blank">Ecomin</a></p>
+                            <p>Copyright &copy; {currentYear} Ecomin. All Rights Reserved By <a href="https://ecomin.se" target="_blank">Ecomin</a>&<a href="/GDPR" target="_blank">GDPR</a></p>
                         </div>
                     </div>
                 </footer>
