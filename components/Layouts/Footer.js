@@ -24,12 +24,14 @@ class Footer extends Component {
 
                                     <p>Ecomin is a software development organization that offers first-class services to companies of all kinds.
                                     </p>
+                                    <ul className="list">
                                     <li>
                                         <Link href="/GDPR">
                                             <a>GDPR
                                             </a>
                                         </Link>
                                     </li>
+                                    </ul>
                                     <ul className="social-links">
                                         <li>
                                             <a href="https://www.facebook.com/ecominse/" target="_blank">
