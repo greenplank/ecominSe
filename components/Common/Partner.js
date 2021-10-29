@@ -20,13 +20,13 @@ class Partner extends Component {
                             </div>
                         </div>
 
-                        <div className="col-lg-2 col-6 col-sm-4">
+                        {/* <div className="col-lg-2 col-6 col-sm-4">
                             <div className="single-partner">
                                 <a href="#" target="_blank">
                                     <img src="/images/partners/partner-2.png" alt="image" />
                                 </a>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="col-lg-2 col-6 col-sm-4">
                             <div className="single-partner">
