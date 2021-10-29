@@ -116,6 +116,12 @@ class Footer extends Component {
                                                 </a>
                                             </Link>
                                         </li>
+                                        <li>
+                                            <Link href="/GDPR">
+                                                <a>GDPR
+                                                </a>
+                                            </Link>
+                                        </li>
 
 
                                     </ul>
@@ -147,7 +153,7 @@ class Footer extends Component {
 
                     <div className="copyright-area">
                         <div className="container">
-                            <p>Copyright &copy; {currentYear} Ecomin. All Rights Reserved By <a href="https://ecomin.se" target="_blank">Ecomin</a>&<a href="/GDPR" target="_blank">GDPR</a></p>
+                            <p>Copyright &copy; {currentYear} Ecomin. All Rights Reserved By <a href="https://ecomin.se" target="_blank">Ecomin</a></p>
                         </div>
                     </div>
                 </footer>
