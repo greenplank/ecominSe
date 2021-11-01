@@ -9,25 +9,33 @@ import WorkProcess from '../components/Home/WorkProcess';
 import FunFactsTwo from '../components/Home/FunFactsTwo';
 import CtaArea from '../components/Common/CtaArea';
 import Partner from '../components/Common/Partner';
+import Head from "next/head";
 import Footer from '../components/Layouts/Footer';
 
 class CreativeAgency extends Component {
     render() {
         return (
             <>
+                <Head>
+                    <meta name="google-site-verification" content="A_wzV5qMXCsTb1vFJKSlCRfMspRIrcbz0jdONJhxwLw" />
+                    <meta name="robots" content="INDEX,FOLLOW" />
+                    <meta name="title" content="Ecomin – Ecomerce & IT Services | Consulting | Business Solutions" />
+                    <meta name="description" content="Ecomin is the best Ecommerce Solution Provider that offers the best eCommerce Development Services and Solutions to small businesses & companies." />
+                </Head>
+
                 <NavbarTwo />
 
                 <MainBanner />
-                
+
                 <About />
 
                 <Services />
 
-                <ChooseEcomin/>
+                <ChooseEcomin />
 
                 <WorkProcess />
 
-                <Feedback /> 
+                <Feedback />
 
                 <FunFactsTwo />
 
