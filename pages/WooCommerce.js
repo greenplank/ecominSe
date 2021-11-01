@@ -2,22 +2,29 @@ import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
 import WooCommerceDetailsContent from '../components/Services/WooCommerceDetailsContent';
-import SEOPackages from '../components/Services/SEOPackages';
-import CtaAreaTwo from '../components/Common/CtaAreaTwo';
+// import SEOPackages from '../components/Services/SEOPackages';
+// import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
+import Head from "next/head";
 
 class WooCommerce extends Component {
     render() {
         return (
             <>
+
+                <Head>
+                    <meta name="title" content="Custom Woocommerce development services - EcomIN" />
+                    <meta name="description" content="EcomIN is a custom WooCommerce website development agency. We design and build user-friendly online stores with many powerful features." />
+                </Head>
+
                 <NavbarTwo />
 
-                <PageBanner 
-                    pageTitle="WooCommerce Development" 
+                <PageBanner
+                    pageTitle="WooCommerce Development"
                     BGImage="bg-one"
-                />  
+                />
 
-                <WooCommerceDetailsContent/>
+                <WooCommerceDetailsContent />
 
                 <Footer />
             </>
