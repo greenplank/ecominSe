@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import NavbarTwo from '../components/Layouts/NavbarTwo';
 import PageBanner from '../components/Common/PageBanner';
 import CustomContentDetailsContent from '../components/Services/CustomContentDetailsContent';
-import WebPackages from '../components/Services/WebPackages';
+import CustomContentPackages from '../components/Services/CustomContentPackages';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 import Head from "next/head";
@@ -22,10 +22,11 @@ class WebDevelopment extends Component {
                     pageTitle="Custom Content Boost All in one "
                     BGImage="bg-two"
                 />
+                <CustomContentPackages />
 
                 <CustomContentDetailsContent />
 
-                <WebPackages />
+                
 
                 <CtaAreaTwo />
 
