@@ -29,11 +29,21 @@ class About extends Component {
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
-                                        <h2>About EcomIN AB
-                                        </h2>
-                                        <p style={{ fontSize: "20px", marginBottom: "20px" }}>We offer several services in website development, graphic design, digital marketing and mobile app development. We manufacture CMS, CRM and offer ERP solutions. EcomIN AB is a computer company in Sweden and also a registered company in Sweden. Additional services we provide include web design, API development, SEO Company Pakistan and iOS app development. We have very experienced web developers who have successfully started various large projects and proven their competence in many projects. We are responsible for the work and we try to maintain the best relationship with our customers. As a leading software house in Sweden, we have designed hundreds of websites, mobile apps, logos and icons for our customers with a unique research-based process. Our software house spreads the best services in the IT industry from the last four years.
-                                        </p>
-                                        <Link href="/contact">
+
+                                        <div className="services-details-info">
+                                            <h2>About EcomIN AB
+                                            </h2>
+                                            <ul>
+                                                <li>Experts with the latest trend and know-how knowledge</li>
+                                                <li>30+ experts ready to work with you today</li>
+                                                <li>Full commitment and focus on your project</li>
+                                                <li>Client references and a 12-month warranty on all projects</li>
+                                                <li>Responsibility built through long-term cooperation</li>
+                                                <li>Dedicated tools and access to a trusted partner network</li>
+                                                <li>Trusted by: (give logos of clients)</li>
+                                            </ul>
+                                        </div>
+                                        <Link href="/about">
                                             <a className="btn btn-primary">Read more
                                             </a>
                                         </Link>

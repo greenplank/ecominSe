@@ -1,0 +1,38 @@
+import React, { Component } from 'react';
+import NavbarTwo from '../components/Layouts/NavbarTwo';
+import PageBanner from '../components/Common/PageBanner';
+import CustomContentDetailsContent from '../components/Services/CustomContentDetailsContent';
+import WebPackages from '../components/Services/WebPackages';
+import CtaAreaTwo from '../components/Common/CtaAreaTwo';
+import Footer from '../components/Layouts/Footer';
+import Head from "next/head";
+
+class WebDevelopment extends Component {
+    render() {
+        return (
+            <>
+                <Head>
+                    <meta name="title" content="Website Design & Development Services | Ecomin IT Solution" />
+                    <meta name="description" content="With quality and professional web development services, you can take your business online and generate more sales and leads." />
+                </Head>
+
+                <NavbarTwo />
+
+                <PageBanner
+                    pageTitle="Custom Content Boost All in one "
+                    BGImage="bg-two"
+                />
+
+                <CustomContentDetailsContent />
+
+                <WebPackages />
+
+                <CtaAreaTwo />
+
+                <Footer />
+            </>
+        );
+    }
+}
+
+export default WebDevelopment;

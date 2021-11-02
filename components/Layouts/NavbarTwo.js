@@ -67,25 +67,52 @@ class NavbarTwo extends Component {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="/">
+                                        {/* <Link href="/">
                                             <a className="nav-link" activeClassName="active">
                                                 Home
                                             </a>
-                                        </Link>
+                                        </Link> */}
                                     </li>
-                                    {/* <li className="nav-item">
-                                        <Link href="/PlatformMigration">
-                                            <a className="nav-link" activeClassName="active">
-                                            Platform Migration
-                                            </a>
-                                        </Link>
-                                    </li> */}
                                     <li className="nav-item">
-                                        <Link href="/App-Development">
-                                            <a className="nav-link">
-                                                App Development
+                                        <Link href="#">
+                                            <a className="nav-link" onClick={e => e.preventDefault()}>
+                                                Solutions
+                                                <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
+
+                                        <ul className="dropdown-menu">
+                                            <li className="nav-item">
+                                                <Link href="/WordpressAllinOne" activeClassName="active">
+                                                    <a className="nav-link">Wordpress-All-in-One</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/CustomContentAllinOne" activeClassName="active">
+                                                    <a className="nav-link">Custom+Content Boost All-in-One</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/PlatformMigration" activeClassName="active">
+                                                    <a className="nav-link">Platform Migration</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/CloudHosting" activeClassName="active">
+                                                    <a className="nav-link">Cloud Hosting</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/CyberSecurity" activeClassName="active">
+                                                    <a className="nav-link">Cyber Security</a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
+                                                <Link href="/SoftwareQATesting" activeClassName="active">
+                                                    <a className="nav-link">Software QA Testing</a>
+                                                </Link>
+                                            </li>
+                                        </ul>
                                     </li>
                                     <li className="nav-item">
                                         <Link href="#">
@@ -109,26 +136,6 @@ class NavbarTwo extends Component {
                                             <li className="nav-item">
                                                 <Link href="/ux-ui-design" activeClassName="active">
                                                     <a className="nav-link">UX/UI Designing</a>
-                                                </Link>
-                                            </li>
-                                            <li className="nav-item">
-                                                <Link href="/PlatformMigration" activeClassName="active">
-                                                    <a className="nav-link">Platform Migration</a>
-                                                </Link>
-                                            </li>
-                                            <li className="nav-item">
-                                                <Link href="/CloudHosting" activeClassName="active">
-                                                    <a className="nav-link">Cloud Hosting</a>
-                                                </Link>
-                                            </li>
-                                            <li className="nav-item">
-                                                <Link href="/CyberSecurity" activeClassName="active">
-                                                    <a className="nav-link">Cyber Security</a>
-                                                </Link>
-                                            </li>
-                                            <li className="nav-item">
-                                                <Link href="/SoftwareQATesting" activeClassName="active">
-                                                    <a className="nav-link">Software QA Testing</a>
                                                 </Link>
                                             </li>
                                         </ul>
@@ -197,6 +204,13 @@ class NavbarTwo extends Component {
                                                 </Link>
                                             </li>
                                         </ul>
+                                    </li>
+                                    <li className="nav-item">
+                                        <Link href="/App-Development">
+                                            <a className="nav-link">
+                                                App Development
+                                            </a>
+                                        </Link>
                                     </li>
                                     <li className="nav-item">
                                         <Link href="/portfolio">
