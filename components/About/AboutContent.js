@@ -14,7 +14,7 @@ class About extends Component {
     render() {
         return (
             <>
-                <section className="about-area ptb-100">
+                <section className="about-area pt-100">
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-5 col-md-12">
@@ -25,8 +25,8 @@ class About extends Component {
 
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
-                                    <div className="section-title">
-                                        <h2>Our story
+                                    <div className="services-details-info">
+                                        <h2>Our Story
                                         </h2>
                                         <p>30+
                                             size of our team
