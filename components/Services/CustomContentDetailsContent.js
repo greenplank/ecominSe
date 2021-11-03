@@ -103,8 +103,8 @@ class CustomContentDetailsContent extends Component {
                                                 </div>
 
                                                 <div className="col-lg-6 col-md-12">
-                                                <div className="services-details-info">
-                                                        <h3>Managed SEO</h3>
+                                                    <div className="services-details-info">
+                                                        <h2>Managed SEO</h2>
                                                         <ul>
                                                             <li>Keyword Research</li>
                                                             <li>Competitive Gap Analysis</li>
@@ -116,11 +116,39 @@ class CustomContentDetailsContent extends Component {
                                                             <li>Link Building + Content</li>
                                                         </ul>
                                                     </div>
+                                                    <div className="services-details-info">
+                                                        <h2>Guest Post & Blogger Outreach Service</h2>
+                                                        <ul>
+                                                            <li>High Quality Article Written</li>
+                                                            <li>1 Keyword / 1 URL</li>
+                                                            <li>100% Real Site</li>
+                                                            <li>DA 40+</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div className="services-details-info">
+                                                        <h2>Backlink Booster</h2>
+                                                        <ul>
+                                                            <li>250 Posts on High DA Sites</li>
+                                                            <li>Unlimited URLs</li>
+                                                            <li>Unlimited Anchor Text</li>
+                                                            <li>Slow Drip Available</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div className="services-details-info">
+                                                        <h2>Visitor Retargeting</h2>
+                                                        <ul>
+                                                            <li>Visitor Retargeting & Campaign Management</li>
+                                                            <li>Campaign Setup</li>
+                                                            <li>Banner Ads Creation</li>
+                                                            <li>Tracking Pixel Installation</li>
+                                                            <li>Monthly Monitoring & Reporting</li>
+                                                        </ul>
+                                                    </div>
                                                 </div>
 
                                                 <div className="col-lg-6 col-md-12">
                                                     <div className="services-details-info">
-                                                        <h3>Pay-Per-Click (PPC) Solutions</h3>
+                                                        <h2>Pay-Per-Click (PPC) Solutions</h2>
                                                         <ul>
                                                             <li>Custom Ad Copy Creation</li>
                                                             <li>Ad Copy A/B Testing</li>
@@ -154,9 +182,16 @@ class CustomContentDetailsContent extends Component {
                                                             <h3>Contextual SEO Link Building:</h3>
                                                             <li>3 URLs / 2 Keywords per URL</li>
                                                             <li>1 Super Spun Article</li>
+                                                            <li>6 In-Content Links</li>
+                                                            <li>Article Posted to 3 Top Level Blogs with 1 Post Each</li>
+                                                            <h3>Article Posted to:</h3>
+                                                            <li>7+ Supporting Web 2.0 Properties</li>
+                                                            <li>20+ Supporting Social Bookmarks</li>
+                                                            <li>100+ Profile Links</li>
+                                                            <li>Articles Posted to 50 Private Networks</li>
                                                         </ul>
                                                     </div>
-                                                   
+
 
 
                                                 </div>
