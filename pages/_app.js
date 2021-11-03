@@ -7,7 +7,7 @@ import 'react-accessible-accordion/dist/fancy-example.css';
 import 'react-image-lightbox/style.css';
 import '../styles/style.css';
 import '../styles/responsive.css';
-
+import Script from "next/script";
 import App from 'next/app';
 import Head from 'next/head';
 import Loader from '../components/Shared/Loader';
@@ -19,7 +19,7 @@ export default class MyApp extends App {
         loading: true
     };
     componentDidMount() {
-        this.timerHandle = setTimeout(() => this.setState({ loading: false }), 2000); 
+        this.timerHandle = setTimeout(() => this.setState({ loading: false }), 2000);
     }
     componentWillUnmount() {
         if (this.timerHandle) {
@@ -27,19 +27,31 @@ export default class MyApp extends App {
             this.timerHandle = 0;
         }
     }
-    
-    render () {
+
+    render() {
         const { Component, pageProps } = this.props
 
         return (
             <>
+                <Script strategy="lazyOnload"
+                    src="https://www.googletagmanager.com/gtag/js?id=UA-211768101-1" />
+
+                <Script strategy="lazyOnload">
+                    {`
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('js', new Date());
+                        gtag('config', 'UA-211768101-1');
+                        `}
+                </Script>
+
                 <Head>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                     <title>EcomIN - Ecommerce & IT Solutions Provider Company</title>
                 </Head>
 
                 <Component {...pageProps} />
-                
+
                 {/* Preloader */}
                 <Loader loading={this.state.loading} />
 

@@ -20,8 +20,6 @@ class Contact extends Component {
 
                 <ContactInfo />
 
-                {/* <ContactForm/> */}
-
                 <div className="ptb-100">
                     <ContactFormOne />
                 </div>
