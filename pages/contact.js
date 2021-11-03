@@ -13,22 +13,20 @@ class Contact extends Component {
             <>
                 <NavbarTwo />
 
-                <PageBanner 
-                    pageTitle="Contact Us" 
+                <PageBanner
+                    pageTitle="Contact Us"
                     BGImage="bg-one"
-                />  
+                />
 
                 <ContactInfo />
 
                 {/* <ContactForm/> */}
-                
-                <ContactFormOne />
 
                 <div className="ptb-100">
-                    <Newsletter />
+                    <ContactFormOne />
                 </div>
 
-                <Footer/>
+                <Footer />
             </>
         );
     }

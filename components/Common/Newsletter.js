@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 
 class Newsletter extends Component {
+
     render() {
+        
         return (
             <section className="newsletter-area">
                 <div className="container">
