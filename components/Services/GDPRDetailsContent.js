@@ -206,7 +206,6 @@ class SEODetailsContent extends Component {
                                             <li>All your rights under paragraph 2 may be exercised with the Company either in writing by registered letter sent to its registered office or in electronic form at the e- mail address data.officer@ecomin.online </li>
                                             <li>If the Company does not meet the requirements for the processing and protection of Personal Data and / or there is a violation or threat to the rights of the personal data subject, this right has to file a complaint against the processing of Personal Data with the IMY - Swedish Authority for Privacy Protection at: https:// www.imy.se/en/ </li>
                                             <li>This information is communicated to all data subjects concerned, is available at the Company's registered office, on the Company's website at www.ecomin.online and, in case of interest and request, may be sent via e-mail to the e-mail address provided above. </li>
-                                            <li></li>
                                         </ul>
                                     </p>
                                 </div>
