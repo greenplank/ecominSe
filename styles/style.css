@@ -518,7 +518,7 @@ Navbar CSS
   position: relative;
   padding-left: 12px;
   padding-right: 12px;
-  padding-top: 15px;.navbar-area nav .navbar-nav .nav-item
+  padding-top: 15px;
   padding-bottom: 15px;
   /* Mega dropdown menu */
 }
@@ -594,7 +594,7 @@ Navbar CSS
 
 .navbar-area nav .navbar-nav .nav-item .dropdown-menu li a {
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   color: #18181b;
 }
 
