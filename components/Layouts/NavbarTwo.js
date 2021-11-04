@@ -212,7 +212,7 @@ class NavbarTwo extends Component {
                                             </a>
                                         </Link>
                                     </li>
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="/portfolio">
                                             <a className="nav-link">
                                                 Portfolio
@@ -231,7 +231,7 @@ class NavbarTwo extends Component {
                                             <a className="nav-link">Contact Us
                                             </a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                 </ul>
 
                                 <div className="others-options">
