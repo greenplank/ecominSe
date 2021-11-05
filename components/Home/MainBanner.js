@@ -46,87 +46,13 @@ class MainBanner extends Component {
                                     </div>
 
                                     <div className="col-lg-6">
-                                        <div className="banner-animation-image">
-                                            {/* Shape Image */}
-                                            <img
-                                                src="/images/banner-shapes/bn-shape1.png"
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s"
+                                    
+                                          {/* Main Image */}
+                                          <img
+                                                src="/images/illustration1.png"
+                                                className="main-pic"
                                                 alt="image"
                                             />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape2.png"
-                                                className="animate__animated animate__fadeInLeft animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape3.png"
-                                                className="animate__animated animate__fadeInDown animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape4.png"
-                                                className="animate__animated animate__fadeInDown animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape5.png"
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape6.png"
-                                                className="animate__animated animate__rollIn animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape7.png"
-                                                className="animate__animated animate__zoomIn animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape8.png"
-                                                className="animate__animated animate__fadeInLeft animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape9.png"
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape10.png"
-                                                className="animate__animated animate__fadeInDown animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape11.png"
-                                                className="animate__animated animate__fadeInUp animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            <img
-                                                src="/images/banner-shapes/bn-shape12.png"
-                                                className="animate__animated animate__zoomIn animate__delay-0.5s"
-                                                alt="image"
-                                            />
-
-                                            {/* Main Image */}
-                                            <img
-                                                src="/images/banner-img1.png"
-                                                className="main-pic animate__animated animate__fadeInUp animate__delay-0.5s"
-                                                alt="image"
-                                            />
-                                        </div>
                                     </div>
                                 </div>
                             </div>
