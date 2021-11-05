@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import SocialMediaDetailsContent from '../components/Services/SocialMediaDetailsContent';
 import SocialMediaDetailsContent1 from '../components/Services/SocialMediaDetailsContent1';
@@ -17,7 +17,7 @@ class SocialMediaMarketing extends Component {
                     <meta name="description" content="Social Media Campaigns: Our Social Media Marketing Services We provide ad campaigns that attract your target demographic and bring you more business." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Social Media Marketing"

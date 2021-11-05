@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import SEODetailsContent from '../components/Services/SEODetailsContent';
 import SEOPackages from '../components/Services/SEOPackages';
@@ -16,7 +16,7 @@ class SearchOptimization extends Component {
                     <meta name="description" content="SEO, or search engine optimization, is the practise of improving search engine results and driving more visitors to a website with the ultimate objective of increasing sales." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Search Engine Optimization"

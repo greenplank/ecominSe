@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import CyberSecurityDetailsContent from '../components/Services/CyberSecurityDetailsContent';
 // import SEOPackages from '../components/Services/SEOPackages';
@@ -17,7 +17,7 @@ class CyberSecurity extends Component {
                     <meta name="description" content="Ecomin IT Solution cybersecurity services provide a new level of cyber-immunity for your organisation by combining intelligence and knowledge." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Cyber Security"

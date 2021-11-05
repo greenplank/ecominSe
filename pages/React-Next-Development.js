@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import ReactNextDetailsContent from '../components/Services/ReactNextDetailsContent';
 // import SEOPackages from '../components/Services/SEOPackages';
@@ -16,7 +16,7 @@ class ReactNext extends Component {
                     <meta name="description" content="React.js allows you to create visually appealing and quick user interfaces for online apps. You may take advantage of React.js's fast performance, outstanding interface design, and adaptability by using it." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="React&NextJs Development"

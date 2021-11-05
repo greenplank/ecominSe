@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import AppDevelopmentDetailsContent from '../components/Services/AppDevelopmentDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
@@ -16,7 +16,7 @@ class AppDev extends Component {
                     <meta name="description" content="Mobile application development services from Ecomin IT Solution provide custom mobile experiences for mobile devices, wearables, IoT, and augmented reality devices." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="App Development"

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import ContactInfo from '../components/Contact/ContactInfo';
 // import ContactForm from '../components/Contact/ContactForm';
@@ -11,7 +11,7 @@ class Contact extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Contact Us"

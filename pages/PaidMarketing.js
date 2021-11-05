@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import PaidMarketingDetailsContent from '../components/Services/PaidMarketingDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
@@ -16,7 +16,7 @@ class PaidMarketing extends Component {
                     <meta name="description" content="PPC (pay-per-click) is a model for marketing on internet in which advertisers pay a fee when one of their ads is clicked by user/visitor." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Paid Marketing"

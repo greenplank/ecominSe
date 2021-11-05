@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import ContentWritingDetailsContent from '../components/Services/ContentWritingDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
@@ -15,7 +15,7 @@ class ContentStrategy extends Component {
                     <meta name="description" content="We're a full-service digital marketing firm that understands the value of high-quality content in your marketing plan." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Content Strategy & Writing"

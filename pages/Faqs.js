@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import FaqContent from '../components/Faq/FaqContent';
 import FaqForm from '../components/Faq/FaqForm';
@@ -10,7 +10,7 @@ class Faqs extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner 
                     pageTitle="Frequently Asked Questions" 

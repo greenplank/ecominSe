@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import MigrationDetailsContent from '../components/Services/MigrationDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
@@ -15,7 +15,7 @@ class PlatformMigration extends Component {
                     <meta name="description" content="Ecomin IT Solution makes it simple and flexible to migrate from outmoded technological tools, as well as offering post-migration training and resources." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Platform Migration"

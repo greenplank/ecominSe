@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import AuditDetailsContent from '../components/Services/AuditDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
@@ -15,7 +15,7 @@ class SiteAudit extends Component {
                     <meta name="description" content="1-on-1 sessions with our SEO professionals; a complete SEO audit for on-site and off-site SEO; A completed report that includes all findings and recommendations." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Site Audit Report"

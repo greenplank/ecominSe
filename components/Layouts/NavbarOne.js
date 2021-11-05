@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from '../../utils/ActiveLink';
 
-class NavbarTwo extends Component {
+class NavbarOne extends Component {
     // Navbar 
     _isMounted = false;
     state = {
@@ -35,15 +35,14 @@ class NavbarTwo extends Component {
         const classTwo = collapsed ? 'navbar-toggler navbar-toggler-right collapsed' : 'navbar-toggler navbar-toggler-right';
 
         return (
-            // navbar-style-2
             <>
-                <div id="navbar" className="navbar-area">
+                <div id="navbar" className="navbar-area navbar-style-2">
                     <nav className="navbar navbar-expand-md navbar-light">
                         <div className="container-fluid">
                             <Link href="/">
                                 <a className="navbar-brand">
                                     <img src="/images/ECommerceIN copy-01.png" className="black-logo" alt="logo" />
-                                    {/* <img src="/images/ECommerceIN copy-02.png" className="white-logo" alt="logo" /> */}
+                                    <img src="/images/ECommerceIN copy-02.png" className="white-logo" alt="logo" />
                                 </a>
                             </Link>
 
@@ -248,4 +247,4 @@ class NavbarTwo extends Component {
     }
 }
 
-export default NavbarTwo;
+export default NavbarOne;

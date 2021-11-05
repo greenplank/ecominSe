@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import CloudHostingDetailsContent from '../components/Services/CloudHostingDetailsContent';
 // import SEOPackages from '../components/Services/SEOPackages';
@@ -17,7 +17,7 @@ class CloudHosting extends Component {
                     <meta name="description" content="We used a data-driven review approach to select the top cloud hosting providers for personal, business, and enterprise requirements in 2021." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Cloud Hosting"

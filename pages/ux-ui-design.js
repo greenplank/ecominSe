@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import UXUIDetailsContent from '../components/Services/UXUIDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
@@ -15,7 +15,7 @@ class UXUIDesign extends Component {
                     <meta name="description" content="UX design is more analytical and technological than standard style. It necessitates extensive research in order to assess and improve the client experience." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
                 
                 <PageBanner 
                     pageTitle="UX/UI Designing" 

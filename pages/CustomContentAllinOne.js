@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import CustomContentDetailsContent from '../components/Services/CustomContentDetailsContent';
 import CustomContentPackages from '../components/Services/CustomContentPackages';
@@ -16,7 +16,7 @@ class WebDevelopment extends Component {
                     <meta name="description" content="With quality and professional web development services, you can take your business online and generate more sales and leads." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Custom Content Boost All in one "

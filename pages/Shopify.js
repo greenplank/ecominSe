@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import ShopifyDetailsContent from '../components/Services/ShopifyDetailsContent';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
@@ -15,7 +15,7 @@ class Shopify extends Component {
                     <meta name="description" content="EcomIN offer a full range of services for Shopify, including setting up your store, theme customizations, and fully unique custom designs. A custom-built Shopify theme allows you to set up your market niche." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="Shopify Development"

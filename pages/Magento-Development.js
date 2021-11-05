@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import MagentoDetailsContent from '../components/Services/MagentoDetailsContent';
 // import SEOPackages from '../components/Services/SEOPackages';
@@ -16,7 +16,7 @@ class MagentoDevelopment extends Component {
                     <meta name="description" content="EcomIn provides a full suite of Magento development services. We have a certified team of Magento developers. Experts in designing customised websites, E-commerece stores with full functionality, programming, strategy, migrations." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner 
                     pageTitle="Magento Development" 

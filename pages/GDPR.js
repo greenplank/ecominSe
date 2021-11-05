@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import GDPRDetailsContent from '../components/Services/GDPRDetailsContent';
 // import SEOPackages from '../components/Services/SEOPackages';
@@ -10,7 +10,7 @@ class WooCommerce extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner 
                     pageTitle="GDPR" 

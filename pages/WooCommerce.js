@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import WooCommerceDetailsContent from '../components/Services/WooCommerceDetailsContent';
 // import SEOPackages from '../components/Services/SEOPackages';
@@ -17,7 +17,7 @@ class WooCommerce extends Component {
                     <meta name="description" content="EcomIN is a custom WooCommerce website development agency. We design and build user-friendly online stores with many powerful features." />
                 </Head>
 
-                <NavbarTwo />
+                <NavbarOne />
 
                 <PageBanner
                     pageTitle="WooCommerce Development"
