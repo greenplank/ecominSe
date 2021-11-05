@@ -24,10 +24,10 @@ class MainBanner extends Component {
                                 <div className="row">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
-                                            <span>IT design and consulting</span>
-                                            <h1>Our intelligent
-                                                technology solutions and services</h1>
-                                            <p>We work together with our customers to build a convincing product that provides lasting excitement and value for our customers. We have passionate, creative and experienced developers</p>
+                                            <span>We Design, Develop & Support</span>
+                                            <h1>The Technology Your Business Relies On</h1>
+                                            <h3>Highly experienced Software & IT team, at your service</h3>
+                                            <p>EcomIN is an international software development agency based in Sweden. From software development to digital marketing and design — we help companies transform their ideas into reality and boost growth.</p>
 
                                             <Link href="/web-development" >
                                                 <a className="btn btn-primary">Our Services

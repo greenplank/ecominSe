@@ -5,21 +5,21 @@ class Services extends Component {
     render() {
         return (
             <>
-                <div className="bg-fcfbfb ptb-100 pb-70">
+                <div className="bg-fcfbfb ptb-100 pb-60">
                     <div className="container">
                         <div className="section-title">
-                            <h2>We provide IT services
+                            <h2>EcomIN's set of technologies for software development
                             </h2>
-                            <p>Combine strategy, innovation, technology and design to build the most complex business solutions.
+                            <p>Utilize highly experienced specialists in desktop, web, and mobile development. Our developers employ the latest technologies, frameworks, and components to create solutions that combine a strong technical back-end with easy to use modern design.
                             </p>
                         </div>
 
                         <div className="row justify-content-center">
                             <div className="col-lg-4 col-sm-6">
-                                <div className="service-card-one white-bg">
-                                    <i className="pe-7s-comment bg-13c4a1"></i>
+                                <div className="service-card-one white-bg text-center">
+                                    <i className="pe-7s-vector bg-13c4a1"></i>
                                     <h3>
-                                        <Link href="/service-details">
+                                        <Link href="/ux-ui-design">
                                             <a>Interface design
                                             </a>
                                         </Link>
@@ -31,9 +31,9 @@ class Services extends Component {
 
                             <div className="col-lg-4 col-sm-6">
                                 <div className="service-card-one white-bg">
-                                    <i className="pe-7s-display2 bg-6610f2"></i>
+                                    <i className="pe-7s-global bg-6610f2"></i>
                                     <h3>
-                                        <Link href="/service-details">
+                                        <Link href="/web-development">
                                             <a>web development
                                             </a>
                                         </Link>
@@ -45,9 +45,9 @@ class Services extends Component {
 
                             <div className="col-lg-4 col-sm-6">
                                 <div className="service-card-one white-bg">
-                                    <i className="pe-7s-light bg-ffb700"></i>
+                                    <i className="pe-7s-graph1 bg-ffb700"></i>
                                     <h3>
-                                        <Link href="/service-details">
+                                        <Link href="/Social-Media-Marketing">
                                             <a>Digital marketing
                                             </a>
                                         </Link>
@@ -61,7 +61,7 @@ class Services extends Component {
                                 <div className="service-card-one white-bg">
                                     <i className="pe-7s-phone bg-fc3549"></i>
                                     <h3>
-                                        <Link href="/service-details">
+                                        <Link href="/App-Development">
                                             <a>Mobile app development
                                             </a>
                                         </Link>
@@ -75,7 +75,7 @@ class Services extends Component {
                                 <div className="service-card-one white-bg">
                                     <i className="pe-7s-cart bg-00d280"></i>
                                     <h3>
-                                        <Link href="/service-details">
+                                        <Link href="/Magento-Development">
                                             <a>E-commerce development
                                             </a>
                                         </Link>
@@ -87,9 +87,9 @@ class Services extends Component {
 
                             <div className="col-lg-4 col-sm-6">
                                 <div className="service-card-one white-bg">
-                                    <i className="pe-7s-users bg-ff612f"></i>
+                                    <i className="pe-7s-target bg-ff612f"></i>
                                     <h3>
-                                        <Link href="/service-details">
+                                        <Link href="/Search-Engine-Optimization">
                                             <a>SEO Optimizing</a>
                                         </Link>
                                     </h3>

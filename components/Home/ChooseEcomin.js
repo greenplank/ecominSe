@@ -10,18 +10,12 @@ class ChooseEcomin extends Component {
                             <div className="col-lg-6">
                                 <div className="service-info pr-50">
                                     <div className="info-head">
-                                        <h2 className="title">Why Choose EcomIN AB?</h2>
-                                        <p>Our talented team of BigCommerce developers have one, overarching goal: Be a part of your success story!</p>
-                                        <p>In order to do this, we must hold ourselves to the highest standards of quality. Here is what we bring to the table:</p>
-                                        <p>Dedicated and Experienced Team of BigCommerce Developers.
-                                            On-time Delivery with Regular Project Reporting.
+                                        <h2 className="title">Why Choose EcomIN as Your Go-To Custom Software Development Company?</h2>
+                                        <p>We value your ideas and support you every step of the way, with professionalism and innovation at the core of all we do.</p>
+                                       
+                                        <p>At EcomIN, software development is just the beginning. We go beyond the realms of desktop, web, and mobile app development. Through our full-service web design and marketing services, we can help your firm realize your digital goals. Let’s get coding, designing, and promoting your brand online!
                                         </p>
-                                        <p>Excellent Communication Skills through Various Channels.
-                                            Thorough Knowledge of Version Control tools like SVN, GitHub, Microsoft TFS, and Bitbucket.
-                                        </p>
-                                        <p>Clear, Competitive Pricing. No BS!
-                                            Ability to Write Clean, Readable Code in the Latest Programming Languages. All Necessary Skillsets to Produce Fully-Optimised, Fully-Responsive Designs. Ability to Produce Well-Organised Theme Customisation and Original Designs. 360° Project Visibility Through the Use of Project & Bug Management Tools like Basecamp, Jira, Trello, Teamwork, and Freedcamp.
-                                        </p>
+                                        
                                     </div>
 
                                 </div>

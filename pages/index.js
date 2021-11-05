@@ -7,6 +7,7 @@ import ChooseEcomin from '../components/Home/ChooseEcomin';
 import Feedback from '../components/Home/Feedback';
 import WorkProcess from '../components/Home/WorkProcess';
 import FunFactsTwo from '../components/Home/FunFactsTwo';
+import Section1 from '../components/Home/Section1';
 import CtaArea from '../components/Common/CtaArea';
 import Partner from '../components/Common/Partner';
 import Head from "next/head";
@@ -28,6 +29,8 @@ class CreativeAgency extends Component {
                 <NavbarTwo />
 
                 <MainBanner />
+
+                <Section1/>
 
                 <About />
 
