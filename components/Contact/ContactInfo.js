@@ -36,7 +36,7 @@ class ContactInfo extends Component {
                                 </div>
                                 <h3>Call here
                                 </h3>
-                                <p><a href="0046-761734777">0046-761734777</a></p>
+                                <p><a href="tel:0046-761734777">0046-761734777</a></p>
                                 {/* <p><a href="+2414524526">+241 452 4526</a></p> */}
                             </div>
                         </div>
