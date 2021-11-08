@@ -8,9 +8,9 @@ class Services extends Component {
                 <div className="bg-fcfbfb ptb-100 pb-60">
                     <div className="container">
                         <div className="section-title">
-                            <h2>EcomIN's set of technologies for software development
+                            <h2>We Create Engaging Innovative Digital Experiences
                             </h2>
-                            <p>Utilize highly experienced specialists in desktop, web, and mobile development. Our developers employ the latest technologies, frameworks, and components to create solutions that combine a strong technical back-end with easy to use modern design.
+                            <p>EcomIN helps businesses advance and inspire, create positive transformation, and champion digital innovation. Look over the horizon of the digital landscape -- that’s where we can take you.
                             </p>
                         </div>
 

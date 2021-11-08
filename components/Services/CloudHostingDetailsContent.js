@@ -12,7 +12,7 @@ class CloudHostingDetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                         
+
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-desc">
                                     <h2>Cloud Hosting Partnerships </h2>
@@ -22,13 +22,34 @@ class CloudHostingDetailsContent extends Component {
                                 </div>
                                 <div className="services-details-desc">
                                     <h2>Our Cloud Partners:  </h2>
-                                    <h3>AWS - Amazon Web Services</h3>
-                                    <p>Amazon is one of the large cloud providers with which we have extensive experience since we started to work with cloud computing.
-                                        We most often use Amazon EC2 virtual cloud servers for our clients.
-                                    </p>
-                                    <p>As an AWS Partner Network (APN) Partner, we can help your business take advantage of their extensive offerings and toolset. With over 300 deployments, eComIN technologists are knowledgeable and experienced across the entire landscape of AWS services. Our teams have extensive real-world experience partnering with companies across multiple verticals to implement AWS best practices. From Cloud strategy and migration to Cloud managed services, eComIN has the solution that’s right for your AWS journey. </p>
-                                    <p>Start your journey and accelerate your AWS initiatives with eComIN at your side Looking for a partner with truly comprehensive AWS services and solutions? Look no further than eComIN. We have deep cloud expertise to provide high-level insight and guidance for your AWS strategy, hands-to-keyboard experience to build and migrate your workloads, and 24/7/365 support to run and continuously improve your environment. With Service Delivery and Customer Success teams, as well as AWS- certified technologists, eComIN delivers world-class services and high-quality results that provide immediate value to your business. </p>
+                                    <section className="about-area ptb-100">
+                                        <div className="container">
+                                            <div className="row align-items-center">
+                                                <div className="col-lg-5 col-md-12">
+                                                    <div className="about-image">
+                                                        <img src="/images/Cloud.png" alt="image" className="rounded-10" />
+                                                    </div>
+                                                </div>
 
+                                                <div className="col-lg-7 col-md-12">
+                                                    <div className="about-content about-content-two">
+                                                        <div className="section-title">
+
+                                                            <div className="services-details-info">
+                                                                <h2>AWS - Amazon Web Services
+                                                                </h2>
+                                                                <p>Amazon is one of the large cloud providers with which we have extensive experience since we started to work with cloud computing.
+                                                                    We most often use Amazon EC2 virtual cloud servers for our clients.
+                                                                </p>
+                                                                <p>As an AWS Partner Network (APN) Partner, we can help your business take advantage of their extensive offerings and toolset. With over 300 deployments, eComIN technologists are knowledgeable and experienced across the entire landscape of AWS services. Our teams have extensive real-world experience partnering with companies across multiple verticals to implement AWS best practices. From Cloud strategy and migration to Cloud managed services, eComIN has the solution that’s right for your AWS journey. </p>
+                                                                <p>Start your journey and accelerate your AWS initiatives with eComIN at your side Looking for a partner with truly comprehensive AWS services and solutions? Look no further than eComIN. We have deep cloud expertise to provide high-level insight and guidance for your AWS strategy, hands-to-keyboard experience to build and migrate your workloads, and 24/7/365 support to run and continuously improve your environment. With Service Delivery and Customer Success teams, as well as AWS- certified technologists, eComIN delivers world-class services and high-quality results that provide immediate value to your business. </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
                                     <h3>Google Cloud Platform</h3>
                                     <p>eComIN is your trusted advisor when exploring Google Cloud. We are a Premier Managed Services Partner with Google Cloud certified technologists working across our organisation. Whether your business is just starting on your modernisation journey or has a complex multi-cloud environment, eComIN helps enterprises
                                         accelerate, scale, and optimise on Google Cloud. Our services include cloud strategy and planning, cloud migration, cloud spend management, and managed cloud operations.
