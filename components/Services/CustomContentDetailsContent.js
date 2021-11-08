@@ -192,13 +192,10 @@ class CustomContentDetailsContent extends Component {
                                                         </ul>
                                                     </div>
 
-
-
                                                 </div>
                                             </div>
                                         </div>
                                     </section>
-
                                 </div>
 
                             </div>

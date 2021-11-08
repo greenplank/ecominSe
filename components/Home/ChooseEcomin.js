@@ -6,7 +6,7 @@ class ChooseEcomin extends Component {
             <>
                 <div className="service-style-two ptb-100 bg-fcfbfb">
                     <div className="container">
-                        <div className="row align-items-center">
+                        <div className="row justify-content-center">
                             <div className="col-lg-6">
                                 <div className="service-info pr-50">
                                     <div className="info-head">
