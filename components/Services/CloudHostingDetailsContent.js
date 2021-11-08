@@ -22,7 +22,7 @@ class CloudHostingDetailsContent extends Component {
                                 </div>
                                 <div className="services-details-desc">
                                     <h2>Our Cloud Partners:  </h2>
-                                    <section className="about-area ptb-100">
+                                    <section className="about-area">
                                         <div className="container">
                                             <div className="row align-items-center">
                                                 <div className="col-lg-5 col-md-12">
@@ -50,14 +50,35 @@ class CloudHostingDetailsContent extends Component {
                                             </div>
                                         </div>
                                     </section>
-                                    <h3>Google Cloud Platform</h3>
-                                    <p>eComIN is your trusted advisor when exploring Google Cloud. We are a Premier Managed Services Partner with Google Cloud certified technologists working across our organisation. Whether your business is just starting on your modernisation journey or has a complex multi-cloud environment, eComIN helps enterprises
-                                        accelerate, scale, and optimise on Google Cloud. Our services include cloud strategy and planning, cloud migration, cloud spend management, and managed cloud operations.
-                                    </p>
-                                    <p>Get the most from your Google Cloud Platform With eComIN
-                                        As a Google Cloud Premier Partner, eComIN provides end-to-end support and services that align with any stage of the cloud adoption journey.
-                                    </p>
-                                    <p>Enterprises around the world have chosen to work with Google because of their culture of innovation - and we can help you implement the best of Google in your own organisation. </p>
+                                    <section className="about-area">
+                                        <div className="container">
+                                            <div className="row align-items-center">
+                                                <div className="col-lg-6 col-md-12">
+                                                    <div className="about-content about-content-two">
+                                                        <div className="section-title">
+
+                                                            <div className="services-details-info">
+                                                                <h2>Google Cloud Platform
+                                                                </h2>
+                                                                <p>eComIN is your trusted advisor when exploring Google Cloud. We are a Premier Managed Services Partner with Google Cloud certified technologists working across our organisation. Whether your business is just starting on your modernisation journey or has a complex multi-cloud environment, eComIN helps enterprises
+                                                                    accelerate, scale, and optimise on Google Cloud. Our services include cloud strategy and planning, cloud migration, cloud spend management, and managed cloud operations.
+                                                                </p>
+                                                                <p>Get the most from your Google Cloud Platform With eComIN
+                                                                    As a Google Cloud Premier Partner, eComIN provides end-to-end support and services that align with any stage of the cloud adoption journey.
+                                                                </p>
+                                                                <p>Enterprises around the world have chosen to work with Google because of their culture of innovation - and we can help you implement the best of Google in your own organisation. </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div className="col-lg-6 col-md-12">
+                                                    <div className="about-image">
+                                                        <img src="/images/Google-cloud.png" alt="image" className="rounded-10" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>2021 </h3>
