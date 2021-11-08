@@ -20,13 +20,13 @@ class About extends Component {
                 <section className="about-area ptb-100">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-5 col-md-12">
+                            <div className="col-lg-6 col-md-12">
                                 <div className="about-image">
-                                    <img src="/images/about2.png" alt="image" className="rounded-10" />
+                                    <img src="/images/spl-image-main.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
 
-                            <div className="col-lg-7 col-md-12">
+                            <div className="col-lg-6 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
 

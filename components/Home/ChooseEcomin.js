@@ -7,7 +7,7 @@ class ChooseEcomin extends Component {
                 <div className="service-style-two ptb-100 bg-fcfbfb">
                     <div className="container">
                         <div className="row justify-content-center">
-                            <div className="col-lg-6">
+                            <div className="col-lg-7">
                                 <div className="service-info pr-50">
                                     <div className="info-head">
                                         <h2 className="title">Why Choose EcomIN as Your Go-To Custom Software Development Company?</h2>
@@ -21,9 +21,9 @@ class ChooseEcomin extends Component {
                                 </div>
                             </div>
 
-                            <div className="col-lg-6">
+                            <div className="col-lg-5">
                                 <div className="service-right-img">
-                                    <img src="/images/services/it-service1.png" alt="Service Image" />
+                                    <img src="/images/infographics.png" alt="Service Image" />
                                 </div>
                             </div>
                         </div>
