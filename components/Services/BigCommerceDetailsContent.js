@@ -17,7 +17,9 @@ class SEODetailsContent extends Component {
 
                                 </div>
                             </div> */}
-
+                            <div className="about-image pb-100">
+                                <img src="/images/Bigcommerce.jpg" alt="image" width="300px" className="rounded-10" />
+                            </div>
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
                                     <h2>BigCommerce Development, Design, Marketing and SEO </h2>
@@ -92,6 +94,7 @@ class SEODetailsContent extends Component {
                                         </li>
                                     </ul>
                                 </div>
+
                             </div>
                         </div>
                     </div>

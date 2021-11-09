@@ -19,7 +19,7 @@ class SEODetailsContent extends Component {
                                 </div>
                             </div> */}
 
-                            <div className="col-lg-8 col-md-12">
+                            <div className="col-lg-7 col-md-12">
                                 <div className="services-details-desc">
                                     <h2>WooCommerce Development </h2>
                                     <p>Online shopping and eCommerce are one of the fastest-growing industries in the world. The ease at which we gain access to products from all over the world will continue to be easier in the future.
@@ -57,25 +57,11 @@ class SEODetailsContent extends Component {
                                     <h3>ONGOING WOOCOMMERCE SUPPORT & SECURITY</h3>
                                     <p>Launching your WooCommerce site is only the beginning. Our experts will keep your site optimised with ongoing enhancements while also monitoring your results and providing production outage support.
                                     </p>
-                                    <br />
-                                    <h2>WooCommerce as Your eCommerce Platform </h2>
-                                    <p>WooCommerce is an eCommerce platform with a lot of potential...provided you know how to make the most of it. That’s where our WooCommerce agency comes in. Our team is full of WooCommerce experts who obsess about the platform. We can optimise your current site or build you a completely new one from scratch all with customised solutions unique to your goals.
-                                    </p>
-                                    <p>eComIN provides top-tier WooCommerce development services to address your unique business concerns. We have the necessary expertise, skillset, and tools to expertly resolve all the challenges in your WooCommerce store. Our WooCommerce experts can simplify, streamline, and elevate your business. Our extensive experience makes us the most reliable WooCommerce development company. From strategy, roadmap, prototyping, all the way to development and implementation, we handle each project meticulously to give our clients the most satisfactory result. You receive the best Return on Investment (ROI) with eComIN. We build innovative, reliable, customised, and future-proof solutions. Our experienced team of Woo Experts provides eCommerce solutions that help our clients succeed. </p>
-                                    {/* <div className="services-details-info">
-                                        <h3>Get Local SEO Plan</h3>
-                                        <p>Managed SEO covers all aspects of your online marketing including strategy, implementation and responsibility.  For us to provide a Managed SEO quote, we must first understand your businesses value proposition as well as review your competition.  </p>
-                                        <p>We work with our Managed SEO clients to provide an Affordable SEO Package that delivers a solid return on investment (ROI). We learn your business goals and leverage our experience to provide the most cost-effective SEO Campaign possible.</p>
-                                        <p>Ranking your website for keywords that do not convert into sales is NOT what we do. Unlike many other SEO agencies, we look at all Digital Marketing Campaigns with a holistic approach.
-                                        </p>
-                                        <p>Each custom campaign may apply Search Engine Optimization, Search Engine Marketing, Social Media Marketing, Re-marketing, Content Marketing, PPC, Local SEO, or a variety of other advertising options to achieve your long term business goals in the most cost-effective manner possible.</p>
-                                        <p>We strive to build lasting relationships with our clients and we understand the only way to do that is to deliver to your bottom line.
-                                        </p>
-                                    </div> */}
+
                                 </div>
                             </div>
 
-                            <div className="col-lg-4 col-md-12">
+                            <div className="col-lg-5 col-md-12">
                                 <div className="services-details-info">
                                     <h3>WooCommerce Services</h3>
                                     <ul>
@@ -92,8 +78,16 @@ class SEODetailsContent extends Component {
                                         <li>Maintenance & Upgrades</li>
                                         <li>SEO optimisation</li>
                                     </ul>
+                                    <div className="about-image pb-100">
+                                    <img src="/images/woocommerce.jpg" alt="image" width="300px" className="rounded-10" />
                                 </div>
-                                
+
+                                    <h2>WooCommerce as Your eCommerce Platform </h2>
+                                    <p>WooCommerce is an eCommerce platform with a lot of potential...provided you know how to make the most of it. That’s where our WooCommerce agency comes in. Our team is full of WooCommerce experts who obsess about the platform. We can optimise your current site or build you a completely new one from scratch all with customised solutions unique to your goals.
+                                    </p>
+                                    <p>eComIN provides top-tier WooCommerce development services to address your unique business concerns. We have the necessary expertise, skillset, and tools to expertly resolve all the challenges in your WooCommerce store. Our WooCommerce experts can simplify, streamline, and elevate your business. Our extensive experience makes us the most reliable WooCommerce development company. From strategy, roadmap, prototyping, all the way to development and implementation, we handle each project meticulously to give our clients the most satisfactory result. You receive the best Return on Investment (ROI) with eComIN. We build innovative, reliable, customised, and future-proof solutions. Our experienced team of Woo Experts provides eCommerce solutions that help our clients succeed. </p>
+                                </div>
+                               
 
                             </div>
                         </div>
@@ -103,29 +97,29 @@ class SEODetailsContent extends Component {
 
                 <section className="services-details-area ">
 
-                <div className="cta-area bg-gradient">
-                <div className="container">
-                    <div className="row align-items-center">
-                        <div className="col-lg-9 col-md-8">
-                            <div className="cta-content">
-                                <h3>WooCommerce - the most customisable eCommerce platform for building your online business.
-                                </h3>
-                                <p>Get Started 
-                                </p>
-                            </div>
-                        </div>
+                    <div className="cta-area bg-gradient">
+                        <div className="container">
+                            <div className="row align-items-center">
+                                <div className="col-lg-9 col-md-8">
+                                    <div className="cta-content">
+                                        <h3>WooCommerce - the most customisable eCommerce platform for building your online business.
+                                        </h3>
+                                        <p>Get Started
+                                        </p>
+                                    </div>
+                                </div>
 
-                        <div className="col-lg-3 col-md-4">
-                            <div className="cta-btn-box">
-                                <Link href="/contact">
-                                    <a className="btn btn-primary">Contact Us
-                                    </a>
-                                </Link>
+                                <div className="col-lg-3 col-md-4">
+                                    <div className="cta-btn-box">
+                                        <Link href="/contact">
+                                            <a className="btn btn-primary">Contact Us
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
                 </section>
             </>
         );
