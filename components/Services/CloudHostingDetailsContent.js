@@ -98,17 +98,36 @@ class CloudHostingDetailsContent extends Component {
                                     <p>As a Google Cloud Premier Partner, eComIN provides end-to-end support and services that align with any stage of the cloud adoption journey. We have high-level experts to provide insight and guidance for your GCP strategy, certified engineers and architects to build and migrate, and a 24/7/365 operations center to manage and optimise your environment. Our robust Service Delivery and Customer Success organisations ensure high quality services and deliverables that help you meet your corporate objectives. Let us lead, execute, and support your Google Cloud projects while you focus on your business. </p>
                                     <p>For example, powerful AI/ML and productivity and collaboration capabilities pose exciting opportunities to evolve business' productivity and collaboration, allowing employees to stay on top of their tasks and accomplish more. </p>
                                 </div>
-                                <div className="services-details-desc">
-                                    <h3>Why Google Cloud? </h3>
-                                    <p>Secure your data and hardware, gain real-time insights, and be more productive with the same intelligent, open tools and services used by Google.
-                                    </p>
-                                    <h4>Infrastructure</h4>
-                                    <p>Our best-in-class infrastructure is engineered to handle the most data-intensive work on the planet. </p>
-                                    <h4>Insights</h4>
-                                    <p>Pioneering data analytics and machine learning services help you solve real business problems and gain a competitive edge no other cloud provider can offer. </p>
-                                    <h4>Security</h4>
-                                    <p>Google's infrastructure is designed, built and operated with security at its core.</p>
-                                </div>
+                                <section className="about-area">
+                                    <div className="container">
+                                        <div className="row align-items-center">
+                                            <div className="col-lg-7 col-md-12">
+                                                <div className="about-content about-content-two">
+                                                    <div className="section-title">
+
+                                                        <div className="services-details-info">
+                                                            <h3><b>Why Google Cloud?</b>
+                                                            </h3>
+                                                            <p>Secure your data and hardware, gain real-time insights, and be more productive with the same intelligent, open tools and services used by Google.
+                                                            </p>
+                                                            <h4>Infrastructure</h4>
+                                                            <p>Our best-in-class infrastructure is engineered to handle the most data-intensive work on the planet. </p>
+                                                            <h4>Insights</h4>
+                                                            <p>Pioneering data analytics and machine learning services help you solve real business problems and gain a competitive edge no other cloud provider can offer. </p>
+                                                            <h4>Security</h4>
+                                                            <p>Google's infrastructure is designed, built and operated with security at its core.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="col-lg-5 col-md-12">
+                                                <div className="about-image">
+                                                    <img src="/images/Google-cloud-platform.png" alt="image" className="rounded-10" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
                                 <div className="services-details-desc">
                                     <h3>Microsoft Azure </h3>
                                     <p>eComIN can help you explore the limitless possibilities of Azure, Office 365, and other Microsoft tools with the help of our Gold Partner status. Our Microsoft Certified experts are here to provide guidance, hands-on engineering, and 24/7 support. eComIN partners with you to create the best solution for your business, whether you’re looking for help migrating your apps and workloads to Azure, creating DevOps and CI/CD processes within your Microsoft environment, or implementing Office 365.

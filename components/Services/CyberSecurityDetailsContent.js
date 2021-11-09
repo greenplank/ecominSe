@@ -20,6 +20,9 @@ class CloudHostingDetailsContent extends Component {
                                     </p>
                                     <p>The cyber threat landscape is constantly evolving and increasingly complex, and most companies don’t have the cyber security tools and capacity in-house to keep security measures up-to-date. Because it’s easier than ever for hackers to initiate an attack, organizations now experience increased risk and higher levels of uncertainty. Subsequently, breaches and successful attacks can cost companies millions — not to mention the harm to your brand’s reputation. </p>
                                 </div>
+                                <div className="about-image">
+                                        <img src="/images/CyberSecurity.png" alt="image" className="rounded-10" />
+                                </div>
                                 <div className="services-details-desc">
                                     <h3>The right services for your security needs </h3>
                                     <p>Our portfolio of cyber security solutions consists of a variety of services designed to meet all of your company’s needs. They’re also customizable to your specific requirements and provide detailed notifications, reporting, and dashboards. We help you choose the best solution, tailored specifically for the cyber security threats your organization faces.
@@ -49,17 +52,17 @@ class CloudHostingDetailsContent extends Component {
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>Find the right solution for your threat profile </h3>
-                                    <p>Our portfolio consists of different types of services to fit each of your specific security needs. We will personally help you choose the right solution from the breadth of our product offering, so you can rest assured knowing your business is protected. 
+                                    <p>Our portfolio consists of different types of services to fit each of your specific security needs. We will personally help you choose the right solution from the breadth of our product offering, so you can rest assured knowing your business is protected.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>Customize your cyber protection </h3>
-                                    <p>All of our services are customizable to combat specific cyber security threats and protect your systems. Set up specific profiles and rules to efficiently mitigate threats, and integrate different information and metrics in our dashboards to have a complete overview at all times. 
+                                    <p>All of our services are customizable to combat specific cyber security threats and protect your systems. Set up specific profiles and rules to efficiently mitigate threats, and integrate different information and metrics in our dashboards to have a complete overview at all times.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>Save money </h3>
-                                    <p>Our cyber security services protect you from breaches and attacks on your systems that may ordinarily go unnoticed. Because malicious traffic is mitigated and threats are proactively responded to, you will save the substantial costs of a disrupted business and other damages.  
+                                    <p>Our cyber security services protect you from breaches and attacks on your systems that may ordinarily go unnoticed. Because malicious traffic is mitigated and threats are proactively responded to, you will save the substantial costs of a disrupted business and other damages.
                                     </p>
                                     <b>Get started today! </b>
                                 </div>
