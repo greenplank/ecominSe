@@ -18,6 +18,9 @@ class SEODetailsContent extends Component {
                                     <p>Expect highly robust, scalable, seamless and comprehensive Magento e-commerce development services with expert Magento developers.
                                     </p>
                                 </div>
+                                <div className="about-image">
+                                    <img src="/images/Magento-Development1.png" alt="image" width="300px" className="rounded-10" />
+                                </div>
                                 <div className="services-details-desc">
                                     <h2>Offering World-class customised Magento e-commerce Solutions</h2>
                                     <p>One of the most preferred and user-friendly e-commerce platform, Magento is a name that has carved a niche for itself by offering superlative benefits for online merchants with high functionalities, more control over the look and a highly versatile and flexible shopping cart system. It is an open source technology that offers highly powerful marketing, SEO and catalog-management tools.
@@ -62,7 +65,7 @@ class SEODetailsContent extends Component {
                                 </div>
                                 <div className="services-details-info">
                                     <h3>Magento Open Source Platform </h3>
-                                    <p>And the best part is that the Magento platform is open-source which means there are no subscription fees or licensing costs. Additionally, you are not locked in with a company’s proprietary e-commerce platform. Magento is supported by hundreds, if not thousands, of development resources so committing to use Magento ensures that you’ll be able to support, enhance or move your e-commerce store as defined by you. Each Magento Web developer at eComIN is experienced in creating brand new Magento sites as well as handling existing Magento store fronts. 
+                                    <p>And the best part is that the Magento platform is open-source which means there are no subscription fees or licensing costs. Additionally, you are not locked in with a company’s proprietary e-commerce platform. Magento is supported by hundreds, if not thousands, of development resources so committing to use Magento ensures that you’ll be able to support, enhance or move your e-commerce store as defined by you. Each Magento Web developer at eComIN is experienced in creating brand new Magento sites as well as handling existing Magento store fronts.
                                     </p>
                                 </div>
                             </div>

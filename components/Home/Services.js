@@ -30,7 +30,7 @@ class Services extends Component {
                             </div>
 
                             <div className="col-lg-4 col-sm-6">
-                                <div className="service-card-one white-bg">
+                                <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-global bg-6610f2"></i>
                                     <h3>
                                         <Link href="/web-development">
@@ -40,11 +40,12 @@ class Services extends Component {
                                     </h3>
                                     <p>Our web development company works with customers based all over Europe and all over the world.
                                     </p>
+                                    <br/>
                                 </div>
                             </div>
 
                             <div className="col-lg-4 col-sm-6">
-                                <div className="service-card-one white-bg">
+                                <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-graph1 bg-ffb700"></i>
                                     <h3>
                                         <Link href="/Social-Media-Marketing">
@@ -54,11 +55,12 @@ class Services extends Component {
                                     </h3>
                                     <p>We do digital marketing for your brand and company or your products and services. The world is currently online
                                     </p>
+                                    <br/>
                                 </div>
                             </div>
 
                             <div className="col-lg-4 col-sm-6">
-                                <div className="service-card-one white-bg">
+                                <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-phone bg-fc3549"></i>
                                     <h3>
                                         <Link href="/App-Development">
@@ -72,7 +74,7 @@ class Services extends Component {
                             </div>
 
                             <div className="col-lg-4 col-sm-6">
-                                <div className="service-card-one white-bg">
+                                <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-cart bg-00d280"></i>
                                     <h3>
                                         <Link href="/Magento-Development">
@@ -86,7 +88,7 @@ class Services extends Component {
                             </div>
 
                             <div className="col-lg-4 col-sm-6">
-                                <div className="service-card-one white-bg">
+                                <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-target bg-ff612f"></i>
                                     <h3>
                                         <Link href="/Search-Engine-Optimization">
@@ -94,6 +96,7 @@ class Services extends Component {
                                         </Link>
                                     </h3>
                                     <p>We analyze and define the keywords that are searched in Google relatively and are crucial for your business development</p>
+                                    <br/>
                                 </div>
                             </div>
                         </div>

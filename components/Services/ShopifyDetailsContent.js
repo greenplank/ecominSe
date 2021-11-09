@@ -17,7 +17,9 @@ class SEODetailsContent extends Component {
 
                                 </div>
                             </div> */}
-
+                            <div className="about-image">
+                                <img src="/images/shopify.png" alt="image" width="300px" className="rounded-10" />
+                            </div>
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
                                     <h2>Shopify Website Design & Web Development</h2>
@@ -49,12 +51,12 @@ class SEODetailsContent extends Component {
                                             Used by over 500k e-commerce websites globally
                                         </p>
                                         <p><b>Shopify Plus </b>
-                                             best for businesses generating over 5 million dollars in revenue annually Customisable scripts for advanced Shopify development
+                                            best for businesses generating over 5 million dollars in revenue annually Customisable scripts for advanced Shopify development
                                             Regional store availability
                                             Infinite staff access
                                             Able to handle over 10 thousand orders per minute
                                         </p>
-                                        
+
                                     </div>
                                 </div>
                             </div>

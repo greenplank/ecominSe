@@ -41,7 +41,9 @@ class SEODetailsContent extends Component {
                                     <p>Expand Your Developer Capacities
                                         Do you have technical staff already? Great! Cooperate with us in co-development model and hire another team to scale fast.
                                     </p>
-
+                                    <div className="about-image">
+                                        <img src="/images/React-js.png" alt="image" width="300px" className="rounded-10" />
+                                    </div>
                                     <h2>What is React? </h2>
                                     <p>React JS is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. </p>
                                     <p>Our team is more than just experienced WooCommerce developers. We also employ a number of other eCommerce experts who know how to give your WooCommerce site every feature necessary for generating regular profits. </p>
@@ -73,7 +75,7 @@ class SEODetailsContent extends Component {
                             </div>
 
                             <div className="col-lg-4 col-md-12">
-                                
+
                                 <div className="services-details-info">
                                     <h3>Related Technologies</h3>
                                     <ul>
@@ -87,7 +89,7 @@ class SEODetailsContent extends Component {
                                         <li><b>Docker: </b>Docker is a technology that enables the containerisation of applications. Nowadays we use it in every project we build. </li>
                                         <li><b>TypeScript Development: </b>TypeScript/Node.js is the primary platform on which we build projects. TypeScript is suitable not only for small but also for huge projects thanks to its high scalability. All our teams have extensive knowledge and experience with TypeScript development and have worked on dozens of projects. </li>
                                         <li><b>JavaScript Development: </b>JavaScript is the primary platform on which we build projects. JavaScript is suitable not only for small but also for huge projects thanks to its high scalability. All our teams have extensive knowledge and experience in JavaScript and have worked on dozens of projects. </li>
-                            
+
                                     </ul>
                                 </div>
 
