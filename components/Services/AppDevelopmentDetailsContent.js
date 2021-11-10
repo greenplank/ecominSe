@@ -20,7 +20,7 @@ class SEODetailsContent extends Component {
                                     </p>
                                 </div>
                                 <div className="about-image pb-100">
-                                    <img src="/images/AppDev.png" alt="image" width="300px" className="rounded-10" />
+                                    <img src="/images/App-Development.png" alt="image" width="300px" className="rounded-10" />
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>Developing Cutting-Edge Mobile First Apps</h3>
