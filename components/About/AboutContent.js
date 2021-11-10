@@ -17,13 +17,13 @@ class About extends Component {
                 <section className="about-area pt-100">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-5 col-md-12">
+                            <div className="col-lg-6 col-md-12">
                                 <div className="about-image">
-                                    <img src="/images/about21.png" alt="image" className="rounded-10" />
+                                    <img src="/images/our-story.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
 
-                            <div className="col-lg-7 col-md-12">
+                            <div className="col-lg-6 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="services-details-info">
                                         <h2>Our Story
@@ -56,10 +56,9 @@ class About extends Component {
                             </div>
                         </div>
                     </div>
-
-                    {/* If you want to change the video need to update below videoID */}
-
                 </section>
+
+                
             </>
         );
     }

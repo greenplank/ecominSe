@@ -14,23 +14,14 @@ class Partner extends Component {
                     <div className="row align-items-center justify-content-center">
                         <div className="col-lg-2 col-6 col-sm-4">
                             <div className="single-partner">
-                                <a href="#" target="_blank">
+                                <a href="/" target="_blank">
                                     <img src="/images/partners/partner-11.png" alt="image" />
                                 </a>
                             </div>
                         </div>
-
-                        {/* <div className="col-lg-2 col-6 col-sm-4">
-                            <div className="single-partner">
-                                <a href="#" target="_blank">
-                                    <img src="/images/partners/partner-2.png" alt="image" />
-                                </a>
-                            </div>
-                        </div> */}
-
                         <div className="col-lg-2 col-6 col-sm-4">
                             <div className="single-partner">
-                                <a href="#" target="_blank">
+                                <a href="/" target="_blank">
                                     <img src="/images/partners/partner-12.png" alt="image" />
                                 </a>
                             </div>
@@ -38,7 +29,7 @@ class Partner extends Component {
 
                         <div className="col-lg-2 col-6 col-sm-4">
                             <div className="single-partner">
-                                <a href="#" target="_blank">
+                                <a href="/" target="_blank">
                                     <img src="/images/partners/partner-13.png" alt="image" />
                                 </a>
                             </div>
@@ -46,7 +37,7 @@ class Partner extends Component {
 
                         <div className="col-lg-2 col-6 col-sm-4">
                             <div className="single-partner">
-                                <a href="#" target="_blank">
+                                <a href="/" target="_blank">
                                     <img src="/images/partners/partner-14.png" alt="image" />
                                 </a>
                             </div>
@@ -54,8 +45,15 @@ class Partner extends Component {
 
                         <div className="col-lg-2 col-6 col-sm-4">
                             <div className="single-partner">
-                                <a href="#" target="_blank">
+                                <a href="/" target="_blank">
                                     <img src="/images/partners/partner-15.png" alt="image" />
+                                </a>
+                            </div>
+                        </div>
+                        <div className="col-lg-2 col-6 col-sm-4">
+                            <div className="single-partner">
+                                <a href="/" target="_blank">
+                                    <img src="/images/partners/partner-16.png" alt="image" />
                                 </a>
                             </div>
                         </div>
