@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Link from 'next/link';
+import Hidden from '@material-ui/core/Hidden';
 
 
 class CloudHostingDetailsContent extends Component {
@@ -27,9 +27,11 @@ class CloudHostingDetailsContent extends Component {
                                     <p>Software testing involves a number of disciplines - from requirements analysis through testing itself to writing automated tests.</p>
                                     <p>Among other things, automated quality assurance tests are very helpful in detecting bugs that a normal person can no longer figure out (usually, for example, the context and continuity of different systems).</p>
                                 </div>
+                                <Hidden smDown>
                                 <div className="about-image">
                                     <img src="/images/QA-Testing_result.webp" alt="image" className="rounded-10" />
                                 </div>
+                                </Hidden>
                                 <div className="services-details-info">
                                     <p>We Offer Our Services in Software Testing</p>
                                     <h3>Test planning</h3>

@@ -14,7 +14,7 @@ class WebDetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-image">
-                                    <img src="/images/Web-Development_result.webp" alt="image" />
+                                    <img src="/images/web-development_results.webp" alt="image" />
                                 </div>
                             </div>
                             <div className="col-lg-12">

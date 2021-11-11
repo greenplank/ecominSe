@@ -47,13 +47,13 @@ class MainBanner extends Component {
                                     </div>
 
                                     <div className="col-lg-6">
-                                    <Hidden smDown>
-                                          <img
+                                        <Hidden smDown>
+                                            <img
                                                 src="/images/illustration1.webp"
                                                 className="main-pic"
                                                 alt="image"
                                             />
-                                            </Hidden>
+                                        </Hidden>
                                     </div>
                                 </div>
                             </div>

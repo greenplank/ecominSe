@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import NavbarOne from '../components/Layouts/NavbarOne';
 import PageBanner from '../components/Common/PageBanner';
 import SoftwareQADetailsContent from '../components/Services/SoftwareQADetailsContent';
-// import SEOPackages from '../components/Services/SEOPackages';
-// import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
 import Head from "next/head";
 
