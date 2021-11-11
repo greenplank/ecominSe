@@ -50,7 +50,7 @@ class MainBanner extends Component {
                                     <Hidden smDown>
                                           {/* Main Image */}
                                           <img
-                                                src="/images/illustration1.png"
+                                                src="/images/illustration1.webp"
                                                 className="main-pic"
                                                 alt="image"
                                             />

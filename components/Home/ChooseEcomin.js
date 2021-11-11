@@ -23,7 +23,7 @@ class ChooseEcomin extends Component {
                             </div>
                             <div className="col-lg-6 col-md-12">
                                 <div className="about-image">
-                                    <img src="/images/infographics.png" alt="image" className="rounded-10" />
+                                    <img src="/images/infogrPHIC.webp" alt="image" className="rounded-10" />
                                 </div>
                             </div>
                         </div>

@@ -8,7 +8,7 @@ class Section1 extends Component {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-4 col-md-12">
-                            <img src="/images/boostImage.png" alt="image" className="rounded-10" />
+                            <img src="/images/boostImage.webp" alt="image" className="rounded-10" />
                         </div>
                         <div className="col-lg-7 col-md-12">
                             <div className="section-title">

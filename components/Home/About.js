@@ -22,7 +22,7 @@ class About extends Component {
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-12">
                                 <div className="about-image">
-                                    <img src="/images/spl-image-main.png" alt="image" className="rounded-10" />
+                                    <img src="/images/spl-image-main.webp" alt="image" className="rounded-10" />
                                 </div>
                             </div>
 
