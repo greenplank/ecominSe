@@ -21,7 +21,7 @@ class CloudHostingDetailsContent extends Component {
                                     <p>The cyber threat landscape is constantly evolving and increasingly complex, and most companies don’t have the cyber security tools and capacity in-house to keep security measures up-to-date. Because it’s easier than ever for hackers to initiate an attack, organizations now experience increased risk and higher levels of uncertainty. Subsequently, breaches and successful attacks can cost companies millions — not to mention the harm to your brand’s reputation. </p>
                                 </div>
                                 <div className="about-image">
-                                        <img src="/images/CyberSecurity.png" alt="image" className="rounded-10" />
+                                        <img src="/images/cyber_Security.webp" alt="image" className="rounded-10" />
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>The right services for your security needs </h3>

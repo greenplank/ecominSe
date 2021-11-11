@@ -28,7 +28,7 @@ class CloudHostingDetailsContent extends Component {
                                     <p>Among other things, automated quality assurance tests are very helpful in detecting bugs that a normal person can no longer figure out (usually, for example, the context and continuity of different systems).</p>
                                 </div>
                                 <div className="about-image">
-                                    <img src="/images/software-testing-services.jpg" alt="image" className="rounded-10" />
+                                    <img src="/images/QA-Testing_result.webp" alt="image" className="rounded-10" />
                                 </div>
                                 <div className="services-details-info">
                                     <p>We Offer Our Services in Software Testing</p>

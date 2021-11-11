@@ -27,7 +27,7 @@ class CloudHostingDetailsContent extends Component {
                                             <div className="row align-items-center">
                                                 <div className="col-lg-5 col-md-12">
                                                     <div className="about-image">
-                                                        <img src="/images/Cloud.png" alt="image" className="rounded-10" />
+                                                        <img src="/images/CloudHosting-AmazonWebServices_result.webp" alt="image" className="rounded-10" />
                                                     </div>
                                                 </div>
 
@@ -73,7 +73,7 @@ class CloudHostingDetailsContent extends Component {
                                                 </div>
                                                 <div className="col-lg-6 col-md-12">
                                                     <div className="about-image">
-                                                        <img src="/images/Google-cloud.png" alt="image" className="rounded-10" />
+                                                        <img src="/images/CloudHosting-GoogleCloud_result.webp" alt="image" className="rounded-10" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -122,7 +122,7 @@ class CloudHostingDetailsContent extends Component {
                                             </div>
                                             <div className="col-lg-5 col-md-12">
                                                 <div className="about-image">
-                                                    <img src="/images/Google-cloud-platform.png" alt="image" className="rounded-10" />
+                                                    <img src="/images/CloudHosting-WhyGoogleCloud_result.webp" alt="image" className="rounded-10" />
                                                 </div>
                                             </div>
                                         </div>

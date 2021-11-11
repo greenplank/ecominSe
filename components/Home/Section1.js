@@ -33,7 +33,7 @@ class Section1 extends Component {
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12">
-                            <img src="/images/affordable.png" alt="image" className="rounded-10" />
+                            <img src="/images/affordable.webp" alt="image" className="rounded-10" />
                         </div>
                         
                         <br />

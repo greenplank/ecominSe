@@ -11,13 +11,6 @@ class MigrationDetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                            {/* <div className="col-lg-12 col-md-12">
-                                <div className="services-details-image">
-                                    <img src="/images/seo.png" alt="image" />
-
-                                </div>
-                            </div> */}
-
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-desc">
                                     <h3>Protect against the risk of data loss during your system migration. </h3>
@@ -39,17 +32,8 @@ class MigrationDetailsContent extends Component {
                                     <h3>How it works: </h3>
                                     <p>There may be differences in the implementation approaches, but with the right data strategy we can make sure the old data aligns with the schema of your new cloud platform by:</p>
                                     <div className="service-right-img">
-                                        <img src="/images/migration.png" alt="Service Image" />
+                                        <img src="/images/Platform-Migration_result.webp" alt="Service Image" />
                                     </div>
-                                    {/* <ul>
-                                        <li>Identifying the source platform application and target application
-                                        </li>
-                                        <li>Gathering and identifying both data schemas for the systems integration</li>
-                                        <li>Conducting a conversion test with a sample data extraction </li>
-                                        <li>Presenting a platform migration risk report</li>
-                                        <li>Recommending a client for data archiving from the old platform </li>
-
-                                    </ul> */}
                                 </div>
                             </div>
                         </div>

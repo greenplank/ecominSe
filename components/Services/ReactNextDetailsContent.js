@@ -12,13 +12,6 @@ class SEODetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                            {/* <div className="col-lg-12 col-md-12">
-                                <div className="services-details-image">
-                                    <img src="/images/seo.png" alt="image" />
-
-                                </div>
-                            </div> */}
-
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
                                     <h2>React/Next JS Development </h2>
@@ -42,7 +35,7 @@ class SEODetailsContent extends Component {
                                         Do you have technical staff already? Great! Cooperate with us in co-development model and hire another team to scale fast.
                                     </p>
                                     <div className="about-image">
-                                        <img src="/images/React-js.png" alt="image" width="300px" className="rounded-10" />
+                                        <img src="/images/React-Next_result.webp" alt="image" width="300px" className="rounded-10" />
                                     </div>
                                     <h2>What is React? </h2>
                                     <p>React JS is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. </p>

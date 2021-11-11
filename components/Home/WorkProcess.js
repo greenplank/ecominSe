@@ -13,8 +13,7 @@ class WorkProcess extends Component {
                         </div>
 
                         <div className="work-process">
-                            <img src="/images/man-with-mobile.png" alt="logo" />
-
+                                <img src="/images/man-with-mobile.png" alt="logo" />
                             <div className="work-process-list">
                                 <div className="single-work-process">
                                     <div className="icon">
