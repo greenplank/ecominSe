@@ -48,7 +48,7 @@ class Footer extends Component {
                                 </div>
                             </div>
 
-                            <div className="col-lg-3 col-md-6 col-sm-6">
+                            <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="single-footer-widget ml-4 pl-5">
                                     <h3>Explore
                                     </h3>
@@ -91,7 +91,7 @@ class Footer extends Component {
                                 </div>
                             </div>
 
-                            <div className="col-lg-3 col-sm-6">
+                            <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="single-footer-widget ml-4">
                                     <h3>Quick links
                                     </h3>

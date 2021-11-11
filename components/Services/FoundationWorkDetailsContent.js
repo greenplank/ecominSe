@@ -11,12 +11,6 @@ class FoundationWorkDetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                            {/* <div className="col-lg-12 col-md-12">
-                                <div className="services-details-image">
-                                    <img src="/images/seo.png" alt="image" />
-
-                                </div>
-                            </div> */}
                             <div className="section-title pt-100">
                                 <h2>Foundations of our work
                                 </h2>
@@ -57,8 +51,6 @@ class FoundationWorkDetailsContent extends Component {
                         </div>
                     </div>
                 </section>
-
-
             </>
         );
     }

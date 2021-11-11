@@ -8,6 +8,7 @@ import Feedback from '../components/Home/Feedback';
 import WorkProcess from '../components/Home/WorkProcess';
 import FunFactsTwo from '../components/Home/FunFactsTwo';
 import Section1 from '../components/Home/Section1';
+import Hidden from '@material-ui/core/Hidden';
 import CtaArea from '../components/Common/CtaArea';
 import Partner from '../components/Common/Partner';
 import Head from "next/head";
@@ -23,14 +24,14 @@ class CreativeAgency extends Component {
                     <meta name="title" content="Ecomin – Ecomerce & IT Services | Consulting | Business Solutions" />
                     <meta name="description" content="Ecomin is the best Ecommerce Solution Provider that offers the best eCommerce Development Services and Solutions to small businesses & companies." />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-211768101-1"></script>
-              
+
                 </Head>
 
                 <NavbarTwo />
 
                 <MainBanner />
 
-                <Section1/>
+                <Section1 />
 
                 <About />
 
@@ -38,7 +39,9 @@ class CreativeAgency extends Component {
 
                 <ChooseEcomin />
 
-                <WorkProcess />
+                <Hidden smDown>
+                    <WorkProcess />
+                </Hidden>
 
                 <Feedback />
 

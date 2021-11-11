@@ -45,7 +45,6 @@ class EcomVsFrelancer extends Component {
                                         <li>Client references and a 12-month warranty on all projects</li>
                                         <li>Responsibility built through long-term cooperation</li>
                                         <li>Dedicated tools and access to a trusted partner network</li>
-                                        {/* <li>Trusted by: (give logos of clients)</li> */}
                                     </ul>
                                 </div>
                             </div>

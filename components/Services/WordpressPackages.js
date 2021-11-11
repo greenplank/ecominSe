@@ -48,12 +48,6 @@ class WordpressPackages extends Component {
 
                                         </ul>
                                     </div>
-
-                                    {/* <div className="pricing-footer">
-                                        <Link href="#">
-                                            <a className="btn btn-primary">Select Plan</a>
-                                        </Link>
-                                    </div> */}
                                 </div>
                             </div>
 
@@ -89,12 +83,6 @@ class WordpressPackages extends Component {
                                                 </ul></li>
                                         </ul>
                                     </div>
-
-                                    {/* <div className="pricing-footer">
-                                        <Link href="#">
-                                            <a className="btn btn-primary">Select Plan</a>
-                                        </Link>
-                                    </div> */}
                                 </div>
                             </div>
 
@@ -131,16 +119,10 @@ class WordpressPackages extends Component {
                                                     <li className="active">25 global locations </li>
                                                 </ul></li>
                                         </ul>
-                                    </div>
-
-                                   
+                                    </div>     
                                 </div>
                             </div>
-
-
-
                         </div>
-                        
                     </div>
                 </section>
             </>
