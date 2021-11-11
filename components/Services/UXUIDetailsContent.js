@@ -18,7 +18,7 @@ class UXUIDetailsContent extends Component {
                             <p>We deliver an efficient and simple user experience with the program's clean and beautiful graphic layout.
                             </p>
 
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/knowledge.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>Learning
@@ -27,7 +27,7 @@ class UXUIDetailsContent extends Component {
                                 </div>
                             </div>
 
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/loupe.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>Research</h6>
@@ -35,7 +35,7 @@ class UXUIDetailsContent extends Component {
                                 </div>
                             </div>
 
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/wireframe.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>Wire frame
@@ -43,28 +43,28 @@ class UXUIDetailsContent extends Component {
 
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/illustration.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>Design</h6>
 
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/prototyping.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>Prototype</h6>
 
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/3d-movie.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>Animations</h6>
 
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/copyright.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>UI Guidelines
@@ -72,7 +72,7 @@ class UXUIDetailsContent extends Component {
 
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-sm-6">
+                            <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/review.svg" alt="image" className="rounded-10" width="80" />
                                     <h6>Reviews</h6>
@@ -100,7 +100,7 @@ class UXUIDetailsContent extends Component {
                 <section className="pt-100 pb-100">
                     <div className="container">
                         <div className="row justify-content-center">
-                            <div className="col-lg-3 col-sm-6">
+                            <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/web-design.svg" alt="image" className="rounded-10" width="80" />
                                     <h4>UI / UX design
@@ -110,7 +110,7 @@ class UXUIDetailsContent extends Component {
                                 </div>
                             </div>
 
-                            <div className="col-lg-3 col-sm-6">
+                            <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/brainstorming.svg" alt="image" className="rounded-10" width="80" />
                                     <h4>UX Consulting
@@ -120,7 +120,7 @@ class UXUIDetailsContent extends Component {
                                 </div>
                             </div>
 
-                            <div className="col-lg-3 col-sm-6">
+                            <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/computer.svg" alt="image" className="rounded-10" width="80" />
                                     <h4>Web and mobile design
@@ -129,7 +129,7 @@ class UXUIDetailsContent extends Component {
                                     </p>
                                 </div>
                             </div>
-                            <div className="col-lg-3 col-sm-6">
+                            <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/web-programming-1.svg" alt="image" className="rounded-10" width="80" />
                                     <h4>UI / UX brand identity
