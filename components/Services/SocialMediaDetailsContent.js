@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 
-class SocialMediaDetailsContent extends Component {
+class   SocialMediaDetailsContent extends Component {
 
     render() {
         return (
@@ -12,7 +12,7 @@ class SocialMediaDetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-image">
-                                    <img src="/images/digital-marketing.png" alt="image" />
+                                    <img src="/images/digital-marketing.webp" alt="image" />
                                 </div>
                             </div>
 

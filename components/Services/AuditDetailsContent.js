@@ -13,7 +13,7 @@ class AuditDetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-12 col-md-12" style={{textAlign:"center"}}>
                                 <div className="services-details-image">
-                                    <img src="/images/seo-audit.jpg" alt="image" />
+                                    <img src="/images/seo-audit.webp" alt="image" />
 
                                 </div>
                             </div>

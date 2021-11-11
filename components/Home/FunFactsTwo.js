@@ -8,13 +8,11 @@ class FunFactsTwo extends Component {
                 <div className="container">
                     <div className="section-title">
                         <h2>We always try to understand users' expectations
-
                         </h2>
-                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                     </div>
 
                     <div className="row justify-content-center">
-                        <div className="col-lg-3 col-sm-6">
+                        <div className="col-lg-3 col-4 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-checked"></i>
                                 <h3>22+</h3>
@@ -23,7 +21,7 @@ class FunFactsTwo extends Component {
                             </div>
                         </div>
 
-                        <div className="col-lg-3 col-sm-6">
+                        <div className="col-lg-3 col-4 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-ui-love"></i>
                                 <h3>8+</h3>
@@ -32,7 +30,7 @@ class FunFactsTwo extends Component {
                             </div>
                         </div>
 
-                        <div className="col-lg-3 col-sm-6">
+                        <div className="col-lg-3 col-4 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-tasks"></i>
                                 <h3>5+</h3>
@@ -40,14 +38,6 @@ class FunFactsTwo extends Component {
                                 </p>
                             </div>
                         </div>
-                        {/* 
-                        <div className="col-lg-3 col-sm-6">
-                            <div className="funfact">
-                                <i className="icofont-win-trophy"></i>
-                                <h3>70+</h3>
-                                <p>Winning Awards</p>
-                            </div>
-                        </div> */}
                     </div>
 
                     <div className="contact-cta-box">

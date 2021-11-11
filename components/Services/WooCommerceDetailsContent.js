@@ -12,13 +12,6 @@ class SEODetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                            {/* <div className="col-lg-12 col-md-12">
-                                <div className="services-details-image">
-                                    <img src="/images/seo.png" alt="image" />
-
-                                </div>
-                            </div> */}
-
                             <div className="col-lg-7 col-md-12">
                                 <div className="services-details-desc">
                                     <h2>WooCommerce Development </h2>
@@ -79,7 +72,7 @@ class SEODetailsContent extends Component {
                                         <li>SEO optimisation</li>
                                     </ul>
                                     <div className="about-image pb-100">
-                                    <img src="/images/woocommerce.jpg" alt="image" width="300px" className="rounded-10" />
+                                    <img src="/images/woocommerce_result.webp" alt="image" width="300px" className="rounded-10" />
                                 </div>
 
                                     <h2>WooCommerce as Your eCommerce Platform </h2>

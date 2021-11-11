@@ -13,7 +13,7 @@ class SEODetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-image">
-                                    <img src="/images/seo.png" alt="image" />
+                                    <img src="/images/seo.webp" alt="image" />
 
                                 </div>
                             </div>
