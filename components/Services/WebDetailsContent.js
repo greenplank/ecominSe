@@ -51,65 +51,65 @@ class WebDetailsContent extends Component {
                                 </div>
                                 <div className="container pb-100">
                                     <div className="row justify-content-center" style={{ textAlign: "center" }}>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-1.jpg" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-1.jpg" alt="image" className="rounded-10"  />
                                             </div>
                                         </div>
 
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-2.jpg" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-2.jpg" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/PHP-logo.svg.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/PHP-logo.svg.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-7.svg" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-7.svg" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-8.jpg" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-8.jpg" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-10.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-10.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-12.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-12.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-3.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-3.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-4.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-4.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-5.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-5.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-6.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-6.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
-                                        <div className="col-lg-1 col-sm-6">
+                                        <div className="col-lg-1 col-6 col-sm-4">
                                             <div className="funfact-card">
-                                                <img src="/images/icon-9.png" alt="image" className="rounded-10" width="80" />
+                                                <img src="/images/icon-9.png" alt="image" className="rounded-10" />
                                             </div>
                                         </div>
 
