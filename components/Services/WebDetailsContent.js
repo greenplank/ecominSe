@@ -14,7 +14,7 @@ class WebDetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-image">
-                                    <img src="/images/web-development_results.webp" alt="image" />
+                                    <img src="/images/web-develop.webp" alt="image" />
                                 </div>
                             </div>
                             <div className="col-lg-12">
@@ -35,65 +35,65 @@ class WebDetailsContent extends Component {
                         </div>
 
                         <div className="row align-items-center justify-content-center">
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                     <img src="/images/icon-1.jpg" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                     <img src="/images/icon-2.jpg" alt="image" className="rounded-10" />
                                 </div>
                             </div>
 
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                     <img src="/images/PHP-logo.svg.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
 
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-7.svg" alt="image" className="rounded-10" />
                                 </div>
                             </div>
 
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-8.jpg" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-10.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-12.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-3.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-4.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-5.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-6.png" alt="image" className="rounded-10" />
                                 </div>
                             </div>
-                            <div className="col-lg-1 col-6 col-sm-4">
+                            <div className="col-lg-1 col-4 col-sm-4">
                                 <div className="single-partner">
                                 <img src="/images/icon-9.png" alt="image" className="rounded-10" />
                                 </div>
