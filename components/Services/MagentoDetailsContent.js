@@ -19,7 +19,7 @@ class SEODetailsContent extends Component {
                                     </p>
                                 </div>
                                 <div className="about-image">
-                                    <img src="/images/Magento-Development1.png" alt="image" width="300px" className="rounded-10" />
+                                    <img src="/images/Magento-Development_result.webp" alt="image" className="rounded-10" />
                                 </div>
                                 <div className="services-details-desc">
                                     <h2>Offering World-class customised Magento e-commerce Solutions</h2>

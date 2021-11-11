@@ -11,14 +11,8 @@ class SEODetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                            {/* <div className="col-lg-12 col-md-12">
-                                <div className="services-details-image">
-                                    <img src="/images/seo.png" alt="image" />
-
-                                </div>
-                            </div> */}
                             <div className="about-image pb-100">
-                                <img src="/images/Bigcommerce.png" alt="image" width="300px" className="rounded-10" />
+                                <img src="/images/Big-Commerce_result.webp" alt="image" width="300px" className="rounded-10" />
                             </div>
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
