@@ -41,11 +41,13 @@ class CreativeAgency extends Component {
 
                 <Hidden smDown>
                     <WorkProcess />
-                </Hidden>
+                
 
                 <Feedback />
 
                 <FunFactsTwo />
+                
+                </Hidden>
 
                 <CtaArea />
 
