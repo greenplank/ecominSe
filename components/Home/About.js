@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 import dynamic from 'next/dynamic';
-import Hidden from '@material-ui/core/Hidden';
+
 const ModalVideo = dynamic(() => import('react-modal-video'), {
     ssr: false
 });
@@ -23,9 +23,9 @@ class About extends Component {
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-12">
                                 <div className="about-image">
-                                    <Hidden smDown>
+                                    \
                                     <img src="/images/spl-image-main.webp" alt="image" className="rounded-10" />
-                                    </Hidden>
+                                    
                                 </div>
                             </div>
 
