@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Hidden from '@material-ui/core/Hidden';
 
 class SEODetailsContent extends Component {
 
@@ -11,11 +10,11 @@ class SEODetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                            <Hidden smDown>
+                           
                                 <div className="about-image">
                                     <img src="/images/Shopify_result.webp" alt="image" width="300px" className="rounded-10" />
                                 </div>
-                            </Hidden>
+                        
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
                                     <h2>Shopify Website Design & Web Development</h2>

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 import dynamic from 'next/dynamic';
-import Hidden from '@material-ui/core/Hidden';
+
 const ModalVideo = dynamic(() => import('react-modal-video'), {
     ssr: false
 });
@@ -47,13 +47,13 @@ class MainBanner extends Component {
                                     </div>
 
                                     <div className="col-lg-6">
-                                        <Hidden smDown>
+                                   
                                             <img
                                                 src="/images/illustration1.webp"
                                                 className="main-pic"
                                                 alt="image"
                                             />
-                                        </Hidden>
+                                       
                                     </div>
                                 </div>
                             </div>
