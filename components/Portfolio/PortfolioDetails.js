@@ -27,10 +27,7 @@ class CaseStudies extends Component {
             <>
                 <section className="case-studies-area pt-100 pb-70">
                     <div className="container">
-                        {/* <div className="section-title">
-                            <h2>Our Case Studies</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        </div> */}
+
 
                         <div className="tab">
                             <div className="row">
@@ -42,33 +39,24 @@ class CaseStudies extends Component {
                                             onClick={(e) => this.openTabSection(e, 'tab1')}
                                         >
                                             <span>
-                                                See All
+                                                Se allt
+
                                             </span>
                                         </li>
 
                                         <li onClick={(e) => this.openTabSection(e, 'tab2')}>
                                             <span>
-                                                Business Website
+                                                Företagswebbplats
                                             </span>
                                         </li>
 
                                         <li onClick={(e) => this.openTabSection(e, 'tab3')}>
                                             <span>
-                                                Ecommerce Website
+                                                E-handelswebbplats
                                             </span>
                                         </li>
 
-                                        {/* <li onClick={(e) => this.openTabSection(e, 'tab4')}>
-                                            <span>
-                                                UX/UI Design
-                                            </span>
-                                        </li> */}
 
-                                        {/* <li onClick={(e) => this.openTabSection(e, 'tab5')}>
-                                            <span>
-                                                Product
-                                            </span>
-                                        </li> */}
                                     </ul>
                                 </div>
 
@@ -159,11 +147,6 @@ class CaseStudies extends Component {
                                                 <div className="col-lg-6 col-sm-6 mt-10">
                                                     <div>
 
-                                                        {/* <div>
-                                                        <a href="/portfolio">
-                                                            <img src="/images/Untitled-22.jpg" alt="img" />
-                                                            </a>
-                                                        </div> */}
                                                     </div>
                                                 </div>
 
@@ -231,12 +214,6 @@ class CaseStudies extends Component {
 
                                                 <div className="col-lg-6 col-sm-6 mt-10">
                                                     <div>
-
-                                                        {/* <div>
-                                                            <a href="/portfolio">
-                                                                <img src="/images/Untitled-22.jpg" alt="img" />
-                                                            </a>
-                                                        </div> */}
                                                     </div>
                                                 </div>
                                             </div>
@@ -244,7 +221,7 @@ class CaseStudies extends Component {
 
                                         <div id="tab4" className="tabs_item">
                                             <div className="row justify-content-center">
-                                            <div className="col-lg-6 col-sm-6 mt-10">
+                                                <div className="col-lg-6 col-sm-6 mt-10">
                                                     <div className="single-case-studies ">
 
                                                         <div>
@@ -320,15 +297,17 @@ class CaseStudies extends Component {
                                                         <div className="content">
                                                             <span>
                                                                 <Link href="/portfolio">
-                                                                    <a>Product</a>
+                                                                    <a>Produkt</a>
                                                                 </Link>
                                                             </span>
-                                                            <h3>Designing a better cinema experience</h3>
+                                                            <h3>Designa en bättre bioupplevelse
+                                                            </h3>
                                                         </div>
 
                                                         <Link href="/portfolio-details">
                                                             <a className="btn btn-primary">
-                                                                View Case Study
+                                                                Se fallstudie
+
                                                             </a>
                                                         </Link>
 
@@ -343,15 +322,17 @@ class CaseStudies extends Component {
                                                         <div className="content">
                                                             <span>
                                                                 <Link href="/portfolio">
-                                                                    <a>Product</a>
+                                                                    <a>Produkt
+                                                                    </a>
                                                                 </Link>
                                                             </span>
-                                                            <h3>Building design process within teams</h3>
+                                                            <h3>Byggdesignprocess inom team
+                                                            </h3>
                                                         </div>
 
                                                         <Link href="/portfolio-details">
                                                             <a className="btn btn-primary">
-                                                                View Case Study
+                                                                Se fallstudie
                                                             </a>
                                                         </Link>
 
@@ -366,15 +347,17 @@ class CaseStudies extends Component {
                                                         <div className="content">
                                                             <span>
                                                                 <Link href="/portfolio">
-                                                                    <a>Product</a>
+                                                                    <a>Produkt</a>
                                                                 </Link>
                                                             </span>
-                                                            <h3>How Intercom brings play into their design process</h3>
+                                                            <h3>Hur Intercom ger spel i deras designprocess
+                                                            </h3>
                                                         </div>
 
                                                         <Link href="/portfolio-details">
                                                             <a className="btn btn-primary">
-                                                                View Case Study
+                                                                Se fallstudie
+
                                                             </a>
                                                         </Link>
 
@@ -389,15 +372,16 @@ class CaseStudies extends Component {
                                                         <div className="content">
                                                             <span>
                                                                 <Link href="/portfolio">
-                                                                    <a>Product</a>
+                                                                    <a>Produkt</a>
                                                                 </Link>
                                                             </span>
-                                                            <h3>Stuck with to-do list, I created a new app for myself </h3>
+                                                            <h3>Fast med att göra-listan skapade jag en ny app för mig själv
+                                                            </h3>
                                                         </div>
 
                                                         <Link href="/portfolio-details">
                                                             <a className="btn btn-primary">
-                                                                View Case Study
+                                                                Se fallstudie
                                                             </a>
                                                         </Link>
 
@@ -412,15 +396,16 @@ class CaseStudies extends Component {
                                                         <div className="content">
                                                             <span>
                                                                 <Link href="/portfolio">
-                                                                    <a>Product</a>
+                                                                    <a>Produkt</a>
                                                                 </Link>
                                                             </span>
-                                                            <h3>Examples of different types of sprints</h3>
+                                                            <h3>Exempel på olika typer av spurter
+                                                            </h3>
                                                         </div>
 
                                                         <Link href="/portfolio-details">
                                                             <a className="btn btn-primary">
-                                                                View Case Study
+                                                                Se fallstudie
                                                             </a>
                                                         </Link>
 
@@ -435,15 +420,16 @@ class CaseStudies extends Component {
                                                         <div className="content">
                                                             <span>
                                                                 <Link href="/portfolio">
-                                                                    <a>Product</a>
+                                                                    <a>Produkt</a>
                                                                 </Link>
                                                             </span>
-                                                            <h3>Redesigning the New York Times app</h3>
+                                                            <h3>Omdesign av New York Times-appen
+                                                            </h3>
                                                         </div>
 
                                                         <Link href="/portfolio-details">
                                                             <a className="btn btn-primary">
-                                                                View Case Study
+                                                                Se fallstudie
                                                             </a>
                                                         </Link>
 

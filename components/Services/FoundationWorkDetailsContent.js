@@ -28,20 +28,28 @@ class FoundationWorkDetailsContent extends Component {
                                         <div className="col-lg-6 col-md-12">
                                             <div className="about-content about-content-two">
                                                 <div className="services-details-info">
-                                                    <h3>Security</h3>
-                                                    <p>Did you know that the White House website is based on WordPress? Your software is creating in mind with the latest security and threat prevention methods. </p>
+                                                    <h3>säkerhet
+</h3>
+                                                    <p>Visste du att Vita husets webbplats är baserad på WordPress? Din programvara skapar i åtanke med de senaste metoderna för säkerhet och hotförebyggande.
+ </p>
 
-                                                    <h3>Quality</h3>
-                                                    <p>We know how important quality is ... that’s why it’s at the center of everything we do. </p>
+                                                    <h3>Kvalitet
+</h3>
+                                                    <p>Vi vet hur viktigt kvalitet är ... det är därför det är i centrum för allt vi gör.
+</p>
 
-                                                    <h3>Scalability</h3>
-                                                    <p>Choose a provider that gives you the ability to easily scale and grow with your needs. </p>
+                                                    <h3>Skalbarhet
+</h3>
+                                                    <p>Välj en leverantör som ger dig möjligheten att enkelt skala och växa med dina behov.
+ </p>
 
-                                                    <h3>Flexibility</h3>
-                                                    <p>Use our elastic approach to create software that fits all your needs, now and in the future, all in accordance with the Agile software development methodology. </p>
+                                                    <h3>Flexibilitet</h3>
+                                                    <p>Använd vårt elastiska tillvägagångssätt för att skapa mjukvara som passar alla dina behov, nu och i framtiden, allt i enlighet med metodiken för Agile mjukvaruutveckling.
+ </p>
 
-                                                    <h3>Punctuality</h3>
-                                                    <p>Time is money – we know, that’s why we make sure to deliver projects in the agreed timelines. In case we run into any challenges, you will be the first one to know.  </p>
+                                                    <h3>Punktlighet</h3>
+                                                    <p>Tid är pengar – vi vet, det är därför vi ser till att leverera projekt inom överenskomna tidslinjer. Om vi ​​stöter på några utmaningar kommer du att vara den första att veta.
+ </p>
                                                 </div>
                                             </div>
                                         </div>

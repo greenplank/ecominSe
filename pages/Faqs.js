@@ -13,7 +13,8 @@ class Faqs extends Component {
                 <NavbarOne />
 
                 <PageBanner 
-                    pageTitle="Frequently Asked Questions" 
+                    pageTitle="Vanliga frågor
+                    " 
                     BGImage="bg-one"
                 />  
 

@@ -26,22 +26,29 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="a">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    How many team members will you assign to my website project ?
+                                                Hur många teammedlemmar kommer du att tilldela mitt webbplatsprojekt?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    Please define the roles.
+                                                Vänligen definiera rollerna.
+
                                                 </p>
-                                                <p>Please define the roles.
-                                                    We follow an agile methodology while assigning a team of highly skilled professionals to your website project. Depending on the nature of your website project, there may be up to 5 team members that are initially assigned to your website project.
+                                                <p>Vänligen definiera rollerna.
+                                                    Vi följer en agil metodik samtidigt som vi tilldelar ett team av mycket skickliga yrkesmän till ditt webbplatsprojekt. Beroende på typen av ditt webbplatsprojekt kan det finnas upp till 5 teammedlemmar som initialt tilldelas ditt webbplatsprojekt.
                                                 </p>
-                                                <p>This includes:</p>
+                                                <p>Detta inkluderar
+:</p>
                                                 <ul>
-                                                    <li>A business analyst that looks after the onboarding process by conducting the feasibility study of your requirements. After this, he/she provides an initial consultation wherein he/she discusses requirement breakdown, the total budget for the project, and submission of the project proposal. </li>
-                                                    <li>After successful completion of this stage, you will be introduced to a Project delivery manager and the dedicated developer who will be working on your project. </li>
-                                                    <li>There will also be a Quality Analyst who will be testing your website and ensuring that your deliverables are met as promised. </li>
-                                                    <li>The last person will be a Server Administrator who will set up your server and deploy your website in such a way that it gets ready to go live. </li>
+                                                    <li>En affärsanalytiker som tar hand om introduktionsprocessen genom att genomföra förstudien av dina krav. Efter detta ger han/hon en första konsultation där han/hon diskuterar kravfördelning, den totala budgeten för projektet och inlämnande av projektförslaget.
+</li>
+                                                    <li>Efter framgångsrikt slutförande av detta steg kommer du att introduceras för en projektleveransansvarig och den dedikerade utvecklaren som kommer att arbeta med ditt projekt.
+</li>
+                                                    <li>Det kommer också att finnas en kvalitetsanalytiker som kommer att testa din webbplats och se till att dina leveranser uppfylls som utlovat.
+</li>
+                                                    <li>Den sista personen kommer att vara en serveradministratör som kommer att konfigurera din server och distribuera din webbplats på ett sådant sätt att den blir redo att gå live.
+ </li>
                                                 </ul>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -49,12 +56,14 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="b">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    Who will be Point of Contact in case I order my website project to EComIN ?
+                                                Vem kommer att vara kontaktperson om jag beställer mitt webbplatsprojekt till EComIN?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    You can stay in contact with either of the assigned team members during any given point of time of project execution. However, to make things simple, we recommend you to have a single point of contact to ensure that there is no scope of miscommunication. Here, we recommend you to stay in direct touch with the Project delivery manager who is the right person to provide you with the regular progress of the project. You can take feedback on the project progress from him/her. This way, it will become easier for you to receive the utmost transparency from our end during the project duration.
+                                                Du kan hålla kontakten med någon av de tilldelade teammedlemmarna under en given tidpunkt för projektgenomförande. Men för att göra det enkelt rekommenderar vi att du har en enda kontaktpunkt för att säkerställa att det inte finns någon omfattning av felkommunikation. Här rekommenderar vi dig att hålla direktkontakt med projektleveranschefen som är rätt person för att ge dig den regelbundna utvecklingen av projektet. Du kan ta feedback om projektets framsteg från honom/henne. På så sätt blir det lättare för dig att få största möjliga insyn från vår sida under projektets varaktighet.
+
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -62,13 +71,14 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="c">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    Does eComIN has the understanding of handling all types of CMS/e-commerce project development tasks in-house ? What is the overall work experience of eComIN skilled professionals ?
+                                                Har eComIN förståelse för att hantera alla typer av CMS/e-handelsprojektutvecklingsuppgifter internt? Vad är den övergripande arbetserfarenheten för eComIN-utbildade yrkesmän?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    At EComIN we have a dedicated team of more than 30 in-house developers, UI/UX designers, analysts, managers and an overall strength of more than 150 employees
-                                                    working in unison. We do not outsource any work as our in-house team has the experience and acumen of delivering highly creative web development solutions for our esteemed clients.
+                                                På EComIN har vi ett dedikerat team med mer än 30 interna utvecklare, UI/UX-designers, analytiker, chefer och en övergripande styrka på mer än 150 anställda
+                                                    arbeta unisont. Vi lägger inte ut något arbete eftersom vårt interna team har erfarenheten och förmågan att leverera kreativa webbutvecklingslösningar för våra uppskattade kunder.
 
                                                 </p>
                                             </AccordionItemPanel>
@@ -77,12 +87,14 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="d">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    Is there a specific pricing model EComIN follows ? What steps eComIN takes if the project go over budget ?
+                                                Finns det någon specifik prismodell som EComIN följer? Vilka åtgärder vidtar eComIN om projektet går över budget?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    We follow both fixed price and hourly rate model. However, usually, the pricing depends totally on the individual requirements of the projects and clarity in terms of execution strategy and requirements. It is essential to have a comprehensive requirements analysis to ensure that there is no ambiguity in terms of the scope of website development requirements. We adopt this strategy to come up with an accurate quotation for the project. On top of that, we even keep track of any change requests throughout the development cycle so that there is no unexpected increase in the budget.
+                                                Vi följer både fastpris- och timprismodell. Men vanligtvis beror prissättningen helt på projektens individuella krav och tydlighet vad gäller genomförandestrategi och krav. Det är viktigt att ha en omfattande kravanalys för att säkerställa att det inte finns några oklarheter när det gäller omfattningen av kraven på webbplatsutveckling. Vi använder denna strategi för att komma med en korrekt offert för projektet. Utöver det håller vi även koll på eventuella förändringsförfrågningar under hela utvecklingscykeln så att det inte blir någon oväntad ökning av budgeten.
+
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -90,12 +102,14 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="e">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    Will we get the sole ownership of the source files once the project is finished ?
+                                                Kommer vi att få ensam äganderätt till källfilerna när projektet är klart?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    Yes, we will send across the source files to you. Rest assured, we do not keep the source code to ourselves.
+                                                Ja, vi skickar källfilerna till dig. Var säker, vi håller inte källkoden för oss själva.
+
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -103,12 +117,14 @@ class FaqContent extends Component {
                                         <AccordionItem uuid="f">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                    What is the support period provided by EComIN ?
+                                                Vilken är supportperioden som tillhandahålls av EComIN?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                    To ensure consistent performance, we provide a 90-days support period to all our clients which starts when your last milestone is accomplished and delivered. It is even possible for you to extend the support by paying an incremental amount.
+                                                För att säkerställa konsekvent prestanda tillhandahåller vi en 90-dagars supportperiod till alla våra kunder som börjar när din sista milstolpe är uppnådd och levererad. Det är till och med möjligt för dig att förlänga stödet genom att betala ett inkrementellt belopp.
+
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>

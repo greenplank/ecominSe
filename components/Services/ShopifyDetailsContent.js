@@ -10,46 +10,60 @@ class SEODetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                           
-                                <div className="about-image">
-                                    <img src="/images/Shopify_result.webp" alt="image" width="300px" className="rounded-10" />
-                                </div>
-                        
+
+                            <div className="about-image">
+                                <img src="/images/Shopify_result.webp" alt="image" width="300px" className="rounded-10" />
+                            </div>
+
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>Shopify Website Design & Web Development</h2>
-                                    <p>Boost your online sales with our professional Shopify web design and website development services. EcomIN AB uses Shopify to bring you the perfect customised e- commerce website. Shopify’s flexible platform and variety of resources make it the perfect e-commerce solution. eComIN has helped hundreds of businesses develop beautifully designed websites. We know Shopify inside and out and can use the platform to help you create unique and attractive customised websites that generate more traffic, conversions, and revenue. From themes to bespoke builds, we create compelling, results-driven online websites.
-                                    </p>
-                                    <h3>Take Your Shopify Online Store To New Heights </h3>
-                                    <p>Are you looking to build a Shopify website? At EcomIN AB we’re eCommerce experts and are experienced in working with a wide variety of platforms. Our team has Shopify design, development, and marketing experience and can walk you through customization options. We’ll review your goals and determine the best solution to meet your goals. We also have a full in-house marketing team and are ranked a top Shopify SEO agency. Give us a call or complete an estimate request to talk with our Shopify developers or marketing experts. </p>
+                                    <h2>Shopify webbdesign och webbutveckling
+                                    </h2>
+                                    <p>Öka din onlineförsäljning med vår professionella Shopify webbdesign och webbutvecklingstjänster. EcomIN AB använder Shopify för att ge dig den perfekta skräddarsydda e-handelswebbplatsen. Shopifys flexibla plattform och mängd resurser gör det till den perfekta e-handelslösningen. eComIN har hjälpt hundratals företag att utveckla vackert designade webbplatser. Vi känner Shopify utan och innan och kan använda plattformen för att hjälpa dig skapa unika och attraktiva anpassade webbplatser som genererar mer trafik, konverteringar och intäkter. Från teman till skräddarsydda konstruktioner skapar vi övertygande, resultatdrivna webbsidor.
 
-                                    <h3>Benefits of Working with a Professional Shopify Web Designer </h3>
-                                    <p>Shopify is a practical eCommerce shopping cart and CMS for many businesses, but to make the most of this platform, you need an experienced Shopify web designer.
                                     </p>
-                                    <p>Finding the right web designer or web design agency with eCommerce experience that understands the nuances and limitations of Shopify will result in a better eCommerce experience for your customers. Your store will look more professional and convert more of your visitors into customers. Best of all, while still offering the robust functionality and integration capabilities inherent to Shopify. </p>
+                                    <h3>Ta din Shopify onlinebutik till nya höjder
+                                    </h3>
+                                    <p>Funderar du på att bygga en Shopify-webbplats? På EcomIN AB är vi e-handelsexperter och har erfarenhet av att arbeta med en mängd olika plattformar. Vårt team har Shopify-design, utveckling och marknadsföringserfarenhet och kan guida dig genom anpassningsalternativ. Vi granskar dina mål och bestämmer den bästa lösningen för att nå dina mål. Vi har också ett fullständigt internt marknadsföringsteam och är rankad som en topp-Shopify SEO-byrå. Ring oss eller fyll i en uppskattningsförfrågan för att prata med våra Shopify-utvecklare eller marknadsföringsexperter.
+                                    </p>
 
-                                    <h3>About the Shopify Platform </h3>
-                                    <p>Shopify is a hosted solution eCommerce website and shopping cart application. While a popular platform, it does have pros and cons like most shopping cart platforms do. It’s currently one of the most popular eCommerce platforms, powering over 23% of online stores.
+                                    <h3>Fördelar med att arbeta med en professionell Shopify-webbdesigner
+                                    </h3>
+                                    <p>Shopify är en praktisk kundvagn och CMS för e-handel för många företag, men för att få ut det mesta av denna plattform behöver du en erfaren Shopify-webbdesigner.
+
                                     </p>
-                                    <p>Shopify provides a set of initial templates that can be customised to your branding standards and does have capabilities to sell digital files and standard products. Shopify is a hosted solution, meaning it runs on their servers and is hosted by them.</p>
-                                    <p>A benefit of Shopify is users can change the design of the website without much technical knowledge, but HTML and CSS can be edited as well.
+                                    <p>Att hitta rätt webbdesigner eller webbdesignbyrå med e-handelserfarenhet som förstår nyanserna och begränsningarna hos Shopify kommer att resultera i en bättre e-handelsupplevelse för dina kunder. Din butik kommer att se mer professionell ut och omvandla fler av dina besökare till kunder. Bäst av allt, samtidigt som de erbjuder den robusta funktionaliteten och integrationsmöjligheterna som är inneboende i Shopify.
                                     </p>
-                                    <p>At OuterBox we can help guide you in the right direction, deciding if Shopify is the best solution for your business by looking at your goals, needs, and budget. Shopify may or may not be the right platform of choice depending on the level of customisation you need and your project goals. </p>
-                                    <p>Please give an EcomIN AB representative a call at +46 761 734 777 or fill out the quote request form below to learn more about Shopify and using it for your needs.</p>
+
+                                    <h3>Om Shopify-plattformen
+                                    </h3>
+                                    <p>Shopify är en värdlösning för e-handelswebbplats och kundvagnsapplikation. Även om den är populär plattform har den för- och nackdelar som de flesta kundvagnsplattformar har. Det är för närvarande en av de mest populära e-handelsplattformarna och driver över 23 % av onlinebutikerna.
+
+                                    </p>
+                                    <p>Shopify tillhandahåller en uppsättning initiala mallar som kan anpassas till dina varumärkesstandarder och som har kapacitet att sälja digitala filer och standardprodukter. Shopify är en värdlösning, vilket betyder att den körs på deras servrar och är värd för dem.
+                                    </p>
+                                    <p>En fördel med Shopify är att användare kan ändra designen på webbplatsen utan mycket teknisk kunskap, men HTML och CSS kan också redigeras.
+
+                                    </p>
+                                    <p>På OuterBox kan vi hjälpa dig att vägleda dig i rätt riktning och bestämma om Shopify är den bästa lösningen för ditt företag genom att titta på dina mål, behov och budget. Shopify kanske eller kanske inte är den rätta plattformen att välja på beroende på vilken anpassningsnivå du behöver och dina projektmål.
+                                    </p>
+                                    <p>Vänligen ring en EcomIN AB-representant på +46 761 734 777 eller fyll i formuläret för offertförfrågan nedan för att lära dig mer om Shopify och använda det för dina behov.
+                                    </p>
                                     <div className="services-details-info">
-                                        <h3>Maximise Your Shopify Experience With EcomIN AB </h3>
-                                        <p>After working on the Shopify platform for over a decade, EcomIN AB can provide the guidance you need to determine which plan works best for your business. Then, we can maximise website performance within the package you select.</p>
-                                        <p><b>Shopify
-                                            Ideal</b> for small to midsize businesses
-                                            Built-in e-commerce features, such as abandoned cart recovery Set monthly service price
-                                            Multi-channel integration
-                                            Used by over 500k e-commerce websites globally
+                                        <h3>Maximera din Shopify-upplevelse med EcomIN AB
+                                        </h3>
+                                        <p>Efter att ha arbetat på Shopify-plattformen i över ett decennium kan EcomIN AB ge den vägledning du behöver för att avgöra vilken plan som fungerar bäst för ditt företag. Sedan kan vi maximera webbplatsens prestanda inom det paket du väljer.
+                                        </p>
+                                        <p><b>Shopify Ideal</b> för små till medelstora företag
+                                            Inbyggda e-handelsfunktioner, såsom återställning av övergiven kundvagn. Ställ in månatligt servicepris
+                                            Flerkanalsintegration
+                                            Används av över 500 000 e-handelswebbplatser globalt
                                         </p>
                                         <p><b>Shopify Plus </b>
-                                            best for businesses generating over 5 million dollars in revenue annually Customisable scripts for advanced Shopify development
-                                            Regional store availability
-                                            Infinite staff access
-                                            Able to handle over 10 thousand orders per minute
+                                            bäst för företag som genererar över 5 miljoner dollar i intäkter årligen Anpassningsbara skript för avancerad Shopify-utveckling
+                                            Tillgänglighet i lokal butik
+                                            Oändlig personaltillgång
+                                            Kan hantera över 10 tusen beställningar per minut
                                         </p>
 
                                     </div>
@@ -58,32 +72,53 @@ class SEODetailsContent extends Component {
 
                             <div className="col-lg-4 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>Shopify Website Design & Development Services Include </h3>
+                                    <h3>Shopify webbdesign och utvecklingstjänster inkluderar
+                                    </h3>
                                     <ul>
-                                        <li>Custom Shopify Theme Design</li>
-                                        <li>Theme Coding & Implementation</li>
-                                        <li>Shopify SEO Set-Up</li>
-                                        <li>SEO Campaign Implementation</li>
-                                        <li>Plug-In Setup & Configuration </li>
-                                        <li>ECommerce Conversion Rate </li>
-                                        <li>Optimisation Payment & Shipping </li>
-                                        <li>Set Up</li>
-                                        <li>Launching Shopify Store & much more</li>
+                                        <li>Anpassad Shopify-temadesign
+                                        </li>
+                                        <li>Temakodning och implementering
+                                        </li>
+                                        <li>Shopify SEO-inställning
+                                        </li>
+                                        <li>SEO-kampanjimplementering
+                                        </li>
+                                        <li>Plug-in Setup & Configuration
+                                        </li>
+                                        <li>E-handels omvandlingsfrekvens
+                                        </li>
+                                        <li>Optimering Betalning & Frakt
+                                        </li>
+                                        <li>Uppstart
+                                        </li>
+                                        <li>Lanserar Shopify Store och mycket mer
+                                        </li>
                                     </ul>
                                 </div>
                                 <div className="services-details-info">
-                                    <h3>Why Choose Shopify?</h3>
+                                    <h3>Varför välja Shopify?
+                                    </h3>
                                     <ul>
-                                        <li>An e-commerce solution that can handle volume and doesn’t intimidate. </li>
-                                        <li>Flexible e-commerce system that can be managed via smartphoneFlexible e- commerce system that can be managed via smartphone </li>
-                                        <li>Stable mobile-friendly website themesStable mobile-friendly website themes </li>
-                                        <li>Powerful Shopify shipping solutionsPowerful Shopify shipping solutions </li>
-                                        <li>Unlimited products & bandwidthUnlimited products & bandwidth </li>
-                                        <li>Multiple payment methods available by defaultMultiple payment methods available by default </li>
-                                        <li>Built-in blogging platform for content creationBuilt-in blogging platform for content creation </li>
-                                        <li>Secure PCI Level 1 Compliant checkout processSecure PCI Level 1 Compliant </li>
-                                        <li>checkout process</li>
-                                        <li>Streamlined coupon codes & gift card functionality </li>
+                                        <li>En e-handelslösning som kan hantera volymer och inte skrämmer.
+                                        </li>
+                                        <li>Flexibelt e-handelssystem som kan hanteras via smartphoneFlexibelt e-handelssystem som kan hanteras via smartphone
+                                        </li>
+                                        <li>Stabila mobilvänliga webbplatstemanStabla mobilvänliga webbplatsteman
+                                        </li>
+                                        <li>Kraftfulla Shopify-fraktlösningarKraftfulla Shopify-fraktlösningar
+                                        </li>
+                                        <li>Obegränsade produkter och bandbredd Obegränsade produkter och bandbredd
+                                        </li>
+                                        <li>Flera betalningsmetoder tillgängliga som standard Flera betalningsmetoder tillgängliga som standard
+                                        </li>
+                                        <li>Inbyggd bloggplattform för innehållsskapande Inbyggd bloggplattform för innehållsskapande
+                                        </li>
+                                        <li>Säker PCI Level 1-kompatibel kassaprocess Säker PCI Level 1-kompatibel
+                                        </li>
+                                        <li>kassaprocessen
+                                        </li>
+                                        <li>Strömlinjeformade kupongkoder och presentkortsfunktioner
+                                        </li>
                                     </ul>
                                 </div>
 

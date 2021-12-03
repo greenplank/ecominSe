@@ -19,7 +19,8 @@ class PaidMarketing extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Paid Marketing"
+                    pageTitle="Betald marknadsföring
+                    "
                     BGImage="bg-one"
                 />
 

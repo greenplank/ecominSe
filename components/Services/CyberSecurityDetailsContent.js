@@ -15,56 +15,71 @@ class CloudHostingDetailsContent extends Component {
 
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>Cyber Security Solutions </h2>
-                                    <p>Protect your environment against cyber attacks.
+                                    <h2>Cybersäkerhetslösningar
+                                    </h2>
+                                    <p>Skydda din miljö mot cyberattacker.
                                     </p>
-                                    <p>The cyber threat landscape is constantly evolving and increasingly complex, and most companies don’t have the cyber security tools and capacity in-house to keep security measures up-to-date. Because it’s easier than ever for hackers to initiate an attack, organizations now experience increased risk and higher levels of uncertainty. Subsequently, breaches and successful attacks can cost companies millions — not to mention the harm to your brand’s reputation. </p>
+                                    <p>Cyberhotslandskapet utvecklas ständigt och blir allt mer komplext, och de flesta företag har inte cybersäkerhetsverktygen och kapaciteten internt för att hålla säkerhetsåtgärderna uppdaterade. Eftersom det är enklare än någonsin för hackare att initiera en attack, upplever organisationer nu ökad risk och högre nivåer av osäkerhet. Därefter kan intrång och framgångsrika attacker kosta företag miljoner – för att inte tala om skadan på ditt varumärkes rykte.
+                                    </p>
                                 </div>
                                 <div className="about-image">
-                                        <img src="/images/cyber_Security.webp" alt="image" className="rounded-10" />
+                                    <img src="/images/cyber_Security.webp" alt="image" className="rounded-10" />
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>The right services for your security needs </h3>
+                                    <h3>Rätt tjänster för dina säkerhetsbehov
+                                    </h3>
                                     <p>Our portfolio of cyber security solutions consists of a variety of services designed to meet all of your company’s needs. They’re also customizable to your specific requirements and provide detailed notifications, reporting, and dashboards. We help you choose the best solution, tailored specifically for the cyber security threats your organization faces.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>Penetration Testing</h3>
-                                    <p>We take extra measures to ensure our customers are safe from cyber threats. We work with Northwave, who are team of security experts and Offensive Security Certified Professionals (OSCP), to provide insight in vulnerabilities in your IT environment or web application. We can perform the NW Penetration Test once or periodically to ensure your defence is secure.
+                                    <h3>Penetrationstestning
+                                    </h3>
+                                    <p>Vi vidtar extra åtgärder för att säkerställa att våra kunder är säkra från cyberhot. Vi arbetar med Northwave, som är ett team av säkerhetsexperter och Offensive Security Certified Professionals (OSCP), för att ge insikt i sårbarheter i din IT-miljö eller webbapplikation. Vi kan utföra NW Penetration Test en gång eller periodvis för att säkerställa att ditt försvar är säkert.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>DoS IP Protection  </h3>
-                                    <p>This hardware-based service uses scrubbing centers worldwide to recognize incoming DDoS attacks and re-route this malicious traffic before it reaches your IP address, stopping threats in their tracks.
+                                    <h3>DoS IP-skydd
+                                    </h3>
+                                    <p>Den här hårdvarubaserade tjänsten använder skrubbcenter över hela världen för att känna igen inkommande DDoS-attacker och dirigera om denna skadliga trafik innan den når din IP-adress, vilket stoppar hoten i deras spår.
+
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>Managed Cyber Security </h3>
-                                    <p>We offer a fully integrated SIEM SOC service that combines the best of Security Information & Event Monitoring (SIEM), correlation engines, and a team of cyber security experts. The Security Operations Center (SOC) team monitors your environments 24/7 and responds to threats proactively to mitigate any attack that might occur.
+                                    <h3>Hanterade cybersäkerhet
+                                    </h3>
+                                    <p>Vi erbjuder en helt integrerad SIEM SOC-tjänst som kombinerar det bästa av säkerhetsinformation och händelseövervakning (SIEM), korrelationsmotorer och ett team av cybersäkerhetsexperter. Security Operations Center (SOC)-teamet övervakar dina miljöer 24/7 och reagerar proaktivt på hot för att mildra eventuella attacker som kan inträffa.
+
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>Benefits of our eComIN Cyber Security Services</h3>
-                                    <p>Enjoy peace of mind with 24/7 proactive protection
-                                        Our services constantly monitor your systems and proactively respond to any threat or attack. You will have the peace of mind to focus on your business, knowing that you
-                                        can leave your IT security to us.
+                                    <h3>Fördelar med våra eComIN Cyber ​​Security Services
+                                    </h3>
+                                    <p>Njut av sinnesfrid med proaktivt skydd dygnet runt
+                                        Våra tjänster övervakar ständigt dina system och reagerar proaktivt på alla hot eller attacker. Du kommer att ha sinnesfrid att fokusera på ditt företag, i vetskap om att du
+                                        kan lämna din IT-säkerhet till oss.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>Find the right solution for your threat profile </h3>
-                                    <p>Our portfolio consists of different types of services to fit each of your specific security needs. We will personally help you choose the right solution from the breadth of our product offering, so you can rest assured knowing your business is protected.
+                                    <h3>Hitta rätt lösning för din hotprofil
+                                    </h3>
+                                    <p>Vår portfölj består av olika typer av tjänster för att passa var och en av dina specifika säkerhetsbehov. Vi hjälper dig personligen att välja rätt lösning från bredden av vårt produktutbud, så att du kan vara säker på att du vet att ditt företag är skyddat.
+
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>Customize your cyber protection </h3>
-                                    <p>All of our services are customizable to combat specific cyber security threats and protect your systems. Set up specific profiles and rules to efficiently mitigate threats, and integrate different information and metrics in our dashboards to have a complete overview at all times.
+                                    <h3>Anpassa ditt cyberskydd
+                                    </h3>
+                                    <p>Alla våra tjänster är anpassningsbara för att bekämpa specifika cybersäkerhetshot och skydda dina system. Sätt upp specifika profiler och regler för att effektivt mildra hot, och integrera olika information och mätvärden i våra instrumentpaneler för att alltid ha en fullständig översikt.
+
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h3>Save money </h3>
-                                    <p>Our cyber security services protect you from breaches and attacks on your systems that may ordinarily go unnoticed. Because malicious traffic is mitigated and threats are proactively responded to, you will save the substantial costs of a disrupted business and other damages.
+                                    <h3>Spara pengar
+                                    </h3>
+                                    <p>Våra cybersäkerhetstjänster skyddar dig från intrång och attacker mot dina system som vanligtvis kan gå obemärkt förbi. Eftersom skadlig trafik dämpas och hot reageras proaktivt, kommer du att spara de betydande kostnaderna för en störd verksamhet och andra skador.
                                     </p>
-                                    <b>Get started today! </b>
+                                    <b>Kom igång idag!
+                                    </b>
                                 </div>
                             </div>
                         </div>

@@ -20,7 +20,8 @@ class CloudHosting extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Cloud Hosting"
+                    pageTitle="Cloud Hosting
+                    "
                     BGImage="bg-one"
                 />
 

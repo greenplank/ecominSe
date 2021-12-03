@@ -18,7 +18,8 @@ class SiteAudit extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Site Audit Report"
+                    pageTitle="Webbplatsrevisionsrapport
+                    "
                     BGImage="bg-one"
                 />
 

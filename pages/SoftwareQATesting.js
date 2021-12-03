@@ -17,7 +17,7 @@ class CyberSecurity extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Software QA & Testing"
+                    pageTitle="QA och testning av programvara"
                     BGImage="bg-one"
                 />
 

@@ -11,80 +11,102 @@ class PaidMarketingDetailsContent extends Component {
 
                     <div className="container">
                         <div className="row">
-                            {/* <div className="col-lg-12 col-md-12">
-                                <div className="services-details-image">
-                                    <img src="/images/seo.png" alt="image" />
 
-                                </div>
-                            </div> */}
 
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>PPC Management Services That Grow Businesses</h2>
-                                    <p>PPC, or pay-per-click advertising, is one of the best ways to target your most qualified audience. It allows you to reach them where they’re already looking, and gain a leg up against competitors.
+                                    <h2>PPC Management Services som växer företag
+                                    </h2>
+                                    <p>PPC, eller betala-per-klick-annonsering, är ett av de bästa sätten att rikta in sig på din mest kvalificerade målgrupp. Det låter dig nå dem där de redan letar, och få ett ben mot konkurrenterna.
+
                                     </p>
 
-                                    <p>EcomIN AB can deliver a custom PPC campaign to help you increase both conversions and revenue for your company with our PPC management services.
+                                    <p>EcomIN AB kan leverera en anpassad PPC-kampanj för att hjälpa dig att öka både konverteringar och intäkter för ditt företag med våra PPC-hanteringstjänster.
+
                                     </p>
-                                    <p>Check out our pay-per-click management pricing table below to see what’s included in each of our PPC service plans and to learn more about how paid ads can drive results for your business.</p>
-
-                                    <h3>Did You Know? </h3>
-                                    <p>AdWords have proven to generate high ROI for e-commerce sites, and as a result, more e-commerce owners are using it.</p>
-
-                                    <h3>PPC Campaign Management </h3>
-                                    <p>Launching a new product? Use PPC. Launching a new website? Use PPC. Do you need leads or more sales? Use PPC. What if you’re rebranding your company? Great, PPC can help there too.
-                                    </p>
-                                    <p>While PPC is not an Almighty formula for all kinds of e-commerce needs, it sure can provide magical solutions. Pay-Per-Click is a marketing technique that can put your business out there for the world. Using any of the different types of PPC options to reach your targeted user base and grow your business rapidly. </p>
-
-                                    <h3>Text Ads</h3>
-                                    <p>PPC text ads appear on search engines such as Google, right above the search results. PPC text Ads, also known as Search Ads, show some EcomIN AB details about your business for potential customers to reach you. It always attaches a link to your e- commerce site and phone contact. When visitors click on the link it takes them to the designated landing page. </p>
-                                    <p>EcomIN AB details of business
-                                        Link to a designated landing page Phone contact
-                                        Appear above search results on SERPs Rapid brand awareness
+                                    <p>Kolla in vår pristabell för hantering av betala per klick nedan för att se vad som ingår i alla våra PPC-serviceplaner och för att lära dig mer om hur betalda annonser kan ge resultat för ditt företag.
                                     </p>
 
-                                    <h3>Shopping Ads </h3>
-                                    <p>PPC shopping ads appear above search results just like Text Ads. The shopping Ad will show products images with the price and offline or online store details. Shopping Ads have a high click-through rate because they’re visual thus allowing potential customers to peep at the products even before visiting the store. As an e-commerce owner, shopping ads will let you present good images or GIFs of your products showing the products in detail while highlighting the benefits of your products. As a result, your product will gain exposure in Google’s Shopping Network and the internet at large. </p>
-                                    <p>Displays product image, price and merchant name Appear above search results on SERPs
-                                        High click-through rate
+                                    <h3>Visste du?
+                                    </h3>
+                                    <p>AdWords har visat sig generera hög ROI för e-handelssajter, och som ett resultat av detta använder fler e-handelsägare det.
                                     </p>
 
-                                    <h3>Display Ads</h3>
-                                    <p>This is a type of visual PPC advertisement on Google. Google uses its Display Network to help e-commerce sites advertise their brands using any form of video, text, GIF, image and other rich media. There are 2 million websites on Google’s Display Network. As a part of the Display Network, your display ad may appear on blog posts, in between the paragraphs of news articles online, or at the bottom within mobile apps. When users click on a display ad, they will be redirected to the site’s landing page. Display ads are directed at people who have an interest in the product or service, judging by their search history. A user who often googles motorcycles will get PPC display ads of motorcycles.</p>
-                                    <p>**Display products or services
-                                        Link to call on mobile
-                                        Aims at users who have an interest in the products or services
+                                    <h3>PPC-kampanjhantering
+                                    </h3>
+                                    <p>Lanserar du en ny produkt? Använd PPC. Lanserar du en ny webbplats? Använd PPC. Behöver du leads eller mer försäljning? Använd PPC. Vad händer om du byter varumärke på ditt företag? Bra, PPC kan hjälpa till där också.
+
+                                    </p>
+                                    <p>Även om PPC inte är en allsmäktig formel för alla typer av e-handelsbehov, kan den säkert ge magiska lösningar. Betala per klick är en marknadsföringsteknik som kan sätta ditt företag där ute för världen. Använd någon av de olika typerna av PPC-alternativ för att nå din riktade användarbas och växa ditt företag snabbt.
                                     </p>
 
-                                    <h3>Remarketing Ads</h3>
-                                    <p>Sometimes when you visit a particular e-commerce site for window shopping or actual purchase, you start seeing Ads of the said e-commerce site everywhere you go on the web after. This is called Remarketing PPC Ads. It targets people who have visited particular sites to check some products then continues to show them ads from the same sites and of the same products they checked. It’s an effective strategy for getting repeat customers and overall great Ad technique that you can also use to grow your business.</p>
-                                    <p>Continuously appear after you visit the site Follow you across the web
-                                        Re-engage customers
+                                    <h3>Textannonser
+                                    </h3>
+                                    <p>PPC-textannonser visas på sökmotorer som Google, precis ovanför sökresultaten. PPC-textannonser, även känd som sökannonser, visar några EcomIN AB-detaljer om ditt företag så att potentiella kunder kan nå dig. Den bifogar alltid en länk till din e-handelssida och telefonkontakt. När besökare klickar på länken tar de dem till den angivna målsidan.
+                                    </p>
+                                    <p>EcomIN AB uppgifter om verksamheten
+                                        Länk till en angiven målsida Telefonkontakt
+                                        Visas ovanför sökresultaten på SERPs snabba varumärkeskännedom
                                     </p>
 
-                                    <h3>Why our PPC management services are second to none </h3>
-                                    <p>Our pay-per-click management services allow you to get the most out of your campaigns, by taking every detail into consideration.
+                                    <h3>Shopping-annonser
+                                    </h3>
+                                    <p>PPC-shoppingannonser visas ovanför sökresultaten precis som textannonser. Shoppingannonsen visar produktbilder med priset och information om offline- eller onlinebutik. Shopping-annonser har en hög klickfrekvens eftersom de är visuella, vilket gör att potentiella kunder kan titta på produkterna redan innan de besöker butiken. Som ägare av e-handel låter shoppingannonser dig presentera bra bilder eller GIF-bilder av dina produkter som visar produkterna i detalj samtidigt som du lyfter fram fördelarna med dina produkter. Som ett resultat kommer din produkt att få exponering i Googles shoppingnätverk och internet i stort.
                                     </p>
-                                    <p>We offer custom strategies for mid-size businesses that allow you to find PPC advertising services that match the goals you have for the campaign.</p>
-                                    <p>For all campaigns managed by EcomIN AB, you’ll get the latest in advertising technology to help target a precise market. Our campaigns utilize Google’s robust PPC network, text ad remarketing and banner remarketing to encourage previous visitors to convert, Google customer match and audience match to hone in your target audience, and more. </p>
-                                    <p>Some of our PPC advertising services are by quote only, so consult us for more information. </p>
+                                    <p>Visar produktbild, pris och säljarens namn Visas ovanför sökresultaten på SERP
+                                        Hög klickfrekvens
+                                    </p>
+
+                                    <h3>Visa annonser
+                                    </h3>
+                                    <p>Detta är en typ av visuell PPC-reklam på Google. Google använder sitt Display-nätverk för att hjälpa e-handelswebbplatser att marknadsföra sina varumärken med hjälp av någon form av video, text, GIF, bild och annan multimedia. Det finns 2 miljoner webbplatser i Googles Display-nätverk. Som en del av Display-nätverket kan din visningsannons visas i blogginlägg, mellan avsnitten i nyhetsartiklar online eller längst ner i mobilappar. När användare klickar på en visningsannons omdirigeras de till webbplatsens målsida. Visningsannonser riktar sig till personer som har ett intresse för produkten eller tjänsten, att döma av deras sökhistorik. En användare som ofta googlar på motorcyklar får PPC-visningsannonser för motorcyklar.
+                                    </p>
+                                    <p>**Visa produkter eller tjänster
+                                        Länk till samtal på mobil
+                                        Riktar sig till användare som har ett intresse av produkterna eller tjänsterna
+                                    </p>
+
+                                    <h3>Remarketingannonser
+                                    </h3>
+                                    <p>Ibland när du besöker en viss e-handelssida för fönstershopping eller faktiska köp, börjar du se annonser från nämnda e-handelssida överallt där du går på webben efteråt. Detta kallas remarketing PPC-annonser. Den riktar sig till personer som har besökt vissa webbplatser för att kontrollera vissa produkter och fortsätter sedan att visa dem annonser från samma webbplatser och för samma produkter som de kontrollerade. Det är en effektiv strategi för att få återkommande kunder och en övergripande bra annonsteknik som du också kan använda för att växa ditt företag.
+                                    </p>
+                                    <p>Visas kontinuerligt efter att du besökt webbplatsen Följ dig på webben
+                                        Engagera kunderna igen
+                                    </p>
+
+                                    <h3>Varför våra PPC-hanteringstjänster är oöverträffade
+                                    </h3>
+                                    <p>Våra tjänster för hantering av betalning per klick låter dig få ut det mesta av dina kampanjer genom att ta hänsyn till varje detalj.
+
+                                    </p>
+                                    <p>Vi erbjuder anpassade strategier för medelstora företag som låter dig hitta PPC-annonseringstjänster som matchar de mål du har för kampanjen.
+                                    </p>
+                                    <p>För alla kampanjer som hanteras av EcomIN AB får du det senaste inom reklamteknik för att hjälpa dig att rikta in dig på en exakt marknad. Våra kampanjer använder Googles robusta PPC-nätverk, textannonsremarketing och bannerremarketing för att uppmuntra tidigare besökare att konvertera, Googles kundmatchning och målgruppsmatchning för att finslipa din målgrupp med mera.
+                                    </p>
+                                    <p>Vissa av våra PPC-annonseringstjänster är endast genom offert, så kontakta oss för mer information.
+                                    </p>
 
                                     <div className="services-details-info">
-                                        <h3>What do our PPC Management services include? </h3>
-                                        <p>When you choose our PPC management services for your online ad management solution, you receive a turnkey resolution to developing, managing, and improving your PPC strategy. Plus, you get to partner with an agency that brings over 20 years of experience with pay-per-click campaign management. </p>
-                                        <p>Get a preview of what our PPC advertising management services include: </p>
-                                        <p>We provide you with a dedicated account representative
-                                            We build a custom PPC strategy for your business, industry, and goals
-                                            We research anywhere from 400 to 10,000 keywords for your campaigns
+                                        <h3>Vad omfattar våra PPC Management-tjänster?
+                                        </h3>
+                                        <p>När du väljer våra PPC-hanteringstjänster för din onlineannonshanteringslösning får du en nyckelfärdig lösning för att utveckla, hantera och förbättra din PPC-strategi. Dessutom får du samarbeta med en byrå som har över 20 års erfarenhet av kampanjhantering med betala per klick.
                                         </p>
-                                        <p>We target Google (including search and display), Bing, and Gmail
-                                            We use advanced artificial intelligence to research competitor ad strategies We develop custom ad campaign copy, which we then test for performance We manage ad bids strategically to maximise your return on ad spend
+                                        <p>Få en förhandstitt på vad våra tjänster för PPC-annonsering inkluderar:
                                         </p>
-                                        <p>We optimise current ad copy, design, and targeting to improve performance We monitor and update account settings to ensure PPC performance
+                                        <p>Vi förser dig med en dedikerad kontorepresentant
+                                            Vi bygger en anpassad PPC-strategi för ditt företag, din bransch och dina mål
+                                            Vi undersöker allt från 400 till 10 000 sökord för dina kampanjer
                                         </p>
-                                        <p>We track up to 100 web lead phone calls</p>
-                                        <p>We provide regular reports to keep your business up-to-date
-                                            And more!
+                                        <p>Vi riktar in oss på Google (inklusive sökning och visning), Bing och Gmail
+                                            Vi använder avancerad artificiell intelligens för att undersöka konkurrerande annonsstrategier. Vi utvecklar anpassade annonskampanjer, som vi sedan testar för prestanda. Vi hanterar annonsbud strategiskt för att maximera din avkastning på annonsutgifter
+                                        </p>
+                                        <p>Vi optimerar nuvarande annonstext, design och inriktning för att förbättra prestanda. Vi övervakar och uppdaterar kontoinställningar för att säkerställa PPC-prestanda
+
+                                        </p>
+                                        <p>Vi spårar upp till 100 telefonsamtal på nätet
+                                        </p>
+                                        <p>Vi tillhandahåller regelbundna rapporter för att hålla ditt företag uppdaterat
+                                            Och mer!
                                         </p>
                                     </div>
 
@@ -93,52 +115,81 @@ class PaidMarketingDetailsContent extends Component {
 
                             <div className="col-lg-4 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>PPC Setup Process</h3>
-                                    <p>When we first talk with new companies, they always ask how we plan to onboard their account. So, here’s how we do it: </p>
+                                    <h3>PPC-installationsprocess
+                                    </h3>
+                                    <p>När vi först pratar med nya företag frågar de alltid hur vi planerar att ta med deras konto. Så här gör vi:
+                                    </p>
                                     <ul>
-                                        <li><b>Step 1</b><br /> <b>Questionnaires: </b>EcomIN AB prides itself on a tested and proven process that delivers consistent results. The first step of onboarding any new PPC account starts with requesting the client fill out questionnaires, not only about PPC, but about their target buyers, and their competition. We’re more than PPC managers, we’re marketing strategists who take a holistic view of any marketing challenge. </li>
-                                        <li><b>Step 2</b><br /> <b>Audit of Current Account: </b>Our first step is to always assess and evaluate the current condition of the PPC account we’re taking over. EcomIN AB has created a custom PPC account audit process and checklist based on years of analysing accounts. This audit helps us shine light on low hanging fruit opportunities, as well as points out potential red flags. We breakdown the current account to learn as much as we can from past performance,
-                                            and then benchmark all KPIs as a baseline.
+                                        <li><b>Steg 1</b><br /> <b>Frågeformulär
+                                            : </b>EcomIN AB är stolt över en testad och beprövad process som ger konsekventa resultat. Det första steget för att ta in ett nytt PPC-konto börjar med att be kunden fylla i frågeformulär, inte bara om PPC, utan om deras målköpare och deras konkurrenter. Vi är mer än PPC-chefer, vi är marknadsföringsstrateger som har en helhetssyn på alla marknadsföringsutmaningar.
                                         </li>
-                                        <li><b>Step 3</b><br /> <b>Kickoff Meeting: </b>It’s important to start things off on the right foot. Every new client receives a kickoff meeting with the full team to review our timeline and walk through each step of the setup process. We also use this meeting for discovery where we review completed questionnaires. </li>
-                                        <li><b>Step 4</b><br /> <b>Keyword Research: </b>If we’re running a search campaign, our next step is perform keyword research (based on any missing opportunities found in the audit). We break our proposed new keyword list down into groups and submit back to the client for approval before inputting keywords into the account. </li>
-                                        <li><b>Step 5</b><br /> <b>Account Setup or Restructuring: </b>This step includes optimising all the various account settings, such as: Campaign setup, Ad Group setup, Ad Copywriting & Testing setup, Match Type setup, Extensions setup, Bids setup, Goal Tracking setup, Call Tracking, Ad Design (for display and remarking campaigns), Negative Keywords setup, and Audience/In Market Targeting setup </li>
-                                        <li><b>Step 6</b><br /> <b>Ad Writing: </b>Writing PPC ads is a balance of art and science. The ads need to be persuasive, yet informative, yet direct, all within very tight character limits. Luckily EcomIN AB has a team of experienced copywriters who have been writing PPC ads for years. We also consistently test ad copy to determine what works best, so we have an arsenal of data to build off of. </li>
-                                        <li><b>Step 7</b><br /> <b>Ad Design: </b>If we’re running display campaigns, EcomIN AB will design multiple flights of ads in the chosen ad platform’s recommended ad size dimensions. Our ads are designed to be enticing and eye-catching, while still representing our clients’ brand. </li>
-                                        <li><b>Step 8</b><br /> <b>Landing Page Setup: </b>The ads are only half the equation. To have meaningful PPC success, the ads need to drive users to a landing page that will convert them. EcomIN AB will help write, design, and develop best practices landing pages for your campaigns. We’ve formed our own landing page best practices based on years of testing different landing page formats. </li>
-                                        <li><b>Step 9</b><br /> <b>Report Creation: </b>EcomIN AB creates a custom dashboard report for each client. To start off, EcomIN AB
-                                            imports in all historical data and then we update our main dashboard report every month. EcomIN AB reports on metrics in plain english. We pride ourselves on reporting in the language of your business (leads, sales) and we don’t try to mislead you with vanity metrics. We provide and review reports with clients on a monthly basis. That said, you’ll always have full access to your account and can log in at any time to review metrics.
+                                        <li><b>Steg 2</b><br /> <b>Granskning av löpande konto:
+                                        </b>Vårt första steg är att alltid utvärdera och utvärdera det aktuella skicket för PPC-kontot som vi tar över. EcomIN AB har skapat en skräddarsydd PPC-kontorevisionsprocess och checklista baserad på år av analyser av konton. Denna granskning hjälper oss att belysa lågt hängande fruktmöjligheter, samt pekar ut potentiella röda flaggor. Vi delar upp det aktuella kontot för att lära oss så mycket vi kan av tidigare resultat,
+
                                         </li>
-                                        <li><b>Step 10</b><br /> <b>Weekly Calls/Meetings Scheduled: </b>It’s critical that we’re constantly communicating with our clients about the status of their PPC campaigns. Therefore, we schedule weekly (or monthly) calls/meetings to provide status updates. The size of the campaign and budget will determine if a weekly check in is required, or if a monthly check in will do. </li>
+                                        <li><b>Steg 3</b><br /> <b>Kickoff möte
+                                            : </b>Det är viktigt att börja saker på rätt fot. Varje ny kund får ett kickoffmöte med hela teamet för att granska vår tidslinje och gå igenom varje steg i installationsprocessen. Vi använder även detta möte för upptäckt där vi granskar ifyllda frågeformulär.
+                                        </li>
+                                        <li><b>Steg 4</b><br /> <b>Sökordsforskning: </b>Om vi ​​kör en sökkampanj är vårt nästa steg att utföra sökordsundersökningar (baserat på eventuella saknade möjligheter i granskningen). Vi delar upp vår föreslagna nya sökordslista i grupper och skickar tillbaka till kunden för godkännande innan vi matar in sökord i kontot.
+                                        </li>
+                                        <li><b>Steg 5</b><br /> <b>Kontoinställning eller omstrukturering
+                                            : </b>Det här steget inkluderar att optimera alla olika kontoinställningar, till exempel: Kampanjinställningar, Annonsgruppskonfiguration, Ad Copywriting & Testing Setup, Match Type Setup, Extension Setup, Bud Setup, Målspårning Setup, Call Tracking, Ad Design (för visning och remarkering) kampanjer), inställning av negativa sökord och inriktning på målgrupp/på marknaden
+                                        </li>
+                                        <li><b>Steg 6</b><br /> <b>Annonsskrivning
+                                            : </b>Att skriva PPC-annonser är en balans mellan konst och vetenskap. Annonserna måste vara övertygande, men ändå informativa, men ändå direkta, allt inom mycket snäva teckengränser. Som tur är har EcomIN AB ett team av erfarna copywriters som har skrivit PPC-annonser i flera år. Vi testar också konsekvent annonstext för att avgöra vad som fungerar bäst, så vi har en arsenal av data att bygga vidare på.
+                                        </li>
+                                        <li><b>Steg 7</b><br /> <b>Annonsdesign: </b>Om vi ​​kör displaykampanjer kommer EcomIN AB att designa flera visningar av annonser i den valda annonsplattformens rekommenderade annonsstorleksdimensioner. Våra annonser är designade för att vara lockande och iögonfallande, samtidigt som de representerar våra kunders varumärke.
+                                        </li>
+                                        <li><b>Steg 8</b><br /> <b>Inställning av målsida
+                                            : </b>Annonserna är bara halva ekvationen. För att få meningsfull PPC-framgång måste annonserna leda användare till en målsida som kommer att konvertera dem. EcomIN AB hjälper till att skriva, designa och utveckla målsidor för bästa praxis för dina kampanjer. Vi har tagit fram våra egna bästa praxis för målsidor baserat på år av tester av olika målsidesformat.
+                                        </li>
+                                        <li><b>Steg 9</b><br /> <b>Skapa rapport
+                                            : </b>EcomIN AB skapar en anpassad dashboardrapport för varje kund. Till att börja med, EcomIN AB
+                                            importerar in all historisk data och sedan uppdaterar vi vår huvudinstrumentpanelsrapport varje månad. EcomIN AB rapporterar om mått på vanlig engelska. Vi är stolta över att rapportera på ditt företags språk (leads, försäljning) och vi försöker inte vilseleda dig med fåfänga mätvärden. Vi tillhandahåller och granskar rapporter med kunder på månadsbasis. Som sagt, du har alltid full åtkomst till ditt konto och kan logga in när som helst för att granska statistik.
+                                        </li>
+                                        <li><b>Steg 10</b><br /> <b>Inplanerade samtal/möten varje vecka
+                                            : </b>Det är viktigt att vi ständigt kommunicerar med våra kunder om statusen för deras PPC-kampanjer. Därför schemalägger vi veckovisa (eller månatliga) samtal/möten för att ge statusuppdateringar. Kampanjens storlek och budget avgör om en veckovis incheckning krävs eller om en månatlig incheckning är lämplig.
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
 
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>PPC Management Pricing</h3>
-                                    <p>EComIN’s pricing for PPC management services is pretty straightforward. We charge a one-time account setup (or re-structure) cost which varies depending on the status of the account we’re onboarding, plus a monthly management fee as a percentage of spend. </p>
+                                    <h3>PPC Management Prissättning
+                                    </h3>
+                                    <p>EComINs prissättning för PPC-hanteringstjänster är ganska okomplicerad. Vi tar ut en engångskostnad för kontoinställning (eller omstrukturering) som varierar beroende på statusen för kontot vi använder, plus en månatlig förvaltningsavgift som en procentandel av utgifterna.
+                                    </p>
                                     <div className="services-details-info">
-                                        <p>Sample One-Time Account Setup
+                                        <p>Exempel på engångskontoinställning
+
                                         </p>
-                                        <p>******Project Price******</p>
+                                        <p>******Projektpris******</p>
                                         <ul>
-                                            <li><b>Discovery: </b> Kickoff-meeting, strategy, budgeting, account review/setup </li>
-                                            <li><b>$750 </b> Keyword research & grouping or audience & demographic research </li>
-                                            <li><b>$1,250 </b> Campaign setup
+                                            <li><b>Upptäckt
+                                                : </b>Kickoff-möte, strategi, budgetering, kontogranskning/setup
                                             </li>
-                                            <li><b>$1,500 </b> Landing page design </li>
-                                            <li><b>$1,500 </b> Content update</li>
-                                            <li><b>$5,000 </b> Total Amount </li>
+                                            <li><b>$750 </b> Sökordsforskning & gruppering eller publik & demografisk forskning
+                                            </li>
+                                            <li><b>$1,250 </b> Kampanjinställningar
+                                            </li>
+                                            <li><b>$1,500 </b> Design av målsida
+                                            </li>
+                                            <li><b>$1,500 </b> Uppdatering av innehåll
+                                            </li>
+                                            <li><b>$5,000 </b> Totala summan
+                                            </li>
                                         </ul>
                                         <br />
                                         <ul>
-                                            <li>Monthly Management Fee Structure
-                                                Spend level is based on a per channel/network spend (unless otherwise noted), i.e. $5k spend in Google network and $5k spend in Facebook/Instagram network is NOT a $10k spend level and would use rates based on $5k spend level.
+                                            <li>Månatlig förvaltningsavgiftsstruktur
+                                                Utgiftsnivån är baserad på en utgift per kanal/nätverk (om inget annat anges), dvs spendera 5 000 USD i Googles nätverk och 5 000 USD i Facebook/Instagram-nätverk är INTE en utgiftsnivå på 10 000 USD och skulle använda priser baserade på 5 000 USD. .
                                             </li>
-                                            <li>Clients who are also enrolled in a digital marketing retainer receive a 10% discount on the below monthly management fees. </li>
-                                            <p>******Project Price******</p>
-                                            <li> Greater than $3,000 $600 minimum €3,000 – €4,999 20% €5,000 – €9,999 17.5% €10,000 – €19,999 15%
+                                            <li>Kunder som också är inskrivna i en digital marknadsföringsretainer får 10 % rabatt på nedanstående månatliga förvaltningsavgifter.
+                                            </li>
+                                            <p>******Projektpris******</p>
+                                            <li> Större än
+                                                $3,000 $600 minimum €3,000 – €4,999 20% €5,000 – €9,999 17.5% €10,000 – €19,999 15%
                                                 €20,000 – €29,999 12.5% €30,000 – €199,999 10%
                                             </li>
                                         </ul>
@@ -146,26 +197,40 @@ class PaidMarketingDetailsContent extends Component {
                                 </div>
                                 <div className="services-details-info">
                                     <div className="services-details-info">
-                                        <h3>EComIN’s Approach to PPC Management </h3>
-                                        <p>Every agency will approach PPC from a different angle. Here are the nine core beliefs our PPC program is based on: </p>
+                                        <h3>EComINs tillvägagångssätt för PPC-hantering
+                                        </h3>
+                                        <p>Varje byrå kommer att närma sig PPC från en annan vinkel. Här är de nio grundläggande övertygelserna som vårt PPC-program bygger på:
+                                        </p>
                                         <ul>
-                                            <li>You Own the Account
-                                                Your PPC account is an asset. You paid for it to be built and optimised, and you should own it, regardless of who your PPC management agency is.
+                                            <li>Du äger kontot
+                                                Ditt PPC-konto är en tillgång. Du betalade för att den skulle byggas och optimeras, och du borde äga den, oavsett vem din PPC-förvaltningsbyrå är.
                                             </li>
-                                            <li>Optimize for Conversions
-                                                You care about leads and/or sales, not clicks, or impressions, or click-through-rate (CTR), or any other vanity metrics. We only optimise for the metrics your business understands and cares about.
+                                            <li>Optimera för omvandlingar
+                                                Du bryr dig om potentiella kunder och/eller försäljning, inte klick eller visningar, eller klickfrekvens (CTR) eller andra fåfängavärden. Vi optimerar endast för de mätvärden ditt företag förstår och bryr sig om.
                                             </li>
-                                            <li>Report in Natural Language
-                                                We report on the metrics your business cares about, and spare you the technical gibberish. Unless you want to nerd out, then we’re happy to talk shop.
+                                            <li>Rapport på naturligt språk
+                                                Vi rapporterar om de mätvärden ditt företag bryr sig om och besparar dig det tekniska strulet. Om du inte vill nörda, så pratar vi gärna butik.
                                             </li>
-                                            <li><b>No Silos:</b>
-                                                eComIN’s PPC program is built to support the efforts of our overall digital marketing department, specifically content marketing, conversion rate optimisation (CRO) and search engine optimisation (SEO).
+                                            <li><b>Inga silor
+                                                :</b>
+                                                eComINs PPC-program är byggt för att stödja insatserna från vår övergripande digitala marknadsföringsavdelning, särskilt innehållsmarknadsföring, konverteringsoptimering (CRO) och sökmotoroptimering (SEO).
+
                                             </li>
-                                            <li><b>No Long-Term Contracts:</b>Our PPC contracts run month-to-month and require 30 days notice to cancel. We believe the best way to keep a client around is to do an amazing job, not lock them into a long-term contract.</li>
-                                            <li><b>No Autopilot:</b>We manually manage campaigns on a daily and/or weekly basis depending on the velocity of the spend. This ensures our PPC managers are always keeping a pulse on the account performance and making improvements quickly. </li>
-                                            <li><b>Dedicated Account Manager:</b>Each client has a dedicated point of contact, who provides weekly updates, responds to any questions in less than 24 hours, attends weekly or monthly calls, and is available for questions whenever needed. Our account managers will also continually post updates for clients on our project management software, Basecamp. </li>
-                                            <li><b>Have The Best People:</b>While we use some technology to track and tweak campaigns, the people we have managing the accounts are the reason for performance improvements. From our account managers, to PPC specialists, to graphic designers and web developers, we invest heavily in recruiting and retaining the most-talented people around. Don’t believe us? Check out our employee perks.</li>
-                                            <li><b>Set a New High Score:</b>When eComIN takes over any new PPC accounts, our goal is to set a new high score. While maintaining an account is great, that’s not what drives us. We’re passionate about showing how much we can improve when given the opportunity. It’s not uncommon for us to increase conversions by 50-90% (while driving down the costs) in the first several months. </li>
+                                            <li><b>Inga långtidskontrakt
+                                                :</b>Våra PPC-kontrakt löper månad till månad och kräver 30 dagars varsel för att säga upp. Vi tror att det bästa sättet att behålla en kund är att göra ett fantastiskt jobb, inte låsa in dem i ett långsiktigt kontrakt.
+                                            </li>
+                                            <li><b>Ingen autopilot:
+                                            </b>Vi hanterar kampanjer manuellt dagligen och/eller veckovis beroende på hur snabbt kostnaderna är. Detta säkerställer att våra PPC-ansvariga alltid håller koll på kontoprestanda och gör förbättringar snabbt.
+                                            </li>
+                                            <li><b>Dedikerad Account Manager
+                                                :</b>Varje kund har en dedikerad kontaktpunkt, som tillhandahåller veckouppdateringar, svarar på alla frågor på mindre än 24 timmar, deltar i vecko- eller månadssamtal och är tillgänglig för frågor när det behövs. Våra kontoansvariga kommer också kontinuerligt att publicera uppdateringar för kunder om vår projektledningsprogramvara, Basecamp.
+                                            </li>
+                                            <li><b>Ha de bästa människorna
+                                                :</b>Även om vi använder viss teknik för att spåra och finjustera kampanjer, är de personer vi har som hanterar kontona orsaken till prestandaförbättringar. Från våra kontoansvariga, till PPC-specialister, till grafiska designers och webbutvecklare, vi investerar mycket i att rekrytera och behålla de mest begåvade människorna som finns. Tror du oss inte? Kolla in våra anställdas förmåner.
+                                            </li>
+                                            <li><b>Sätt ett nytt högsta resultat
+                                                :</b>När eComIN tar över några nya PPC-konton är vårt mål att sätta en ny topppoäng. Även om det är bra att upprätthålla ett konto, är det inte det som driver oss. Vi brinner för att visa hur mycket vi kan förbättra när vi får möjligheten. Det är inte ovanligt att vi ökar konverteringarna med 50–90 % (samtidigt som vi minskar kostnaderna) under de första månaderna.
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>

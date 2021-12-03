@@ -19,7 +19,8 @@ class AppDev extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="App Development"
+                    pageTitle="Apputveckling
+                    "
                     BGImage="bg-one"
                 />
 

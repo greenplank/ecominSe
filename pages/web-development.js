@@ -19,7 +19,7 @@ class WebDevelopment extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Web Development"
+                    pageTitle="Webbutveckling"
                     BGImage="bg-two"
                 />
 

@@ -12,7 +12,8 @@ class Portfolio extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Our portfolio"
+                    pageTitle="
+                    Vår portfölj"
                     BGImage="bg-three"
                 />
 

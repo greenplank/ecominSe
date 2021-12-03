@@ -19,7 +19,7 @@ class ReactNext extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="React&NextJs Development"
+                    pageTitle="React&NextJs utveckling"
                     BGImage="bg-one"
                 />
 

@@ -19,7 +19,7 @@ class WordpressAllinOne extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Wordpress All in One"
+                    pageTitle="Wordpress allt i ett"
                     BGImage="bg-two"
                 />
 

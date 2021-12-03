@@ -25,13 +25,18 @@ class MainBanner extends Component {
                                 <div className="row">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
-                                            <span>We Design, Develop & Support</span>
-                                            <h1>The Technology Your Business Relies On</h1>
-                                            <h3>Highly experienced Software & IT team, at your service</h3>
-                                            <p>EcomIN is an international software development agency based in Sweden. From software development to digital marketing and design — we help companies transform their ideas into reality and boost growth.</p>
+                                            <span>Vi designar, utvecklar och stöttar
+                                            </span>
+                                            <h1>Tekniken ditt företag litar på
+                                            </h1>
+                                            <h3>Mycket erfaret mjukvaru- och IT-team, till din tjänst
+                                            </h3>
+                                            <p>EcomIN är en internationell mjukvaruutvecklingsbyrå med säte i Sverige. Från mjukvaruutveckling till digital marknadsföring och design – vi hjälper företag att omvandla sina idéer till verklighet och öka tillväxten.
+                                            </p>
 
                                             <Link href="/web-development" >
-                                                <a className="btn btn-primary">Our Services
+                                                <a className="btn btn-primary">Våra tjänster
+
                                                 </a>
                                             </Link>
 
@@ -40,20 +45,21 @@ class MainBanner extends Component {
                                                     onClick={e => { e.preventDefault(); this.openModal() }}
                                                     className="btn btn-secondary"
                                                 >
-                                                    <i className="icofont-ui-play"></i>Watch the video
+                                                    <i className="icofont-ui-play"></i>Titta på videon
+
                                                 </a>
                                             </Link>
                                         </div>
                                     </div>
 
                                     <div className="col-lg-6">
-                                   
-                                            <img
-                                                src="/images/illustration1.webp"
-                                                className="main-pic"
-                                                alt="image"
-                                            />
-                                       
+
+                                        <img
+                                            src="/images/illustration1.webp"
+                                            className="main-pic"
+                                            alt="image"
+                                        />
+
                                     </div>
                                 </div>
                             </div>

@@ -64,17 +64,11 @@ class NavbarTwo extends Component {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {/* <li className="nav-item">
-                                        <Link href="/">
-                                            <a className="nav-link" activeClassName="active">
-                                                Home
-                                            </a>
-                                        </Link>
-                                    </li> */}
+
                                     <li className="nav-item">
                                         <Link href="#">
                                             <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                Solutions
+                                                Lösningar
                                                 <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
@@ -82,17 +76,20 @@ class NavbarTwo extends Component {
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/WordpressAllinOne" activeClassName="active">
-                                                    <a className="nav-link">Wordpress-All-in-One</a>
+                                                    <a className="nav-link">Wordpress-Allt-i-ett
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/CustomContentAllinOne" activeClassName="active">
-                                                    <a className="nav-link">Custom+Content Boost All-in-One</a>
+                                                    <a className="nav-link">Custom+Content Boost allt-i-ett
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/PlatformMigration" activeClassName="active">
-                                                    <a className="nav-link">Platform Migration</a>
+                                                    <a className="nav-link">Plattformsmigrering
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
@@ -102,12 +99,14 @@ class NavbarTwo extends Component {
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/CyberSecurity" activeClassName="active">
-                                                    <a className="nav-link">Cyber Security</a>
+                                                    <a className="nav-link">Cybersäkerhet
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/SoftwareQATesting" activeClassName="active">
-                                                    <a className="nav-link">Software QA Testing</a>
+                                                    <a className="nav-link">QA-testning av programvara
+                                                    </a>
                                                 </Link>
                                             </li>
                                         </ul>
@@ -115,7 +114,7 @@ class NavbarTwo extends Component {
                                     <li className="nav-item">
                                         <Link href="#">
                                             <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                Website Development
+                                                Webbplatsutveckling
                                                 <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
@@ -123,17 +122,20 @@ class NavbarTwo extends Component {
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/web-development" activeClassName="active">
-                                                    <a className="nav-link">Web Development</a>
+                                                    <a className="nav-link">Webbutveckling
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/React-Next-Development" activeClassName="active">
-                                                    <a className="nav-link">React&NextJs Development</a>
+                                                    <a className="nav-link">React&NextJs utveckling
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/ux-ui-design" activeClassName="active">
-                                                    <a className="nav-link">UX/UI Designing</a>
+                                                    <a className="nav-link">UX/UI-design
+                                                    </a>
                                                 </Link>
                                             </li>
                                         </ul>
@@ -141,15 +143,15 @@ class NavbarTwo extends Component {
                                     <li className="nav-item">
                                         <Link href="#">
                                             <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                E-Commerce
-                                                <i className="icofont-thin-down"></i>
+                                                E-handel                                                <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
 
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/Magento-Development" activeClassName="active">
-                                                    <a className="nav-link">Magento Development</a>
+                                                    <a className="nav-link">Magento utveckling
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
@@ -172,33 +174,39 @@ class NavbarTwo extends Component {
                                     <li className="nav-item">
                                         <Link href="#" onClick={e => e.preventDefault()}>
                                             <a className="nav-link">
-                                                Digital Marketing<i className="icofont-thin-down"></i>
+                                                Digital marknadsföring
+                                                <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/Search-Engine-Optimization" activeClassName="active">
-                                                    <a className="nav-link">SEO Services</a>
+                                                    <a className="nav-link">SEO-tjänster
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/Social-Media-Marketing" activeClassName="active">
-                                                    <a className="nav-link">Social Media Marketing</a>
+                                                    <a className="nav-link">Marknadsföring i sociala medier
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/Site-Audit-Report" activeClassName="active">
-                                                    <a className="nav-link">Site Audit Reporting</a>
+                                                    <a className="nav-link">Rapportering av webbplatsrevision
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/PaidMarketing" activeClassName="active">
-                                                    <a className="nav-link">Paid Marketing-PPC</a>
+                                                    <a className="nav-link">Betald marknadsföring-PPC
+                                                    </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/ContentStrategy" activeClassName="active">
-                                                    <a className="nav-link">Content Strategy & Writing</a>
+                                                    <a className="nav-link">Innehållsstrategi och skrivande
+                                                    </a>
                                                 </Link>
                                             </li>
                                         </ul>
@@ -206,36 +214,17 @@ class NavbarTwo extends Component {
                                     <li className="nav-item">
                                         <Link href="/App-Development">
                                             <a className="nav-link">
-                                                App Development
-                                            </a>
-                                        </Link>
-                                    </li>
-                                    {/* <li className="nav-item">
-                                        <Link href="/portfolio">
-                                            <a className="nav-link">
-                                                Portfolio
+                                                Apputveckling
                                             </a>
                                         </Link>
                                     </li>
 
-                                    <li className="nav-item">
-                                        <Link href="/about">
-                                            <a className="nav-link">About us
-                                            </a>
-                                        </Link>
-                                    </li>
-                                    <li className="nav-item">
-                                        <Link href="/contact">
-                                            <a className="nav-link">Contact Us
-                                            </a>
-                                        </Link>
-                                    </li> */}
                                 </ul>
 
                                 <div className="others-options">
                                     <Link href="/contact">
                                         <a className="btn btn-primary">
-                                            Get a quote
+                                            Få ett citat
                                         </a>
                                     </Link>
                                 </div>

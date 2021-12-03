@@ -20,7 +20,8 @@ class SocialMediaMarketing extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Social Media Marketing"
+                    pageTitle="Marknadsföring i sociala medier
+                    "
                     BGImage="bg-one"
                 />
 

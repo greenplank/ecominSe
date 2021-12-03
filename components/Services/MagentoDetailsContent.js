@@ -14,74 +14,129 @@ class SEODetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>Magento Development Services </h2>
-                                    <p>Expect highly robust, scalable, seamless and comprehensive Magento e-commerce development services with expert Magento developers.
+                                    <h2>Magento utvecklingstjänster
+                                    </h2>
+                                    <p>Förvänta dig mycket robusta, skalbara, sömlösa och heltäckande Magento e-handelsutvecklingstjänster med experter från Magento-utvecklare.
+
                                     </p>
                                 </div>
                                 <div className="about-image">
                                     <img src="/images/Magento-Development_result.webp" alt="image" className="rounded-10" />
                                 </div>
                                 <div className="services-details-desc">
-                                    <h2>Offering World-class customised Magento e-commerce Solutions</h2>
-                                    <p>One of the most preferred and user-friendly e-commerce platform, Magento is a name that has carved a niche for itself by offering superlative benefits for online merchants with high functionalities, more control over the look and a highly versatile and flexible shopping cart system. It is an open source technology that offers highly powerful marketing, SEO and catalog-management tools.
+                                    <h2>Erbjuder skräddarsydda Magento e-handelslösningar i världsklass
+                                    </h2>
+                                    <p>En av de mest föredragna och användarvänliga e-handelsplattformarna, Magento är ett namn som har skapat en nisch för sig själv genom att erbjuda överlägsna fördelar för onlinehandlare med hög funktionalitet, mer kontroll över utseendet och ett mycket mångsidigt och flexibelt kundvagnssystem . Det är en öppen källkodsteknik som erbjuder mycket kraftfulla verktyg för marknadsföring, SEO och kataloghantering.
+
                                     </p>
-                                    <p>eComIN is a leading Magento Development agency where you can find Magento skills at an expert level. We strive to provide robust storefront models to our clients by working with various Magento versions like Magento 1.9, Magento 2.0. </p>
-                                    <p>We offer a full suite of Magento development and e-commerce strategy services, giving your e-commerce site a superior branded and customer-centric experience that engages and delivers financial results. </p>
-                                    <p>We have a team of Magento certified developers at our Magento development company are with over 10 years of experience with a specialization in the Magento ecommerce orientation at the web and therefore we also offer custom Magento web designs. </p>
-                                    <p>Our Magento experts can deliver a comprehensive catalog of Magento development services, including strategy, implementations, integrations, design, migrations and upgrades as well as 24x7 support and maintenance. Whether strategic or technical, when it comes to online commerce and Magento, we know. </p>
+                                    <p>eComIN är en ledande Magento-utvecklingsbyrå där du kan hitta Magento-kunskaper på expertnivå. Vi strävar efter att tillhandahålla robusta skyltfönster till våra kunder genom att arbeta med olika Magento-versioner som Magento 1.9, Magento 2.0.
+                                    </p>
+                                    <p>Vi erbjuder en komplett uppsättning Magento-utvecklings- och e-handelsstrategitjänster, vilket ger din e-handelssida en överlägsen varumärkes- och kundcentrerad upplevelse som engagerar och levererar ekonomiska resultat.
+                                    </p>
+                                    <p>Vi har ett team av Magento-certifierade utvecklare på vårt Magento-utvecklingsföretag som har över 10 års erfarenhet med en specialisering inom Magento e-handelsinriktning på webben och därför erbjuder vi även anpassade Magento webbdesigner.
+                                    </p>
+                                    <p>Våra Magento-experter kan leverera en omfattande katalog av Magento-utvecklingstjänster, inklusive strategi, implementeringar, integrationer, design, migrering och uppgraderingar samt support och underhåll dygnet runt. Oavsett om det är strategiskt eller tekniskt, när det kommer till onlinehandel och Magento, vet vi.
+                                    </p>
                                 </div>
                                 <div className="services-details-info">
-                                    <h3>Our cutting edge Magento Development Services include </h3>
+                                    <h3>Våra banbrytande Magento Development Services inkluderar
+                                    </h3>
                                     <ul>
-                                        <li><b>CUSTOM MAGENTO WEB DEVELOPMENT: </b>Do you want a feature-rich and highly customised B2B or B2C e-commerce store? Our Magento developers can explore the potential of open source Magento to offer 3rd party integrations for Magento CE and EE, ERP and POS integrations with Magento site, multi-vendor implementation and migration services. </li>
-                                        <li><b>MAGENTO THEME DEVELOPMENT FROM PSD: </b>Are you looking for a white labelled Magento theme for your website? eComIN is a name to rely on. We can deliver highly functional, fully admin manageable frontend Magento theme development from PSDs AI, JPG, PNG, and SKETCH. </li>
-                                        <li><b>CUSTOM MAGENTO EXTENSION DEVELOPMENT: </b>If you are looking for a Magento extension for your personal e-commerce store or want a custom Magento extension to facilitate your SAAS services, we can build for you. You can expect bug free coding as per the Magento standards, extensions that are approved by the Magento marketplace. </li>
-                                        <li><b>CUSTOMISED WEBSITE DESIGN: </b>Our team makes out the fluent navigation by creating passages for the visitor to have a beautiful and extraordinary user interface design. The design is highly responsive and can give a superior and engaging time to the visitors. </li>
-                                        <li><b>MAGENTO WEBSITE MANAGEMENT: </b>We offer real time management of your website along with the functional upgrades that are available at professional desk of Magento. We have a team of dedicated Magento developers with adequate experience and expertise to manage your Magento website. </li>
-                                        <li><b>PAYMENT GATEWAY INTEGRATION: </b>We know that the Magento platform supports multiple currencies, therefore our team make sure that your payment gateway integration is optimised fully as per the requirements.</li>
-                                        <li><b>CUSTOMISED MODULE DEVELOPMENT: </b>If your customers are reporting about website issues or you want to change the theme or design of the website, we are here to help you out in the best manner possible. Our Magento developers will work round the clock to monitor and optimise your store. </li>
+                                        <li><b>ANPASSAD MAGENTO WEBBUTVECKLING
+                                            : </b>Vill du ha en funktionsrik och mycket anpassad B2B eller B2C e-handelsbutik? Våra Magento-utvecklare kan utforska potentialen hos Magento med öppen källkod för att erbjuda tredjepartsintegrationer för Magento CE och EE, ERP och POS-integrationer med Magento-webbplats, implementering av flera leverantörer och migreringstjänster.
+                                        </li>
+                                        <li><b>MAGENTO TEMA UTVECKLING FRÅN PSD
+                                            : </b>Letar du efter ett vitmärkt Magento-tema för din webbplats? eComIN är ett namn att lita på. Vi kan leverera mycket funktionell, helt administratörsbar frontend Magento-temautveckling från PSD:er AI, JPG, PNG och SKETCH.
+                                        </li>
+                                        <li><b>ANPASSAD MAGENTO UTVECKLINGSUTVECKLING
+                                            : </b>Om du letar efter ett Magento-tillägg till din personliga e-handelsbutik eller vill ha ett anpassat Magento-tillägg för att underlätta dina SAAS-tjänster kan vi bygga åt dig. Du kan förvänta dig felfri kodning enligt Magento-standarderna, tillägg som är godkända av Magento-marknaden.
+                                        </li>
+                                        <li><b>ANPASSAD WEBBPLATSDESIGN
+                                            : </b>Vårt team gör den flytande navigeringen genom att skapa passager för besökaren att få en vacker och extraordinär design av användargränssnittet. Designen är mycket lyhörd och kan ge en överlägsen och engagerande tid till besökarna.
+                                        </li>
+                                        <li><b>MAGENTO HANTERING AV WEBBPLATSER
+                                            : </b>Vi erbjuder realtidshantering av din webbplats tillsammans med de funktionella uppgraderingarna som finns tillgängliga på Magentos professionella skrivbord. Vi har ett team av dedikerade Magento-utvecklare med tillräcklig erfarenhet och expertis för att hantera din Magento-webbplats.
+                                        </li>
+                                        <li><b>BETALNINGSGATEWAY INTEGRATION
+                                            : </b>Vi vet att Magento-plattformen stöder flera valutor, därför ser vårt team till att din betalningsgateway-integration är optimerad helt enligt kraven.
+                                        </li>
+                                        <li><b>ANPASSAD MODULUTVECKLING
+                                            : </b>Om dina kunder rapporterar om webbplatsproblem eller om du vill ändra tema eller design på webbplatsen, är vi här för att hjälpa dig på bästa möjliga sätt. Våra Magento-utvecklare kommer att arbeta dygnet runt för att övervaka och optimera din butik.
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
 
                             <div className="col-lg-4 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>Our development process </h3>
-                                    <p>Successful custom development project requires thorough planning and management.
-                                        We have evolved our development process into 7 core areas.
+                                    <h3>Vår utvecklingsprocess
+                                    </h3>
+                                    <p>Framgångsrika anpassade utvecklingsprojekt kräver noggrann planering och ledning.
+                                        Vi har utvecklat vår utvecklingsprocess till 7 kärnområden.
                                     </p>
                                     <ul>
-                                        <li><b>PROJECT OUTLINE: </b>We will schedule a meeting with one of our experts to go over your Magento store needs, or app development requirements </li>
-                                        <li><b>RESEARCH: </b>Our Magento experts will look for an existing solution or create a plan to custom code a solution built for you </li>
-                                        <li><b>PLAN: </b>We create a custom plan for your project to meet your individual business needs
+                                        <li><b>PROJEKTÖVERSIKT
+                                            : </b>Vi kommer att boka ett möte med en av våra experter för att gå igenom dina Magento-butiksbehov eller krav på apputveckling
                                         </li>
-                                        <li><b>DEVELOP: </b>DEVELOP
-                                            Our Magento developers get to work. We work hard to complete your custom project on time and within your budget
+                                        <li><b>FORSKNING
+                                            : </b>Våra Magento-experter kommer att leta efter en befintlig lösning eller skapa en plan för att skräddarsy en lösning som är byggd för dig
                                         </li>
-                                        <li><b>TEST: </b>Our QA team tests and makes sure everything is working as expected within the highest standards. </li>
-                                        <li><b>LAUNCH: </b>Together, we select a specific time and date to launch your Magento store upgrade or Magento app </li>
-                                        <li><b>SUPPORT: </b>Get 3 months free support after the launch date for your Magento project. We guarantee success and will fix any issues free of charge. </li>
+                                        <li><b>PLANEN
+                                            : </b>Vi skapar en skräddarsydd plan för ditt projekt för att möta dina individuella affärsbehov
+
+                                        </li>
+                                        <li><b>UTVECKLA
+                                            : </b>UTVECKLA
+
+                                            Våra Magento-utvecklare börjar jobba. Vi arbetar hårt för att slutföra ditt skräddarsydda projekt i tid och inom din budget
+
+                                        </li>
+                                        <li><b>TESTA: </b>Vårt QA-team testar och ser till att allt fungerar som förväntat inom de högsta standarderna.
+                                        </li>
+                                        <li><b>LANSERA: </b>Tillsammans väljer vi en specifik tid och datum för att lansera din Magento-butiksuppgradering eller Magento-app
+                                        </li>
+                                        <li><b>STÖD
+                                            : </b>Få 3 månaders gratis support efter lanseringsdatumet för ditt Magento-projekt. Vi garanterar framgång och löser eventuella problem utan kostnad.
+                                        </li>
                                     </ul>
                                 </div>
                                 <div className="services-details-info">
-                                    <h3>Magento Open Source Platform </h3>
-                                    <p>And the best part is that the Magento platform is open-source which means there are no subscription fees or licensing costs. Additionally, you are not locked in with a company’s proprietary e-commerce platform. Magento is supported by hundreds, if not thousands, of development resources so committing to use Magento ensures that you’ll be able to support, enhance or move your e-commerce store as defined by you. Each Magento Web developer at eComIN is experienced in creating brand new Magento sites as well as handling existing Magento store fronts.
+                                    <h3>Magento Open Source-plattform
+                                    </h3>
+                                    <p>Och det bästa är att Magento-plattformen är öppen källkod vilket innebär att det inte finns några prenumerationsavgifter eller licenskostnader. Dessutom är du inte låst med ett företags egenutvecklade e-handelsplattform. Magento stöds av hundratals, om inte tusentals, utvecklingsresurser, så att satsa på att använda Magento säkerställer att du kommer att kunna stödja, förbättra eller flytta din e-handelsbutik enligt vad du definierar. Varje Magento webbutvecklare på eComIN har erfarenhet av att skapa helt nya Magento-sajter samt hantera befintliga Magento-butiksfronter.
+
                                     </p>
                                 </div>
                             </div>
 
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>Is Magento Right For Me?</h3>
-                                    <p>Magento is a very powerful and intuitive e-commerce platform built with a modular architecture that allows an online merchant to have more control over business workflow as well as better insight into online sales activities. All the core elements to any top performing e-commerce store come as standard features along with many advanced features where most other e-commerce platforms would require additional components to be installed or custom development work in order to achieve...all leading to unwanted and unnecessary costs. </p>
+                                    <h3>Är Magento rätt för mig?
+                                    </h3>
+                                    <p>Magento är en mycket kraftfull och intuitiv e-handelsplattform byggd med en modulär arkitektur som tillåter en onlinehandlare att ha mer kontroll över affärsflödet samt bättre insikt i onlineförsäljningsaktiviteter. Alla kärnelementen i en topppresterande e-handelsbutik kommer som standardfunktioner tillsammans med många avancerade funktioner där de flesta andra e-handelsplattformar skulle kräva att ytterligare komponenter installeras eller anpassat utvecklingsarbete för att uppnå ... allt leder till oönskade och onödiga kostnader.
+                                    </p>
                                     <ul>
-                                        <li><b>CUSTOM MAGENTO WEB DEVELOPMENT: </b>Do you want a feature-rich and highly customised B2B or B2C e-commerce store? Our Magento developers can explore the potential of open source Magento to offer 3rd party integrations for Magento CE and EE, ERP and POS integrations with Magento site, multi-vendor implementation and migration services. </li>
-                                        <li><b>MAGENTO THEME DEVELOPMENT FROM PSD: </b>Are you looking for a white labelled Magento theme for your website? eComIN is a name to rely on. We can deliver highly functional, fully admin manageable frontend Magento theme development from PSDs AI, JPG, PNG, and SKETCH. </li>
-                                        <li><b>CUSTOM MAGENTO EXTENSION DEVELOPMENT: </b>If you are looking for a Magento extension for your personal e-commerce store or want a custom Magento extension to facilitate your SAAS services, we can build for you. You can expect bug free coding as per the Magento standards, extensions that are approved by the Magento marketplace. </li>
-                                        <li><b>CUSTOMISED WEBSITE DESIGN: </b>Our team makes out the fluent navigation by creating passages for the visitor to have a beautiful and extraordinary user interface design. The design is highly responsive and can give a superior and engaging time to the visitors. </li>
-                                        <li><b>MAGENTO WEBSITE MANAGEMENT: </b>We offer real time management of your website along with the functional upgrades that are available at professional desk of Magento. We have a team of dedicated Magento developers with adequate experience and expertise to manage your Magento website. </li>
-                                        <li><b>PAYMENT GATEWAY INTEGRATION: </b>We know that the Magento platform supports multiple currencies, therefore our team make sure that your payment gateway integration is optimised fully as per the requirements.</li>
-                                        <li><b>CUSTOMISED MODULE DEVELOPMENT: </b>If your customers are reporting about website issues or you want to change the theme or design of the website, we are here to help you out in the best manner possible. Our Magento developers will work round the clock to monitor and optimise your store. </li>
+                                        <li><b>ANPASSAD MAGENTO WEBBUTVECKLING
+                                            : </b>Vill du ha en funktionsrik och mycket anpassad B2B eller B2C e-handelsbutik? Våra Magento-utvecklare kan utforska potentialen hos Magento med öppen källkod för att erbjuda tredjepartsintegrationer för Magento CE och EE, ERP och POS-integrationer med Magento-webbplats, implementering av flera leverantörer och migreringstjänster.
+                                        </li>
+                                        <li><b>MAGENTO TEMA UTVECKLING FRÅN PSD
+                                            : </b>Letar du efter ett vitmärkt Magento-tema för din webbplats? eComIN är ett namn att lita på. Vi kan leverera mycket funktionell, helt administratörsbar frontend Magento-temautveckling från PSD:er AI, JPG, PNG och SKETCH.
+                                        </li>
+                                        <li><b>ANPASSAD MAGENTO UTVECKLINGSUTVECKLING
+                                            : </b>Om du letar efter ett Magento-tillägg till din personliga e-handelsbutik eller vill ha ett anpassat Magento-tillägg för att underlätta dina SAAS-tjänster kan vi bygga åt dig. Du kan förvänta dig felfri kodning enligt Magento-standarderna, tillägg som är godkända av Magento-marknaden.
+                                        </li>
+                                        <li><b>ANPASSAD WEBBPLATSDESIGN
+                                            : </b>Vårt team gör den flytande navigeringen genom att skapa passager för besökaren att få en vacker och extraordinär design av användargränssnittet. Designen är mycket lyhörd och kan ge en överlägsen och engagerande tid till besökarna.
+                                        </li>
+                                        <li><b>MAGENTO HANTERING AV WEBBPLATSER
+                                            : </b>Vi erbjuder realtidshantering av din webbplats tillsammans med de funktionella uppgraderingarna som finns tillgängliga på Magentos professionella skrivbord. Vi har ett team av dedikerade Magento-utvecklare med tillräcklig erfarenhet och expertis för att hantera din Magento-webbplats.
+                                        </li>
+                                        <li><b>BETALNINGSGATEWAY INTEGRATION
+                                            : </b>Vi vet att Magento-plattformen stöder flera valutor, därför ser vårt team till att din betalningsgateway-integration är optimerad helt enligt kraven.
+                                        </li>
+                                        <li><b>ANPASSAD MODULUTVECKLING
+                                            : </b>Om dina kunder rapporterar om webbplatsproblem eller om du vill ändra tema eller design på webbplatsen, är vi här för att hjälpa dig på bästa möjliga sätt. Våra Magento-utvecklare kommer att arbeta dygnet runt för att övervaka och optimera din butik.
+                                        </li>
                                     </ul>
                                 </div>
                             </div>

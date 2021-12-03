@@ -15,13 +15,14 @@ class CloudHostingDetailsContent extends Component {
 
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>Cloud Hosting Partnerships </h2>
-                                    <p>Your Journey, Safe and Customised
-                                        EcomIN AB works closely with worlds top cloud and technology giants to integrate and deliver cohesive products and services to our clients. As an AWS Partner, Google Cloud Partner, and Microsoft Partner, our technical depth and breadth in each of these platforms has been evaluated and verified. We bring together top tier tooling, platforming, and services to provide the right technologies to meet your business goals.
+                                    <h2>Cloud Hosting Partnerskap
+                                    </h2>
+                                    <p>Din resa, säker och anpassad
+                                        EcomIN AB arbetar nära världens främsta moln- och teknikjättar för att integrera och leverera sammanhållna produkter och tjänster till våra kunder. Som AWS-partner, Google Cloud Partner och Microsoft Partner har vårt tekniska djup och bredd i var och en av dessa plattformar utvärderats och verifierats. Vi samlar verktyg, plattformar och tjänster i toppskiktet för att tillhandahålla rätt teknik för att uppfylla dina affärsmål.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
-                                    <h2>Our Cloud Partners:  </h2>
+                                    <h2>Våra molnpartners:  </h2>
                                     <section className="about-area">
                                         <div className="container">
                                             <div className="row align-items-center">
@@ -38,11 +39,13 @@ class CloudHostingDetailsContent extends Component {
                                                             <div className="services-details-info">
                                                                 <h2>AWS - Amazon Web Services
                                                                 </h2>
-                                                                <p>Amazon is one of the large cloud providers with which we have extensive experience since we started to work with cloud computing.
-                                                                    We most often use Amazon EC2 virtual cloud servers for our clients.
+                                                                <p>Amazon är en av de stora molnleverantörer som vi har lång erfarenhet av sedan vi började arbeta med molnberäkning.
+                                                                    Vi använder oftast Amazon EC2 virtuella molnservrar för våra kunder.
                                                                 </p>
-                                                                <p>As an AWS Partner Network (APN) Partner, we can help your business take advantage of their extensive offerings and toolset. With over 300 deployments, eComIN technologists are knowledgeable and experienced across the entire landscape of AWS services. Our teams have extensive real-world experience partnering with companies across multiple verticals to implement AWS best practices. From Cloud strategy and migration to Cloud managed services, eComIN has the solution that’s right for your AWS journey. </p>
-                                                                <p>Start your journey and accelerate your AWS initiatives with eComIN at your side Looking for a partner with truly comprehensive AWS services and solutions? Look no further than eComIN. We have deep cloud expertise to provide high-level insight and guidance for your AWS strategy, hands-to-keyboard experience to build and migrate your workloads, and 24/7/365 support to run and continuously improve your environment. With Service Delivery and Customer Success teams, as well as AWS- certified technologists, eComIN delivers world-class services and high-quality results that provide immediate value to your business. </p>
+                                                                <p>Som AWS Partner Network (APN) Partner kan vi hjälpa ditt företag att dra nytta av deras omfattande erbjudanden och verktygsuppsättning. Med över 300 implementeringar är eComIN-tekniker kunniga och erfarna över hela landskapet av AWS-tjänster. Våra team har omfattande verklig erfarenhet av att samarbeta med företag över flera vertikaler för att implementera AWS bästa praxis. Från molnstrategi och migrering till molnhanterade tjänster, eComIN har lösningen som är rätt för din AWS-resa.
+                                                                </p>
+                                                                <p>Börja din resa och accelerera dina AWS-initiativ med eComIN vid din sida Letar du efter en partner med heltäckande AWS-tjänster och -lösningar? Se inte längre än till eComIN. Vi har djup molnexpertis för att tillhandahålla insikt och vägledning på hög nivå för din AWS-strategi, hands-to-keyboard-upplevelse för att bygga och migrera dina arbetsbelastningar och 24/7/365 support för att driva och kontinuerligt förbättra din miljö. Med serviceleverans- och kundframgångsteam, såväl som AWS-certifierade teknologer, levererar eComIN tjänster i världsklass och högkvalitativa resultat som ger omedelbart värde till ditt företag.
+                                                                </p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -60,13 +63,14 @@ class CloudHostingDetailsContent extends Component {
                                                             <div className="services-details-info">
                                                                 <h2>Google Cloud Platform
                                                                 </h2>
-                                                                <p>eComIN is your trusted advisor when exploring Google Cloud. We are a Premier Managed Services Partner with Google Cloud certified technologists working across our organisation. Whether your business is just starting on your modernisation journey or has a complex multi-cloud environment, eComIN helps enterprises
-                                                                    accelerate, scale, and optimise on Google Cloud. Our services include cloud strategy and planning, cloud migration, cloud spend management, and managed cloud operations.
+                                                                <p>eComIN är din betrodda rådgivare när du utforskar Google Cloud. Vi är en Premier Managed Services Partner med Google Cloud-certifierade tekniker som arbetar i hela vår organisation. Oavsett om ditt företag precis har börjat på din moderniseringsresa eller har en komplex miljö med flera moln, hjälper eComIN företag
+                                                                    accelerera, skala och optimera på Google Cloud. Våra tjänster inkluderar molnstrategi och planering, molnmigrering, molnutgiftshantering och hanterad molnverksamhet.
                                                                 </p>
-                                                                <p>Get the most from your Google Cloud Platform With eComIN
-                                                                    As a Google Cloud Premier Partner, eComIN provides end-to-end support and services that align with any stage of the cloud adoption journey.
+                                                                <p>Få ut det mesta av din Google Cloud Platform med eComIN
+                                                                    Som Google Cloud Premier-partner tillhandahåller eComIN komplett support och tjänster som passar in i alla skeden av molnets införande.
                                                                 </p>
-                                                                <p>Enterprises around the world have chosen to work with Google because of their culture of innovation - and we can help you implement the best of Google in your own organisation. </p>
+                                                                <p>Företag runt om i världen har valt att arbeta med Google på grund av sin innovationskultur – och vi kan hjälpa dig att implementera det bästa från Google i din egen organisation.
+                                                                </p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -82,21 +86,23 @@ class CloudHostingDetailsContent extends Component {
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>2021 </h3>
-                                    <p>As intelligent analytics are increasingly embedded in everything and devices generate ever increasing amounts of data, traditional on-premise solutions will no longer cut it. By 2021, over 75% of midsize and large organisations will have adopted a multi-cloud and/or hybrid IT strategy.
+                                    <p>I takt med att intelligent analys i allt högre grad är inbäddad i allt och enheter genererar allt större mängder data, kommer traditionella lokala lösningar inte längre att skära ner den. År 2021 kommer över 75 % av medelstora och stora organisationer att ha antagit en multimoln- och/eller hybrid IT-strategi.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>2022 </h3>
-                                    <p>As business innovation increasingly becomes driven by software, public cloud services will be essential for 90% of business innovation by 2022.
+                                    <p>När affärsinnovation i allt högre grad drivs av mjukvara, kommer offentliga molntjänster att vara avgörande för 90 % av affärsinnovationen år 2022.
                                     </p>
                                 </div>
                                 <div className="services-details-desc">
                                     <h3>2025</h3>
-                                    <p>By 2025, the sum of the world’s data is expected to swell to more than five times its current size - and leading organisations will be able to harness this data to launch new business models, create more customised customer experiences, and optimise operations to drive down costs. The scale and power of cloud is critical to realising this value.
+                                    <p>Till 2025 förväntas summan av världens data svälla till mer än fem gånger sin nuvarande storlek – och ledande organisationer kommer att kunna utnyttja denna data för att lansera nya affärsmodeller, skapa mer anpassade kundupplevelser och optimera verksamheten för att driva ner kostar. Molnets skala och kraft är avgörande för att förverkliga detta värde.
                                     </p>
-                                    <p>Google Cloud solutions and expertise to transform your business.</p>
+                                    <p>Google Cloud-lösningar och expertis för att förvandla ditt företag.
+                                    </p>
                                     <p>As a Google Cloud Premier Partner, eComIN provides end-to-end support and services that align with any stage of the cloud adoption journey. We have high-level experts to provide insight and guidance for your GCP strategy, certified engineers and architects to build and migrate, and a 24/7/365 operations center to manage and optimise your environment. Our robust Service Delivery and Customer Success organisations ensure high quality services and deliverables that help you meet your corporate objectives. Let us lead, execute, and support your Google Cloud projects while you focus on your business. </p>
-                                    <p>For example, powerful AI/ML and productivity and collaboration capabilities pose exciting opportunities to evolve business' productivity and collaboration, allowing employees to stay on top of their tasks and accomplish more. </p>
+                                    <p>Till exempel erbjuder kraftfull AI/ML samt produktivitets- och samarbetsmöjligheter spännande möjligheter att utveckla verksamhetens produktivitet och samarbete, vilket gör att anställda kan hålla sig på topp med sina uppgifter och åstadkomma mer.
+                                    </p>
                                 </div>
                                 <section className="about-area">
                                     <div className="container">
@@ -106,16 +112,21 @@ class CloudHostingDetailsContent extends Component {
                                                     <div className="section-title">
 
                                                         <div className="services-details-info">
-                                                            <h3><b>Why Google Cloud?</b>
+                                                            <h3><b>Varför Google Cloud?
+                                                            </b>
                                                             </h3>
-                                                            <p>Secure your data and hardware, gain real-time insights, and be more productive with the same intelligent, open tools and services used by Google.
+                                                            <p>Säkra din data och hårdvara, få insikter i realtid och bli mer produktiv med samma intelligenta, öppna verktyg och tjänster som Google använder.
                                                             </p>
-                                                            <h4>Infrastructure</h4>
-                                                            <p>Our best-in-class infrastructure is engineered to handle the most data-intensive work on the planet. </p>
-                                                            <h4>Insights</h4>
-                                                            <p>Pioneering data analytics and machine learning services help you solve real business problems and gain a competitive edge no other cloud provider can offer. </p>
-                                                            <h4>Security</h4>
-                                                            <p>Google's infrastructure is designed, built and operated with security at its core.</p>
+                                                            <h4>Infrastruktur</h4>
+                                                            <p>Vår klassens bästa infrastruktur är konstruerad för att hantera det mest dataintensiva arbetet på planeten.
+                                                            </p>
+                                                            <h4>Insikter
+                                                            </h4>
+                                                            <p>Banbrytande dataanalys- och maskininlärningstjänster hjälper dig att lösa verkliga affärsproblem och få en konkurrensfördel som ingen annan molnleverantör kan erbjuda.
+                                                            </p>
+                                                            <h4>säkerhet</h4>
+                                                            <p>Googles infrastruktur är designad, byggd och drivs med säkerhet i centrum.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -129,19 +140,24 @@ class CloudHostingDetailsContent extends Component {
                                     </div>
                                 </section>
                                 <div className="services-details-desc">
-                                    <h3>Microsoft Azure </h3>
-                                    <p>eComIN can help you explore the limitless possibilities of Azure, Office 365, and other Microsoft tools with the help of our Gold Partner status. Our Microsoft Certified experts are here to provide guidance, hands-on engineering, and 24/7 support. eComIN partners with you to create the best solution for your business, whether you’re looking for help migrating your apps and workloads to Azure, creating DevOps and CI/CD processes within your Microsoft environment, or implementing Office 365.
+                                    <h3>Microsoft Azure
+                                    </h3>
+                                    <p>eComIN kan hjälpa dig att utforska de obegränsade möjligheterna med Azure, Office 365 och andra Microsoft-verktyg med hjälp av vår Gold Partner-status. Våra Microsoft-certifierade experter är här för att ge vägledning, praktisk teknik och support dygnet runt. eComIN samarbetar med dig för att skapa den bästa lösningen för ditt företag, oavsett om du letar efter hjälp med att migrera dina appar och arbetsbelastningar till Azure, skapa DevOps och CI/CD-processer i din Microsoft-miljö eller implementera Office 365.
                                     </p>
-                                    <p>Powerful Microsoft solutions to today's complex challenges. </p>
-                                    <p>eComIN will guide your Azure adoption journey
-                                        Our Assessment, Strategy, and Planning teams take the time to understand the drivers and objectives of your
-                                        business to ensure that cloud migration is right for your organisation.
+                                    <p>Kraftfulla Microsoft-lösningar för dagens komplexa utmaningar.
+ </p>
+                                    <p>eComIN kommer att vägleda din Azure adoptionsresa
+                                        Våra team för bedömning, strategi och planering tar sig tid att förstå drivkrafterna och målen för ditt
+                                        företag för att säkerställa att molnmigrering är rätt för din organisation.
                                     </p>
                                     <ul>
-                                        <li><b>Assess: </b>eComIN will fully map the existing IT environment and work with internal teams to gain a clear picture of the current state. </li>
-                                        <li><b>Strategies: </b>eComIN takes the time to fully understand the goals of your cloud migration to design a blueprint and define a successful migration process.  </li>
-                                        <li><b>Plan: </b> The information from the assessment and strategy provides the basis for eComIN to
-                                            set the cloud migration plan and roadmap, detailing the scope, timelines and tool sets required.
+                                        <li><b>Bedöma
+: </b>eComIN kommer att helt kartlägga den befintliga IT-miljön och arbeta med interna team för att få en tydlig bild av det aktuella läget.
+</li>
+                                        <li><b>Strategier: </b>eComIN tar sig tid att till fullo förstå målen för din molnmigrering för att utforma en ritning och definiera en framgångsrik migreringsprocess.
+  </li>
+                                        <li><b>Planen: </b> Informationen från bedömningen och strategin utgör grunden för eComIN till
+                                            ställ in molnmigreringsplanen och färdplanen, och specificera omfattningen, tidslinjerna och verktygsuppsättningarna som krävs.
                                         </li>
                                     </ul>
                                 </div>
@@ -158,9 +174,9 @@ class CloudHostingDetailsContent extends Component {
                             <div className="row align-items-center">
                                 <div className="col-lg-9 col-md-8">
                                     <div className="cta-content">
-                                        <h3>WooCommerce - the most customisable eCommerce platform for building your online business.
+                                        <h3>WooCommerce - den mest anpassningsbara e-handelsplattformen för att bygga ditt onlineföretag.
                                         </h3>
-                                        <p>Get Started
+                                        <p>Komma igång
                                         </p>
                                     </div>
                                 </div>
@@ -168,7 +184,7 @@ class CloudHostingDetailsContent extends Component {
                                 <div className="col-lg-3 col-md-4">
                                     <div className="cta-btn-box">
                                         <Link href="/contact">
-                                            <a className="btn btn-primary">Contact Us
+                                            <a className="btn btn-primary">Kontakta oss
                                             </a>
                                         </Link>
                                     </div>

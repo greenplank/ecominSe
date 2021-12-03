@@ -18,7 +18,7 @@ class CyberSecurity extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Cyber Security"
+                    pageTitle="Cybersäkerhet"
                     BGImage="bg-one"
                 />
 

@@ -18,7 +18,8 @@ class BigCommerce extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="BigCommerce Development"
+                    pageTitle="BigCommerce utveckling
+                    "
                     BGImage="bg-one"
                 />
 

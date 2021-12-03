@@ -13,24 +13,33 @@ class MigrationDetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-desc">
-                                    <h3>Protect against the risk of data loss during your system migration. </h3>
-                                    <p>Moving to a new platform requires a thorough approach and a knowledge of your current and new platform components, including data models, restrictions and conversion formats. Our extensive HR systems migration experience can be handy when you migrate from your older provider to a new one.
+                                    <h3>Skydda dig mot risken för dataförlust under din systemmigrering.
+                                    </h3>
+                                    <p>Att flytta till en ny plattform kräver ett grundligt tillvägagångssätt och kunskap om dina nuvarande och nya plattformskomponenter, inklusive datamodeller, begränsningar och konverteringsformat. Vår omfattande erfarenhet av migrering av HR-system kan vara praktisk när du migrerar från din äldre leverantör till en ny.
+
                                     </p>
-                                    <h3>When your current solution doesn't meet your business objectives, it's time to migrate.</h3>
-                                    <p>If your organisation is ready migrate to a new cloud platform, you must be prepared with a strategy to minimise the risk and protect your data. Whether it's due to a breakdown in the relationship with your vendor, or the complete failure of your cloud provider, you should be asking these three key questions:
+                                    <h3>När din nuvarande lösning inte uppfyller dina affärsmål är det dags att migrera.
+                                    </h3>
+                                    <p>Om din organisation är redo att migrera till en ny molnplattform måste du vara beredd med en strategi för att minimera risken och skydda din data. Oavsett om det beror på ett sammanbrott i relationen med din leverantör eller att din molnleverantör har misslyckats fullständigt, bör du ställa dessa tre nyckelfrågor:
+
                                     </p>
                                     <ul>
-                                        <li><em>Is the data stuck in a proprietary format, preventing me from using it outside of my current provider's cloud?</em></li>
-                                        <li><em>What are the formats and methods available for moving data out of the current provider? </em></li>
-                                        <li><em>How can we be sure that all of our data has been permanently deleted to protect our data privacy and security requirements? </em></li>
+                                        <li><em>Har data fastnat i ett proprietärt format, vilket hindrar mig från att använda den utanför min nuvarande leverantörs moln?
+                                        </em></li>
+                                        <li><em>Vilka format och metoder finns tillgängliga för att flytta data från den nuvarande leverantören?
+                                        </em></li>
+                                        <li><em>Hur kan vi vara säkra på att all vår data har raderats permanent för att skydda vår datasekretess och säkerhetskrav?
+                                        </em></li>
                                     </ul>
                                 </div>
                             </div>
 
                             <div className="col-lg-12 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>How it works: </h3>
-                                    <p>There may be differences in the implementation approaches, but with the right data strategy we can make sure the old data aligns with the schema of your new cloud platform by:</p>
+                                    <h3>Hur det fungerar:
+                                    </h3>
+                                    <p>Det kan finnas skillnader i implementeringsmetoderna, men med rätt datastrategi kan vi se till att den gamla datan överensstämmer med schemat för din nya molnplattform genom att:
+                                    </p>
                                     <div className="service-right-img">
                                         <img src="/images/Platform-Migration_result.webp" alt="Service Image" />
                                     </div>

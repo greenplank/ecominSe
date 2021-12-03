@@ -19,7 +19,8 @@ class MagentoDevelopment extends Component {
                 <NavbarOne />
 
                 <PageBanner 
-                    pageTitle="Magento Development" 
+                    pageTitle="Magento utveckling
+                    " 
                     BGImage="bg-one"
                 />  
 

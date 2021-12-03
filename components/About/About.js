@@ -24,9 +24,11 @@ class About extends Component {
                             <div className="col-lg-7 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
-                                        <h2>How we work?
+                                        <h2>Hur arbetar vi?
+
                                         </h2>
-                                        <p>Team of WordPress developers analysing new project
+                                        <p>Team av WordPress-utvecklare som analyserar nytt projekt
+
                                         </p>
                                     </div>
 
@@ -36,16 +38,24 @@ class About extends Component {
                                             <div className="about-text mb-30">
                                                 <ul>
                                                     <li>
-                                                        <h4>1. Analysis</h4>
-                                                        <p>Let’s meet: online or in-person and discuss your ideas and needs.<br /> Deadline marked on a calendar</p>
+                                                        <h4>1. Analys
+</h4>
+                                                        <p>Låt oss träffas: online eller personligen och diskutera dina idéer och behov.
+<br />Deadline markerad i en kalender
+</p>
                                                     </li>
                                                     <li>
-                                                    <h4>2. Estimation</h4>
-                                                    <p>Based on all the gathered information we will prepare a detailed timeline for the project. You will know the costs right away. <br /> Custom WordPress theme code displayed on a screen</p>
+                                                    <h4>2. Uppskattning</h4>
+                                                    <p>Baserat på all insamlad information kommer vi att utarbeta en detaljerad tidslinje för projektet. Du kommer att veta kostnaderna direkt.
+ <br /> Anpassad WordPress-temakod som visas på en skärm
+</p>
                                                     </li>
                                                     <li>
-                                                    <h4>3. Development</h4>
-                                                    <p>Our work begins. Our developers turn your designs and vision into quality code. <br/> Testing your website on different devices</p>
+                                                    <h4>3. Utveckling
+</h4>
+                                                    <p>Vårt arbete börjar. Våra utvecklare förvandlar din design och din vision till kvalitetskod.
+ <br/> Testa din webbplats på olika enheter
+</p>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -55,12 +65,17 @@ class About extends Component {
                                             <div className="about-text mb-30">
                                                 <ul>
                                                     <li>
-                                                        <h4>4. Quality assurance</h4>
-                                                        <p>One of the final stages of the process. We make sure your code is completely bug- free. <br /> Race start</p>
+                                                        <h4>4. Kvalitetssäkring
+</h4>
+                                                        <p>Ett av de sista stegen i processen. Vi ser till att din kod är helt felfri.
+<br /> Race start
+</p>
                                                     </li>
                                                     <li>
-                                                        <h4>5. Implementation</h4>
-                                                        <p>We install the product on servers of your choosing. Do you need hosting services? We got you covered. </p>
+                                                        <h4>5. Genomförande
+</h4>
+                                                        <p>Vi installerar produkten på servrar som du väljer. Behöver du värdtjänster? Vi har dig täckt.
+ </p>
                                                     </li>
                                                 </ul>
                                             </div>

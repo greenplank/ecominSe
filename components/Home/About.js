@@ -25,7 +25,7 @@ class About extends Component {
                                 <div className="about-image">
                                     \
                                     <img src="/images/spl-image-main.webp" alt="image" className="rounded-10" />
-                                    
+
                                 </div>
                             </div>
 
@@ -34,20 +34,26 @@ class About extends Component {
                                     <div className="section-title">
 
                                         <div className="services-details-info">
-                                            <h2>About EcomIN AB
+                                            <h2>Om EcomIN AB
                                             </h2>
                                             <ul>
-                                                <li>Experts with the latest trend and know-how knowledge</li>
-                                                <li>30+ experts ready to work with you today</li>
-                                                <li>Full commitment and focus on your project</li>
-                                                <li>Client references and a 12-month warranty on all projects</li>
-                                                <li>Responsibility built through long-term cooperation</li>
-                                                <li>Dedicated tools and access to a trusted partner network</li>
+                                                <li>Experter med den senaste trenden och know-how kunskap
+                                                </li>
+                                                <li>30+ experter redo att arbeta med dig idag
+                                                </li>
+                                                <li>Fullt engagemang och fokus på ditt projekt
+                                                </li>
+                                                <li>Kundreferenser och 12 månaders garanti på alla projekt
+                                                </li>
+                                                <li>Ansvar byggt genom långsiktigt samarbete
+                                                </li>
+                                                <li>Dedikerade verktyg och tillgång till ett pålitligt partnernätverk
+                                                </li>
                                                 {/* <li>Trusted by: (give logos of clients)</li> */}
                                             </ul>
                                         </div>
                                         <Link href="/about">
-                                            <a className="btn btn-primary">Read more
+                                            <a className="btn btn-primary">Läs mer
                                             </a>
                                         </Link>
                                     </div>

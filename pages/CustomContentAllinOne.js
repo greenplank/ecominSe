@@ -19,7 +19,7 @@ class WebDevelopment extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Custom Content Boost All in one "
+                    pageTitle="Custom Content Boost Allt i ett"
                     BGImage="bg-two"
                 />
                 <CustomContentPackages />

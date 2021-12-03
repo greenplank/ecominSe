@@ -16,8 +16,10 @@ class PPCFaqContent extends Component {
                         <div className="row align-items-center">
 
                             <div className="services-details-info" style={{textAlign:"center",marginBottom:"4em"}}>
-                                <h2>FAQs about PPC management services</h2>
-                                <p>Do you have additional questions about PPC management services? Browse our</p>
+                                <h2>Vanliga frågor om PPC-hanteringstjänster
+</h2>
+                                <p>Har du ytterligare frågor om PPC-hanteringstjänster? Bläddra bland våra
+</p>
 
                             </div>
                             <div className="col-lg-6">
@@ -32,12 +34,14 @@ class PPCFaqContent extends Component {
                                         <AccordionItem uuid="a">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                What is PPC?
+                                                Vad är PPC?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                PPC, also known as pay-per-click, describes an online advertising strategy where advertisers only pay when someone clicks on an ad. PPC ads can display on websites, search engines, and social media networks. 
+                                                PPC, även känd som betala-per-klick, beskriver en onlineannonseringsstrategi där annonsörer bara betalar när någon klickar på en annons. PPC-annonser kan visas på webbplatser, sökmotorer och sociala medier.
+
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -45,12 +49,14 @@ class PPCFaqContent extends Component {
                                         <AccordionItem uuid="b">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                What are PPC management services?
+                                                Vad är PPC-hanteringstjänster?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                With PPC management services, you receive professional management of your PPC strategy and campaigns for a designated fee. This management can include strategy development, bid management, ad copy, and more. 
+                                                Med PPC-hanteringstjänster får du professionell hantering av din PPC-strategi och kampanjer mot en bestämd avgift. Denna hantering kan inkludera strategiutveckling, budhantering, annonstext och mer.
+
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -58,12 +64,14 @@ class PPCFaqContent extends Component {
                                         <AccordionItem uuid="c">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                What do PPC services include?
+                                                Vad inkluderar PPC-tjänster?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                Deliverables for PPC services depend on the service provider, as well as the plan selected. In most cases, PPC services will include advertising on Google and Bing, as well as keyword targeting, bid management, and routine reporting.  
+                                                Leveranser för PPC-tjänster beror på tjänsteleverantören, såväl som den valda planen. I de flesta fall inkluderar PPC-tjänster annonsering på Google och Bing, såväl som sökordsinriktning, budhantering och rutinrapportering.
+
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>
@@ -71,12 +79,13 @@ class PPCFaqContent extends Component {
                                         <AccordionItem uuid="d">
                                             <AccordionItemHeading>
                                                 <AccordionItemButton>
-                                                How much do PPC management services cost?
+                                                Hur mycket kostar PPC-hanteringstjänster?
+
                                                 </AccordionItemButton>
                                             </AccordionItemHeading>
                                             <AccordionItemPanel>
                                                 <p>
-                                                On average, small-to-midsized businesses will spend $5000 to $10,000 per month on PPC. Costs include ad spend and the cost of management services. Agencies often charge for PPC campaign management services as a percentage of ad spend but may also charge a flat fee. 
+                                                I genomsnitt kommer små till medelstora företag att spendera $5000 till $10.000 per månad på PPC. Kostnaderna inkluderar annonsutgifter och kostnaden för förvaltningstjänster. Byråer tar ofta betalt för PPC-kampanjhanteringstjänster som en procentandel av annonsutgifterna men kan också ta ut en fast avgift. 
                                                 </p>
                                             </AccordionItemPanel>
                                         </AccordionItem>

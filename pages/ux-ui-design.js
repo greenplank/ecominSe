@@ -18,7 +18,8 @@ class UXUIDesign extends Component {
                 <NavbarOne />
                 
                 <PageBanner 
-                    pageTitle="UX/UI Designing" 
+                    pageTitle="UX/UI-design
+                    " 
                     BGImage="bg-two"
                 />  
                 
