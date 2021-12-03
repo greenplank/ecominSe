@@ -11,8 +11,9 @@ class EcomVsFrelancer extends Component {
 
                     <div className="container">
                         <div className="row">
-                        <div className="section-title">
-                                <h2>Freelancer vs EcomIN AB
+                            <div className="section-title">
+                                <h2>Frilansare vs EcomIN AB
+
                                 </h2>
                             </div>
                             <div className="col-lg-6 col-md-12">
@@ -20,31 +21,44 @@ class EcomVsFrelancer extends Component {
                                     <h2>Freelancer
                                     </h2>
                                     <ul>
-                                        <li>Limited technical knowledge
+                                        <li>Begränsad teknisk kunskap
+
                                         </li>
-                                        <li>Limited availability
+                                        <li>Begränsad tillgänglighet
+
                                         </li>
-                                        <li>Work overload / too many projects at once
+                                        <li>Överbelastning / för många projekt samtidigt
+
                                         </li>
-                                        <li>Difficult finding a trusted partner
+                                        <li>Svårt att hitta en pålitlig partner
+
                                         </li>
-                                        <li>Difficult to replace
+                                        <li>Svårt att ersätta
+
                                         </li>
-                                        <li>Difficult to communicate with and not responsive
+                                        <li>Svår att kommunicera med och inte lyhörd
+
                                         </li>
                                     </ul>
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-12">
                                 <div className="services-details-info">
-                                    <h2>EcomIN AB</h2>
+                                    <h2>EcomIN AB
+                                    </h2>
                                     <ul>
-                                        <li>Experts with the latest trend and know-how knowledge</li>
-                                        <li>30+ experts ready to work with you today</li>
-                                        <li>Full commitment and focus on your project</li>
-                                        <li>Client references and a 12-month warranty on all projects</li>
-                                        <li>Responsibility built through long-term cooperation</li>
-                                        <li>Dedicated tools and access to a trusted partner network</li>
+                                        <li>Experter med den senaste trenden och know-how kunskap
+                                        </li>
+                                        <li>30+ experter redo att arbeta med dig idag
+                                        </li>
+                                        <li>Fullt engagemang och fokus på ditt projekt
+                                        </li>
+                                        <li>Kundreferenser och 12 månaders garanti på alla projekt
+                                        </li>
+                                        <li>Ansvar byggt genom långsiktigt samarbete
+                                        </li>
+                                        <li>Dedikerade verktyg och tillgång till ett pålitligt partnernätverk
+                                        </li>
                                     </ul>
                                 </div>
                             </div>

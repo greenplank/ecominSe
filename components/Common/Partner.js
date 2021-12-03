@@ -7,7 +7,8 @@ class Partner extends Component {
             <section className="partner-area pt-100 pb-60">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Trusted By</h2>
+                        <h2>Betrodd av
+                        </h2>
                     </div>
 
                     <div className="row align-items-center justify-content-center">

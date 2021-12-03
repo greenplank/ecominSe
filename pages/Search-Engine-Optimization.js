@@ -19,7 +19,8 @@ class SearchOptimization extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Search Engine Optimization"
+                    pageTitle="sökmotoroptimering
+                    "
                     BGImage="bg-one"
                 />
 

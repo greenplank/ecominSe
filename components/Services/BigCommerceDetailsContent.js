@@ -16,35 +16,43 @@ class SEODetailsContent extends Component {
                             </div>
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>BigCommerce Development, Design, Marketing and SEO </h2>
-                                    <p>With a trusted BigCommerce store designer.
-                                    </p>
-                                    <p>EcomIN AB is an experienced website development agency specialising in developing powerful, custom-tailored BigCommerce e-commerce stores that are both unique and beautiful. Off the shelf BigCommerce templates are good enough for some people, but not you; you’re better than that and we know it. That’s why we’re going to work with you to find the absolute best way to translate your idea, business, products, and brand, into a lean, mean, selling machine.
-                                    </p>
-                                    <h2>Why BigCommerce? </h2>
-                                    <p>Every e-commerce store has its own unique set of quirks and nuances. </p>
-                                    <p>Choosing the right e-commerce platform is essential for letting your online store shine in the brightest light. With a plethora of options out there, it can be tough to select the one that will provide the best experiences to your shoppers. </p>
-                                    <p>Thanks to its versatile capabilities and expansive features, BigCommerce is one of the most preferred e-commerce platforms across the online business world.</p>
-
-                                    <h3>Our BigCommerce E-Commerce Store Services </h3>
-                                    <p>Design a New BigCommerce Store
-                                        Forget cookie cutter e-commerce stores, our designs are created to match your company branding & meet the needs of your particular customers.
+                                    <h2>BigCommerce utveckling, design, marknadsföring och SEO
+ </h2>
+                                    <p>Med en pålitlig BigCommerce-butiksdesigner.
 
                                     </p>
-                                    <p>Refresh Your Existing BigCommerce Store
-                                        Is your store looking dated or is it simply not meeting your changing needs? Reimagine your BigCommerce store with a fresh new custom design by Ventura.
+                                    <p>EcomIN AB är en erfaren webbutvecklingsbyrå specialiserad på att utveckla kraftfulla, skräddarsydda BigCommerce e-handelsbutiker som är både unika och vackra. Hyllan BigCommerce-mallar är tillräckligt bra för vissa människor, men inte dig; du är bättre än så och vi vet det. Det är därför vi kommer att arbeta med dig för att hitta det absolut bästa sättet att översätta din idé, verksamhet, produkter och varumärke till en mager, elak, säljande maskin.
+
                                     </p>
-                                    <p>On-Going BigCommerce Store Support
-                                        We have over 20 years of e-commerce experience. We can help you identify ways to improve your store and maximise your revenue.
+                                    <h2>Varför BigCommerce?
+ </h2>
+                                    <p>Varje e-handelsbutik har sin egen unika uppsättning egenheter och nyanser.
+ </p>
+                                    <p>Att välja rätt e-handelsplattform är avgörande för att din webbutik ska lysa i det starkaste ljuset. Med en uppsjö av alternativ där ute, kan det vara svårt att välja det som kommer att ge de bästa upplevelserna till dina shoppare.
+ </p>
+                                    <p>Tack vare dess mångsidiga kapacitet och expansiva funktioner är BigCommerce en av de mest föredragna e-handelsplattformarna över hela online-affärsvärlden.
+</p>
+
+                                    <h3>Våra tjänster för BigCommerce e-handelsbutik
+ </h3>
+                                    <p>Designa en ny BigCommerce-butik
+                                        Glöm e-handelsbutiker för kakskärare, våra designs är skapade för att matcha ditt företags varumärke och möta behoven hos just dina kunder.
+
                                     </p>
-                                    <p>SEO / PPC / Emails / Social for BigCommerce Stores
-                                        We help grow your business by identifying new customers and bringing back old customers to buy from you again.
+                                    <p>Uppdatera din befintliga BigCommerce-butik
+                                        Ser din butik daterad ut eller uppfyller den helt enkelt inte dina föränderliga behov? Föreställ om din BigCommerce-butik med en fräsch ny anpassad design från Ventura.
                                     </p>
-                                    <p>Integration of Payment Gateways and Shipping
-                                        Success in e-commerce comes down to how easy you make it for your customers. Our team of experienced BigCommerce developers will take ALL the precautionary steps to ensure your payment gateways are properly integrated with shipping processes.
+                                    <p>Pågående BigCommerce Store-support
+                                        Vi har över 20 års erfarenhet av e-handel. Vi kan hjälpa dig att identifiera sätt att förbättra din butik och maximera dina intäkter.
                                     </p>
-                                    <p>API Integration and Development
-                                        A harmonious coordination between data, applications, and devices is perhaps the most defining trait of a killer e-commerce store. Our BigCommerce development team provides third-party API integration and module management for customised usage and an unbeatable user experience.
+                                    <p>SEO / PPC / E-post / Social för BigCommerce Stores
+                                        Vi hjälper till att växa ditt företag genom att identifiera nya kunder och få tillbaka gamla kunder att köpa av dig igen.
+                                    </p>
+                                    <p>Integration av betalningsgateways och frakt
+                                        Framgång inom e-handel beror på hur enkelt du gör det för dina kunder. Vårt team av erfarna BigCommerce-utvecklare kommer att vidta ALLA försiktighetsåtgärder för att säkerställa att dina betalningsportar är korrekt integrerade med leveransprocesser.
+                                    </p>
+                                    <p>API-integration och utveckling
+                                        En harmonisk koordination mellan data, applikationer och enheter är kanske den mest definierande egenskapen hos en mördande e-handelsbutik. Vårt BigCommerce-utvecklingsteam tillhandahåller tredjeparts API-integration och modulhantering för anpassad användning och en oslagbar användarupplevelse.
                                     </p>
 
 
@@ -53,38 +61,40 @@ class SEODetailsContent extends Component {
 
                             <div className="col-lg-4 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>BigCommerce Features</h3>
-                                    <p>There are several features that make BigCommerce one of the top platforms in the world of e-commerce. Some of the highlights include: </p>
+                                    <h3>BigCommerce-funktioner
+</h3>
+                                    <p>Det finns flera funktioner som gör BigCommerce till en av de bästa plattformarna inom e-handelsvärlden. Några av höjdpunkterna inkluderar:
+ </p>
                                     <ul>
-                                        <li>Vast Selection of Themes
-                                            Deep catalog of stylish, intuitive, and responsive themes with high visual impact.
+                                        <li>Stort urval av teman
+                                            Djup katalog med snygga, intuitiva och lyhörda teman med hög visuell effekt.
                                         </li>
-                                        <li>Free and Paid Templates
-                                            FREE and PAID templates to choose from.
+                                        <li>Gratis och betalda mallar
+                                            GRATIS och BETALDA mallar att välja mellan.
                                         </li>
-                                        <li>Simplicity
-                                            Install robust apps, payment portals, checkout processes, and shipping preferences in a matter of clicks!
+                                        <li>Enkelhet
+                                            Installera robusta appar, betalningsportaler, kassaprocesser och leveranspreferenser med bara några klick!
                                         </li>
-                                        <li>Easy Content and SEO Readiness
-                                            Built-in blogging and SEO tools to draw in interested shoppers from Google searches.
+                                        <li>Enkelt innehåll och SEO-beredskap
+                                            Inbyggda blogg- och SEO-verktyg för att locka intresserade kunder från Google-sökningar.
                                         </li>
-                                        <li>Free Essentials
-                                            FREE hosting and unlimited bandwidth!
+                                        <li>Gratis Essentials
+                                            GRATIS hosting och obegränsad bandbredd!
                                         </li>
-                                        <li>Effective Retargeting
-                                            Robust abandoned cart feature to track customers and bring in revenue.
+                                        <li>Effektiv retargeting
+                                            Robust övergiven vagnfunktion för att spåra kunder och få in intäkter.
                                         </li>
-                                        <li>Easy Integration
-                                            Seamless integration with platforms like Amazon, eBay, Google Shopping, Facebook, Instagram, Shopzilla, Square, Bizrate, Beso, NexTag, PriceGrabber, mySimon, and Shopping.com.
+                                        <li>Enkel integration
+                                            Sömlös integration med plattformar som Amazon, eBay, Google Shopping, Facebook, Instagram, Shopzilla, Square, Bizrate, Beso, NexTag, PriceGrabber, mySimon och Shopping.com.
                                         </li>
-                                        <li>Numerous Payment Gateways
-                                            Popular payment gateways including Amazon Pay, PayPal, PayPal Credit, Square, Stripe, Worldpay, and more.
+                                        <li>Många betalningsportar
+                                            Populära betalningsportar inklusive Amazon Pay, PayPal, PayPal Credit, Square, Stripe, Worldpay och mer.
                                         </li>
-                                        <li>Bulletproof Security
-                                            Constantly updated security measures with Level 1 PCI Compliance, data backup, and SSL security.
+                                        <li>Skottsäker säkerhet
+                                            Ständigt uppdaterade säkerhetsåtgärder med nivå 1 PCI-kompatibilitet, säkerhetskopiering av data och SSL-säkerhet.
                                         </li>
-                                        <li>Various Shipping Providers
-                                            Access to multiple shipping and fulfilment providers like USPS, UPS, FedEx, DHL, and more.
+                                        <li>Olika fraktleverantörer
+                                            Tillgång till flera leverans- och leveransleverantörer som USPS, UPS, FedEx, DHL och mer.
                                         </li>
                                     </ul>
                                 </div>

@@ -18,7 +18,7 @@ class PlatformMigration extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Platform Migration"
+                    pageTitle="Plattformsmigrering"
                     BGImage="bg-one"
                 />
 

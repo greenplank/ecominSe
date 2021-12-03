@@ -26,29 +26,37 @@ class About extends Component {
                             <div className="col-lg-6 col-md-12">
                                 <div className="about-content about-content-two">
                                     <div className="services-details-info">
-                                        <h2>Our Story
+                                        <h2>Vår historia
+
                                         </h2>
                                         <p>30+
-                                            size of our team
+                                        storleken på vårt team
+
                                         </p>
                                         <ul>
-                                            <li><b>5 years+ </b>
-                                                average developer experience
+                                            <li><b>5 år+ </b>
+                                            genomsnittlig utvecklarupplevelse
+
                                             </li>
                                             <li><b>300+ </b>
-                                                WordPress projects completed
+                                            WordPress-projekt avslutade
+
                                             </li>
                                             <li><b>380 000+  </b>
-                                            hours spent on projects 
+                                            timmar spenderade på projekt
+ 
                                             </li>
                                             <li><b>15+ </b>
-                                            strategic partnerships with digital agencies 
+                                            strategiska partnerskap med digitala byråer
+ 
                                             </li>
                                             <li><b>90% </b>
-                                            clients recommend working with us 
+                                            kunder rekommenderar att du arbetar med oss
+ 
                                             </li>
                                             <li><b>95% </b>
-                                            projects finished on time 
+                                            projekt avslutade i tid
+ 
                                             </li>
                                         </ul>
                                     </div>

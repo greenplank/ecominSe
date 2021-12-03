@@ -14,41 +14,64 @@ class SEODetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-7 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>WooCommerce Development </h2>
-                                    <p>Online shopping and eCommerce are one of the fastest-growing industries in the world. The ease at which we gain access to products from all over the world will continue to be easier in the future.
+                                    <h2>WooCommerce utveckling
+ </h2>
+                                    <p>Online shopping och e-handel är en av de snabbast växande industrierna i världen. Den lätthet med vilken vi får tillgång till produkter från hela världen kommer att fortsätta att bli enklare i framtiden.
+
                                     </p>
 
-                                    <h2>WooCommerce Development Services </h2>
-                                    <p>Your website is one of the most important elements of your business. Make sure yours is created by experienced web developers. Get your WooCommerce development faster, cleaner, stronger than ever. </p>
-                                    <p>Our team is more than just experienced WooCommerce developers. We also employ a number of other eCommerce experts who know how to give your WooCommerce site every feature necessary for generating regular profits. </p>
+                                    <h2>WooCommerce utvecklingstjänster
+ </h2>
+                                    <p>Din webbplats är en av de viktigaste delarna av ditt företag. Se till att din är skapad av erfarna webbutvecklare. Få din WooCommerce-utveckling snabbare, renare, starkare än någonsin.
+</p>
+                                    <p>Vårt team är mer än bara erfarna WooCommerce-utvecklare. Vi anställer också ett antal andra e-handelsexperter som vet hur man ger din WooCommerce-webbplats alla funktioner som behövs för att generera regelbundna vinster.
+ </p>
 
-                                    <h3>WOOCOMMERCE USER EXPERIENCE</h3>
-                                    <p>Our WooCommerce developers will give you a user-friendly site that increases conversions.
+                                    <h3>WOOCOMMERCE ANVÄNDARUPPLEVELSE
+</h3>
+                                    <p>Våra WooCommerce-utvecklare kommer att ge dig en användarvänlig sida som ökar antalet konverteringar.
+
                                     </p>
-                                    <h3>EMAIL MARKETING</h3>
-                                    <p>Keep marketing to your customers long after they’ve left your WooCommerce site with effective email campaigns.
+                                    <h3>E-POST MARKNADSFÖRING
+</h3>
+                                    <p>Fortsätt marknadsföra till dina kunder långt efter att de har lämnat din WooCommerce-webbplats med effektiva e-postkampanjer.
+
                                     </p>
-                                    <h3>NEW WOOCOMMERCE SITE BUILDS</h3>
-                                    <p>Building a high-quality WooCommerce site is difficult. Let our developers handle it from start-to-finish, so you can stay focused on what you do best.
+                                    <h3>NY WOOCOMMERCE SIDA BYGGER
+</h3>
+                                    <p>Att bygga en högkvalitativ WooCommerce-sajt är svårt. Låt våra utvecklare hantera det från början till slut, så att du kan behålla fokus på det du är bäst på.
+
                                     </p>
-                                    <h3>IMPROVED VISUAL DESIGN</h3>
-                                    <p>We’ll make sure your WooCommerce site accurately reflects your eCommerce company’s unique brands.
+                                    <h3>FÖRBÄTTRAD VISUELL DESIGN
+</h3>
+                                    <p>Vi ser till att din WooCommerce-webbplats korrekt återspeglar ditt e-handelsföretags unika varumärken.
+
                                     </p>
-                                    <h3>WOOCOMMERCE SEO</h3>
-                                    <p>Your site needs traffic. Our WooCommerce experts understand the unique SEO demands of this powerful platform.
+                                    <h3>WOOCOMMERCE SEO
+</h3>
+                                    <p>Din webbplats behöver trafik. Våra WooCommerce-experter förstår de unika SEO-kraven på denna kraftfulla plattform.
+
                                     </p>
-                                    <h3>WOOCOMMERCE APPLICATION UPGRADES</h3>
-                                    <p>Keep your WooCommerce site optimised with the most updated releases to ensure you’re leveraging the best possible tools with the highest levels of security.
+                                    <h3>UPPGRADERINGAR AV WOOCOMMERCE-APPLIKATIONER
+</h3>
+                                    <p>Håll din WooCommerce-webbplats optimerad med de mest uppdaterade versionerna för att säkerställa att du använder de bästa möjliga verktygen med högsta säkerhetsnivå.
+
                                     </p>
-                                    <h3>CONTINUOUS IMPROVEMENTS</h3>
-                                    <p>Our WooCommerce developers will always look for new data-driven opportunities to
-                                        keep your site ahead of the competition.
+                                    <h3>KONTINUERLIGA FÖRBÄTTRINGAR
+</h3>
+                                    <p>
+Våra WooCommerce-utvecklare kommer alltid att leta efter nya datadrivna möjligheter
+                                        håll din webbplats före konkurrenterna.
                                     </p>
-                                    <h3>BUSINESS STRATEGY</h3>
-                                    <p>From change management to call center optimisation to business process improvements and more. We can do whatever it takes to improve your eCommerce profits.
+                                    <h3>AFFÄRSSTRATEGI
+</h3>
+                                    <p>Från förändringshantering till callcenteroptimering till förbättringar av affärsprocesser och mer. Vi kan göra vad som helst för att förbättra dina e-handelsvinster.
+
                                     </p>
-                                    <h3>ONGOING WOOCOMMERCE SUPPORT & SECURITY</h3>
-                                    <p>Launching your WooCommerce site is only the beginning. Our experts will keep your site optimised with ongoing enhancements while also monitoring your results and providing production outage support.
+                                    <h3>PÅGÅENDE WOOCOMMERCE SUPPORT OCH SÄKERHET
+</h3>
+                                    <p>Att lansera din WooCommerce-webbplats är bara början. Våra experter kommer att hålla din webbplats optimerad med pågående förbättringar samtidigt som de övervakar dina resultat och ger support för produktionsavbrott.
+
                                     </p>
 
                                 </div>
@@ -56,29 +79,44 @@ class SEODetailsContent extends Component {
 
                             <div className="col-lg-5 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>WooCommerce Services</h3>
+                                    <h3>WooCommerce-tjänster
+</h3>
                                     <ul>
-                                        <li>Theme Development</li>
-                                        <li>Plugin/Add-ons Development</li>
-                                        <li>Other E-commerce to WooCommerce Migration Database </li>
-                                        <li>Migration</li>
-                                        <li>Marketplace Development</li>
-                                        <li>Shipping Gateway Development</li>
-                                        <li>Payment Gateway Development </li>
-                                        <li>Subscription & Booking Extension </li>
-                                        <li>Development Code/Site Optimisation</li>
-                                        <li>API Development & Integration</li>
-                                        <li>Maintenance & Upgrades</li>
-                                        <li>SEO optimisation</li>
+                                        <li>Temautveckling</li>
+                                        <li>Utveckling av plugin/tillägg
+</li>
+                                        <li>Annan e-handel till WooCommerce Migration Database
+</li>
+                                        <li>Migration
+</li>
+                                        <li>Marknadsutveckling
+</li>
+                                        <li>Shipping Gateway utveckling
+</li>
+                                        <li>Utveckling av betalningsgateway
+ </li>
+                                        <li>Prenumeration & bokningsförlängning
+</li>
+                                        <li>Utvecklingskod/webbplatsoptimering
+</li>
+                                        <li>API utveckling och integration
+</li>
+                                        <li>Underhåll & uppgraderingar
+</li>
+                                        <li>SEO-optimering
+</li>
                                     </ul>
                                     <div className="about-image pb-100">
                                     <img src="/images/woocommerce_result.webp" alt="image" width="300px" className="rounded-10" />
                                 </div>
 
-                                    <h2>WooCommerce as Your eCommerce Platform </h2>
-                                    <p>WooCommerce is an eCommerce platform with a lot of potential...provided you know how to make the most of it. That’s where our WooCommerce agency comes in. Our team is full of WooCommerce experts who obsess about the platform. We can optimise your current site or build you a completely new one from scratch all with customised solutions unique to your goals.
+                                    <h2>WooCommerce som din e-handelsplattform
+ </h2>
+                                    <p>WooCommerce är en e-handelsplattform med mycket potential...förutsatt att du vet hur du får ut det mesta av det. Det är där vår WooCommerce-byrå kommer in. Vårt team är fullt av WooCommerce-experter som är besatta av plattformen. Vi kan optimera din nuvarande sida eller bygga en helt ny från grunden, allt med skräddarsydda lösningar som är unika för dina mål.
+
                                     </p>
-                                    <p>eComIN provides top-tier WooCommerce development services to address your unique business concerns. We have the necessary expertise, skillset, and tools to expertly resolve all the challenges in your WooCommerce store. Our WooCommerce experts can simplify, streamline, and elevate your business. Our extensive experience makes us the most reliable WooCommerce development company. From strategy, roadmap, prototyping, all the way to development and implementation, we handle each project meticulously to give our clients the most satisfactory result. You receive the best Return on Investment (ROI) with eComIN. We build innovative, reliable, customised, and future-proof solutions. Our experienced team of Woo Experts provides eCommerce solutions that help our clients succeed. </p>
+                                    <p>eComIN tillhandahåller WooCommerce-utvecklingstjänster i toppklass för att hantera dina unika affärsproblem. Vi har den nödvändiga expertisen, kompetensen och verktygen för att sakkunnigt lösa alla utmaningar i din WooCommerce-butik. Våra WooCommerce-experter kan förenkla, effektivisera och lyfta ditt företag. Vår långa erfarenhet gör oss till det mest pålitliga WooCommerce-utvecklingsföretaget. Från strategi, roadmap, prototyping, hela vägen till utveckling och implementering, vi hanterar varje projekt noggrant för att ge våra kunder det mest tillfredsställande resultatet. Du får den bästa avkastningen på investeringen (ROI) med eComIN. Vi bygger innovativa, pålitliga, skräddarsydda och framtidssäkra lösningar. Vårt erfarna team av Woo-experter tillhandahåller e-handelslösningar som hjälper våra kunder att lyckas.
+ </p>
                                 </div>
                                
 
@@ -95,9 +133,11 @@ class SEODetailsContent extends Component {
                             <div className="row align-items-center">
                                 <div className="col-lg-9 col-md-8">
                                     <div className="cta-content">
-                                        <h3>WooCommerce - the most customisable eCommerce platform for building your online business.
+                                        <h3>WooCommerce - den mest anpassningsbara e-handelsplattformen för att bygga ditt onlineföretag.
+
                                         </h3>
-                                        <p>Get Started
+                                        <p>Komma igång
+
                                         </p>
                                     </div>
                                 </div>
@@ -105,7 +145,8 @@ class SEODetailsContent extends Component {
                                 <div className="col-lg-3 col-md-4">
                                     <div className="cta-btn-box">
                                         <Link href="/contact">
-                                            <a className="btn btn-primary">Contact Us
+                                            <a className="btn btn-primary">Kontakta oss
+
                                             </a>
                                         </Link>
                                     </div>

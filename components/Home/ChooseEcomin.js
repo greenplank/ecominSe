@@ -4,7 +4,7 @@ class ChooseEcomin extends Component {
     render() {
         return (
             <>
-                
+
 
                 <section className="about-area ptb-100 bg-fcfbfb">
                     <div className="container">
@@ -13,9 +13,11 @@ class ChooseEcomin extends Component {
                                 <div className="about-content about-content-two">
                                     <div className="section-title">
                                         <div className="info-head">
-                                            <h2 className="title">Why Choose EcomIN as Your Go-To Custom Software Development Company?</h2>
-                                            <p>We value your ideas and support you every step of the way, with professionalism and innovation at the core of all we do.</p>
-                                            <p>At EcomIN, software development is just the beginning. We go beyond the realms of desktop, web, and mobile app development. Through our full-service web design and marketing services, we can help your firm realize your digital goals. Let’s get coding, designing, and promoting your brand online!
+                                            <h2 className="title">Varför välja EcomIN som ditt företag för utveckling av anpassad programvara?
+                                            </h2>
+                                            <p>Vi värdesätter dina idéer och stöttar dig varje steg på vägen, med professionalism och innovation i kärnan i allt vi gör.
+                                            </p>
+                                            <p>Hos EcomIN är mjukvaruutveckling bara början. Vi går bortom utvecklingen av datorer, webb och mobilappar. Genom vår fullservice webbdesign och marknadsföringstjänster kan vi hjälpa ditt företag att förverkliga dina digitala mål. Låt oss börja koda, designa och marknadsföra ditt varumärke online!
                                             </p>
                                         </div>
                                     </div>

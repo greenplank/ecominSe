@@ -8,63 +8,67 @@ class SEOPackages extends Component {
                 <section className="pricing-area ptb-100 bg-f9f6f6">
                     <div className="container">
                         <div className="section-title">
-                            <h2>SEO Packages</h2>
-                            <p>SEO Package Pricing so you can add real value to the parts of your digital marketing that you need most today.  You can implement your search engine optimization piece by piece.</p>
+                            <h2>SEO-paket
+                            </h2>
+                            <p>SEO-paketprissättning så att du kan lägga till verkligt värde till de delar av din digitala marknadsföring som du behöver mest idag. Du kan implementera din sökmotoroptimering bit för bit.
+                            </p>
                         </div>
 
                         <div className="row">
                             <div className="col-lg-4 col-md-6">
                                 <div className="pricing-table">
                                     <div className="pricing-header">
-                                        <h3>Current Specials</h3>
+                                        <h3>Aktuella specialerbjudanden
+                                        </h3>
                                     </div>
 
                                     <div className="price">
                                         <span>
                                             <sup>€</sup>300
-                                            <span>/monthly</span>
+                                            <span>/en gång i månaden
+                                            </span>
                                         </span>
                                     </div>
 
                                     <div className="pricing-features">
                                         <ul>
-                                            <li className="active">€FREE September</li>
-                                            <li className="active">FREE Google PPC Management</li>
-                                            <li className="active">With Local SEO Package</li>
-                                            {/* <li className="active">Unlimited Website</li>
-                                            <li className="active">Unlimited Users</li>
-                                            <li className="active">24x7 Great Support</li>
-                                            <li>Data Security and Backups</li>
-                                            <li>Monthly Reports and Analytics</li> */}
+                                            <li className="active">€GRATIS september
+                                            </li>
+                                            <li className="active">GRATIS Google PPC-hantering
+                                            </li>
+                                            <li className="active">Med lokalt SEO-paket
+                                            </li>
+
                                         </ul>
                                     </div>
 
-                                    {/* <div className="pricing-footer">
-                                        <Link href="#">
-                                            <a className="btn btn-primary">Select Plan</a>
-                                        </Link>
-                                    </div> */}
+
                                 </div>
                             </div>
 
                             <div className="col-lg-4 col-md-6">
                                 <div className="pricing-table">
                                     <div className="pricing-header">
-                                        <h3>Schema Package</h3>
+                                        <h3>Schemapaket
+                                        </h3>
                                     </div>
 
                                     <div className="price">
                                         <span>
                                             <sup>€</sup>300+100
-                                            <span>/per Page</span>
+                                            <span>/per sida
+                                            </span>
                                         </span>
                                     </div>
 
                                     <div className="pricing-features">
                                         <ul>
-                                            <li className="active">Research Business Tag Options</li>
-                                            <li className="active">Implement Advanced On Page Schema</li>
-                                            <li className="active">Testing of Every Page</li>
+                                            <li className="active">Forskning Business Tag Options
+                                            </li>
+                                            <li className="active">Implementera Advanced On Page Schema
+                                            </li>
+                                            <li className="active">Testning av varje sida
+                                            </li>
                                             {/* <li className="active">Unlimited Website</li>
                                             <li className="active">Unlimited Users</li>
                                             <li className="active">24x7 Great Support</li>
@@ -84,22 +88,28 @@ class SEOPackages extends Component {
                             <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
                                 <div className="pricing-table">
                                     <div className="pricing-header">
-                                        <h3>On Page SEO Package</h3>
+                                        <h3>On Page SEO-paket
+                                        </h3>
                                     </div>
 
                                     <div className="price">
                                         <span>
                                             <sup>€</sup>300+100
-                                            <span>/per Page</span>
+                                            <span>/per sida
+                                            </span>
                                         </span>
                                     </div>
 
                                     <div className="pricing-features">
                                         <ul>
-                                            <li className="active">Full Site Audit</li>
-                                            <li className="active">Rework URL Structure - Silo</li>
-                                            <li className="active">Internal & External Linking</li>
-                                            <li className="active">General Layout</li>
+                                            <li className="active">Fullständig webbplatsrevision
+                                            </li>
+                                            <li className="active">Omarbeta URL-struktur - Silo
+                                            </li>
+                                            <li className="active">Intern & Extern länkning
+                                            </li>
+                                            <li className="active">Allmän layout
+                                            </li>
 
                                         </ul>
                                     </div>
@@ -114,27 +124,38 @@ class SEOPackages extends Component {
                             <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
                                 <div className="pricing-table">
                                     <div className="pricing-header">
-                                        <h3>Content Marketing SEO Package</h3>
+                                        <h3>Content Marketing SEO-paket
+                                        </h3>
                                     </div>
 
                                     <div className="price">
                                         <span>
                                             <sup>€</sup>499
-                                            <span>/monthly</span>
+                                            <span>/en gång i månaden
+                                            </span>
                                         </span>
                                     </div>
 
                                     <div className="pricing-features">
                                         <ul>
-                                            <li className="active">Two 800+ Word, Blogs Professionally Written</li>
-                                            <li className="active">Blogs Posted to Your Website</li>
-                                            <li className="active">Licensed High Quality Photo</li>
-                                            <li className="active">Photo Customized With Overlay</li>
-                                            <li className="active">Blogs Social Shared to Your Accounts</li>
-                                            <li className="active">Blogs Socially Syndicated via Out Networks</li>
-                                            <li className="active">Money Page, Internal Linking</li>
-                                            <li className="active">Authority, Outbound Links</li>
-                                            <li className="active">On Page SEO</li>
+                                            <li className="active">Två 800+ ord, bloggar professionellt skrivna
+                                            </li>
+                                            <li className="active">Bloggar som läggs upp på din webbplats
+                                            </li>
+                                            <li className="active">Licensierad högkvalitativ foto
+                                            </li>
+                                            <li className="active">Foto anpassat med överlägg
+                                            </li>
+                                            <li className="active">Sociala bloggar som delas med dina konton
+                                            </li>
+                                            <li className="active">Bloggar socialt syndikerade via Out-nätverk
+                                            </li>
+                                            <li className="active">Pengarsida, intern länkning
+                                            </li>
+                                            <li className="active">Auktoritet, utgående länkar
+                                            </li>
+                                            <li className="active">På sidan SEO
+                                            </li>
                                         </ul>
                                     </div>
 
@@ -154,74 +175,79 @@ class SEOPackages extends Component {
                                     <div className="price">
                                         <span>
                                             <sup>€</sup>900
-                                            <span>/9 month</span>  /
+                                            <span>/9 månader
+                                            </span>  /
                                             <sup>€</sup>300
-                                            <span>/monthly</span>
+                                            <span>/en gång i månaden
+                                            </span>
                                         </span>
                                     </div>
 
                                     <div className="pricing-features">
                                         <ul>
-                                            <li className="active">Creation and Optimization of GMB</li>
-                                            <li className="active">Account</li>
-                                            <li className="active">Multiple Full Citation Audits</li>
-                                            <li className="active">Creation of 40+ Primary Citations</li>
-                                            <li className="active">Creation of 60+ Secondary Citations</li>
-                                            <li className="active">Minimum 50 Google Map Embeds</li>
-                                            <li className="active">1 Press Release</li>
+                                            <li className="active">Skapande och optimering av GMB
+                                            </li>
+                                            <li className="active">konto
+                                            </li>
+                                            <li className="active">Flera fullständiga citeringsrevisioner
+                                            </li>
+                                            <li className="active">Skapande av 40+ primära citat
+                                            </li>
+                                            <li className="active">Skapande av 60+ sekundära citat
+                                            </li>
+                                            <li className="active">Minst 50 Google Map-inbäddningar
+                                            </li>
+                                            <li className="active">1 Pressmeddelande
+                                            </li>
                                             <li className="active">10-20 Google Posts</li>
-                                            <li className="active">Local Authority Links</li>
-                                            <li className="active">Claim Apple Maps</li>
-
+                                            <li className="active">Länkar till lokala myndigheter
+                                            </li>
+                                            <li className="active">Gör anspråk på Apple Maps
+                                            </li>
                                         </ul>
                                     </div>
-
-                                    {/* <div className="pricing-footer">
-                                        <Link href="#">
-                                            <a className="btn btn-primary">Select Plan</a>
-                                        </Link>
-                                    </div> */}
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
                                 <div className="pricing-table">
                                     <div className="pricing-header">
-                                        <h3>WordPress Maintenance Package</h3>
+                                        <h3>WordPress underhållspaket
+                                        </h3>
                                     </div>
 
                                     <div className="price">
                                         <span>
                                             <sup>€</sup>99
-                                            <span>/month</span>
+                                            <span>/månad
+                                            </span>
                                         </span>
                                     </div>
 
                                     <div className="pricing-features">
                                         <ul>
-                                            <li className="active">Implementation of Daily/Weekly Backups</li>
-                                            <li className="active">Ongoing Updates of the WordPress </li>
-                                            <li className="active">Infrastructure</li>
-                                            <li className="active">Ongoing Updates of WordPress Plugins</li>
-                                            <li className="active">Insuring the site is up and working properly at all times.</li>
-                                            <li className="active">1/2 hour of development time per month (not cumulative) which is enough time for small cosmetic updates without incurring any additional charges.
+                                            <li className="active">Implementering av dagliga/veckovisa säkerhetskopior
+                                            </li>
+                                            <li className="active">Löpande uppdateringar av WordPress
+                                            </li>
+                                            <li className="active">Infrastruktur
+                                            </li>
+                                            <li className="active">Löpande uppdateringar av WordPress-plugins
+                                            </li>
+                                            <li className="active">Försäkra att webbplatsen alltid är uppe och fungerar korrekt.
+                                            </li>
+                                            <li className="active">1/2 timmes utvecklingstid per månad (inte kumulativ) vilket är tillräckligt med tid för små kosmetiska uppdateringar utan att medföra några extra kostnader.
+
                                             </li>
 
 
                                         </ul>
                                     </div>
 
-                                    {/* <div className="pricing-footer">
-                                        <Link href="#">
-                                            <a className="btn btn-primary">Select Plan</a>
-                                        </Link>
-                                    </div> */}
+
                                 </div>
                             </div>
                         </div>
-                        {/* <div className="section-title ptb-100">
-                            <h2>Digital Marketing Add-Ons</h2>
-                            <p>Google AdWords Management </p>
-                        </div> */}
+
                     </div>
                 </section>
             </>

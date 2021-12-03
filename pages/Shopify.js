@@ -18,7 +18,8 @@ class Shopify extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Shopify Development"
+                    pageTitle="Shopify utveckling
+                    "
                     BGImage="bg-one"
                 />
 

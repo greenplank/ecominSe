@@ -22,15 +22,15 @@ class Footer extends Component {
                                         </Link>
                                     </div>
 
-                                    <p>Ecomin is a software development organization that offers first-class services to companies of all kinds.
+                                    <p>Ecomin är en mjukvaruutvecklingsorganisation som erbjuder förstklassiga tjänster till företag av alla slag.
                                     </p>
                                     <ul className="list">
-                                    <li>
-                                        <Link href="/GDPR">
-                                            <a>GDPR
-                                            </a>
-                                        </Link>
-                                    </li>
+                                        <li>
+                                            <Link href="/GDPR">
+                                                <a>GDPR
+                                                </a>
+                                            </Link>
+                                        </li>
                                     </ul>
                                     <ul className="social-links">
                                         <li>
@@ -50,7 +50,7 @@ class Footer extends Component {
 
                             <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="single-footer-widget ml-4 pl-5">
-                                    <h3>Explore
+                                    <h3>Utforska
                                     </h3>
 
                                     <ul className="list">
@@ -58,33 +58,39 @@ class Footer extends Component {
 
                                         <li>
                                             <Link href="/web-development">
-                                                <a>Web Development</a>
+                                                <a>Webbutveckling
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/ux-ui-design">
-                                                <a>UX/UI Design</a>
+                                                <a>UX/UI-design
+                                                </a>
                                             </Link>
                                         </li>
 
                                         <li>
                                             <Link href="/Search-Engine-Optimization">
-                                                <a>SEO Services</a>
+                                                <a>SEO-tjänster
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/Social-Media-Marketing">
-                                                <a>Social Media Marketing</a>
+                                                <a>Marknadsföring i sociala medier
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/PaidMarketing">
-                                                <a>Paid Marketing-PPC</a>
+                                                <a>Betald marknadsföring-PPC
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/Site-Audit-Report">
-                                                <a>Site Audit Reporting</a>
+                                                <a>Rapportering av webbplatsrevision
+                                                </a>
                                             </Link>
                                         </li>
                                     </ul>
@@ -93,33 +99,37 @@ class Footer extends Component {
 
                             <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="single-footer-widget ml-4">
-                                    <h3>Quick links
+                                    <h3>Snabblänkar
                                     </h3>
 
                                     <ul className="list">
                                         <li>
                                             <Link href="/">
-                                                <a>Home</a>
+                                                <a>Hem
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/portfolio">
-                                                <a>Portfolio</a>
+                                                <a>Portfölj
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/Faqs">
-                                                <a>Faqs</a>
+                                                <a>Vanliga frågor
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/about">
-                                                <a>About Us</a>
+                                                <a>Om oss
+                                                </a>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/contact">
-                                                <a>Contact Us
+                                                <a>Kontakta oss
                                                 </a>
                                             </Link>
                                         </li>
@@ -132,7 +142,7 @@ class Footer extends Component {
 
                             <div className="col-lg-3 col-sm-6">
                                 <div className="single-footer-widget">
-                                    <h3>Get in touch
+                                    <h3>Komma i kontakt
                                     </h3>
 
                                     <ul className="get-in-touch">
@@ -155,7 +165,8 @@ class Footer extends Component {
 
                     <div className="copyright-area">
                         <div className="container">
-                            <p>Copyright &copy; {currentYear} Ecomin. All Rights Reserved By <a href="https://ecomin.se" target="_blank">Ecomin</a></p>
+                            <p>upphovsrätt
+                                &copy; {currentYear} Ecomin. Alla rättigheter reserverade av <a href="https://ecomin.se" target="_blank"> Ecomin</a></p>
                         </div>
                     </div>
                 </footer>

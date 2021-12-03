@@ -18,7 +18,8 @@ class ContentStrategy extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Content Strategy & Writing"
+                    pageTitle="Innehållsstrategi och skrivande
+                    "
                     BGImage="bg-one"
                 />
 

@@ -14,7 +14,8 @@ class Contact extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="Contact Us"
+                    pageTitle="Kontakta oss
+                    "
                     BGImage="bg-one"
                 />
 

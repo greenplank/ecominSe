@@ -18,7 +18,8 @@ class WooCommerce extends Component {
                 <NavbarOne />
 
                 <PageBanner
-                    pageTitle="WooCommerce Development"
+                    pageTitle="WooCommerce utveckling
+                    "
                     BGImage="bg-one"
                 />
 

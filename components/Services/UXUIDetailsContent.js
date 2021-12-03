@@ -13,15 +13,17 @@ class UXUIDetailsContent extends Component {
                 <section className="pt-100 pb-70 bg-fcfbfb">
                     <div className="container">
                         <div className="row justify-content-center" style={{ textAlign: "center" }}>
-                            <h2>The design of UI / UX workflow
+                            <h2>Utformningen av UI / UX arbetsflöde
+
                             </h2>
-                            <p>We deliver an efficient and simple user experience with the program's clean and beautiful graphic layout.
+                            <p>Vi levererar en effektiv och enkel användarupplevelse med programmets rena och vackra grafiska layout.
+
                             </p>
 
                             <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/knowledge.svg" alt="image" className="rounded-10" width="80" />
-                                    <h6>Learning
+                                    <h6>Inlärning
                                     </h6>
 
                                 </div>
@@ -30,7 +32,7 @@ class UXUIDetailsContent extends Component {
                             <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/loupe.svg" alt="image" className="rounded-10" width="80" />
-                                    <h6>Research</h6>
+                                    <h6>Forskning</h6>
 
                                 </div>
                             </div>
@@ -38,7 +40,7 @@ class UXUIDetailsContent extends Component {
                             <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/wireframe.svg" alt="image" className="rounded-10" width="80" />
-                                    <h6>Wire frame
+                                    <h6>Trådram
                                     </h6>
 
                                 </div>
@@ -53,21 +55,22 @@ class UXUIDetailsContent extends Component {
                             <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/prototyping.svg" alt="image" className="rounded-10" width="80" />
-                                    <h6>Prototype</h6>
+                                    <h6>Prototyp</h6>
 
                                 </div>
                             </div>
                             <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/3d-movie.svg" alt="image" className="rounded-10" width="80" />
-                                    <h6>Animations</h6>
+                                    <h6>Animationer
+</h6>
 
                                 </div>
                             </div>
                             <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/copyright.svg" alt="image" className="rounded-10" width="80" />
-                                    <h6>UI Guidelines
+                                    <h6>Riktlinjer för UI
                                     </h6>
 
                                 </div>
@@ -75,8 +78,7 @@ class UXUIDetailsContent extends Component {
                             <div className="col-lg-1 col-4 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/review.svg" alt="image" className="rounded-10" width="80" />
-                                    <h6>Reviews</h6>
-
+                                    <h6>Recensioner</h6>
                                 </div>
                             </div>
                         </div>
@@ -90,7 +92,8 @@ class UXUIDetailsContent extends Component {
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="portfolio-desc" style={{ textAlign: "center", fontSize: "500em" }}>
-                                    <h2 style={{ fontSize: "48px" }}>Our UI / UX services
+                                    <h2 style={{ fontSize: "48px" }}>Våra UI/UX-tjänster
+
                                     </h2>
                                 </div>
                             </div>
@@ -105,7 +108,8 @@ class UXUIDetailsContent extends Component {
                                     <img src="/images/web-design.svg" alt="image" className="rounded-10" width="80" />
                                     <h4>UI / UX design
                                     </h4>
-                                    <p>We are very skilled at developing cheap PWA to create reliable, fast and engaging web apps.
+                                    <p>Vi är mycket skickliga på att utveckla billiga PWA för att skapa pålitliga, snabba och engagerande webbappar.
+
                                     </p>
                                 </div>
                             </div>
@@ -113,9 +117,9 @@ class UXUIDetailsContent extends Component {
                             <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/brainstorming.svg" alt="image" className="rounded-10" width="80" />
-                                    <h4>UX Consulting
+                                    <h4>UX konsultation
                                     </h4>
-                                    <p>By adopting a customer strategy, we provide solutions that improve the usability of your product.
+                                    <p>Genom att anta en kundstrategi tillhandahåller vi lösningar som förbättrar användbarheten av din produkt.
                                     </p>
                                 </div>
                             </div>
@@ -123,18 +127,18 @@ class UXUIDetailsContent extends Component {
                             <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/computer.svg" alt="image" className="rounded-10" width="80" />
-                                    <h4>Web and mobile design
+                                    <h4>Webb- och mobildesign
                                     </h4>
-                                    <p>We create innovative and current patterns that help you shape your brand identity regardless of screen size or platform.
+                                    <p>Vi skapar innovativa och aktuella mönster som hjälper dig att forma din varumärkesidentitet oavsett skärmstorlek eller plattform.
                                     </p>
                                 </div>
                             </div>
                             <div className="col-lg-3 col-6 col-sm-6">
                                 <div className="funfact-card">
                                     <img src="/images/web-programming-1.svg" alt="image" className="rounded-10" width="80" />
-                                    <h4>UI / UX brand identity
+                                    <h4>UI / UX varumärkesidentitet
                                     </h4>
-                                    <p>Our creative and engaging designs offer your goods a sense of purpose, strengthen their brand and increase awareness.
+                                    <p>Vår kreativa och engagerande design ger dina varor en känsla av syfte, stärker deras varumärke och ökar medvetenheten.
                                     </p>
                                 </div>
                             </div>

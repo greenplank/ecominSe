@@ -8,9 +8,9 @@ class Services extends Component {
                 <div className="bg-fcfbfb ptb-100 pb-60">
                     <div className="container">
                         <div className="section-title">
-                            <h2>We Create Engaging Innovative Digital Experiences
+                            <h2>Vi skapar engagerande innovativa digitala upplevelser
                             </h2>
-                            <p>EcomIN helps businesses advance and inspire, create positive transformation, and champion digital innovation. Look over the horizon of the digital landscape -- that’s where we can take you.
+                            <p>EcomIN hjälper företag att avancera och inspirera, skapa positiv transformation och kämpa för digital innovation. Se över det digitala landskapets horisont – det är dit vi kan ta dig.
                             </p>
                         </div>
 
@@ -20,11 +20,11 @@ class Services extends Component {
                                     <i className="pe-7s-vector bg-13c4a1"></i>
                                     <h3>
                                         <Link href="/ux-ui-design">
-                                            <a>Interface design
+                                            <a>Gränssnittsdesign
                                             </a>
                                         </Link>
                                     </h3>
-                                    <p>We are one of the leading web design companies in Europe and we build innovative user interfaces that provide good results on time and on budget
+                                    <p>Vi är ett av de ledande webbdesignföretagen i Europa och vi bygger innovativa användargränssnitt som ger bra resultat i tid och inom budget
                                     </p>
                                 </div>
                             </div>
@@ -34,13 +34,13 @@ class Services extends Component {
                                     <i className="pe-7s-global bg-6610f2"></i>
                                     <h3>
                                         <Link href="/web-development">
-                                            <a>web development
+                                            <a>webbutveckling
                                             </a>
                                         </Link>
                                     </h3>
-                                    <p>Our web development company works with customers based all over Europe and all over the world.
+                                    <p>Vårt webbutvecklingsföretag arbetar med kunder baserade över hela Europa och över hela världen.
                                     </p>
-                                    <br/>
+                                    <br />
                                 </div>
                             </div>
 
@@ -49,13 +49,13 @@ class Services extends Component {
                                     <i className="pe-7s-graph1 bg-ffb700"></i>
                                     <h3>
                                         <Link href="/Social-Media-Marketing">
-                                            <a>Digital marketing
+                                            <a>Digital marknadsföring
                                             </a>
                                         </Link>
                                     </h3>
-                                    <p>We do digital marketing for your brand and company or your products and services. The world is currently online
+                                    <p>Vi gör digital marknadsföring för ditt varumärke och företag eller dina produkter och tjänster. Världen är för närvarande online
                                     </p>
-                                    <br/>
+                                    <br />
                                 </div>
                             </div>
 
@@ -64,11 +64,11 @@ class Services extends Component {
                                     <i className="pe-7s-phone bg-fc3549"></i>
                                     <h3>
                                         <Link href="/App-Development">
-                                            <a>Mobile app development
+                                            <a>Utveckling av mobilappar
                                             </a>
                                         </Link>
                                     </h3>
-                                    <p>The mobile application market is growing incredibly fast. According to Gartner's predictions, demand for mobile app development services will grow faster
+                                    <p>Mobilapplikationsmarknaden växer otroligt snabbt. Enligt Gartners förutsägelser kommer efterfrågan på tjänster för utveckling av mobilappar att växa snabbare
                                     </p>
                                 </div>
                             </div>
@@ -78,11 +78,13 @@ class Services extends Component {
                                     <i className="pe-7s-cart bg-00d280"></i>
                                     <h3>
                                         <Link href="/Magento-Development">
-                                            <a>E-commerce development
+                                            <a>E-handelsutveckling
+
                                             </a>
                                         </Link>
                                     </h3>
-                                    <p>We respond to various development needs with expertise ranging from high-performance infrastructure installation to user-centric web design and ecosystem implementation.
+                                    <p>Vi svarar på olika utvecklingsbehov med expertis som sträcker sig från högpresterande infrastrukturinstallation till användarcentrerad webbdesign och ekosystemimplementering.
+
                                     </p>
                                 </div>
                             </div>
@@ -92,11 +94,13 @@ class Services extends Component {
                                     <i className="pe-7s-target bg-ff612f"></i>
                                     <h3>
                                         <Link href="/Search-Engine-Optimization">
-                                            <a>SEO Optimizing</a>
+                                            <a>SEO-optimering
+                                            </a>
                                         </Link>
                                     </h3>
-                                    <p>We analyze and define the keywords that are searched in Google relatively and are crucial for your business development</p>
-                                    <br/>
+                                    <p>Vi analyserar och definierar de sökord som söks i Google relativt sett och är avgörande för din affärsutveckling
+                                    </p>
+                                    <br />
                                 </div>
                             </div>
                         </div>

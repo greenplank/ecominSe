@@ -7,10 +7,10 @@ class CtaAreaTwo extends Component {
                 <div className="container">
                     <div className="cta-content">
                         
-                        <h4 style={{color:"white"}}>Our Ethos
-                            We commit to doing the right thing every single time, with the utmost integrity.
-                            We are obsessed with our clients' success and delivering positive experiences.
-                            We operate at a high level of excellence and always strive to do things better.
+                        <h4 style={{color:"white"}}>Vårt etos
+                            Vi åtar oss att göra rätt sak varje gång, med största integritet.
+                            Vi är besatta av våra kunders framgång och att leverera positiva upplevelser.
+                            Vi arbetar på en hög nivå av excellens och strävar alltid efter att göra saker bättre.
 
                         </h4>
                     </div>

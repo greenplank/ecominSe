@@ -43,16 +43,18 @@ class Feedback extends Component {
                             {...options}
                         >
                             <div className="single-feedback">
-                                <p>Overall, I had a great experience. The communication was spotty a few times, but I realize that a lot was due to it
+                                <p>Sammantaget hade jag en fantastisk upplevelse. Kommunikationen var fläckig några gånger, men jag inser att mycket berodde på det
+
                                 </p>
 
                                 <div className="bar"></div>
 
-                                <h3>eritsuno</h3>
+                                <h3>eritsuno
+                                </h3>
                             </div>
 
                             <div className="single-feedback">
-                                <p>Excellent work for our social media. Creative and professional.
+                                <p>Utmärkt arbete för våra sociala medier. Kreativ och professionell.
                                 </p>
 
                                 <div className="bar"></div>
@@ -61,7 +63,7 @@ class Feedback extends Component {
                             </div>
 
                             <div className="single-feedback">
-                                <p>Excellent job and a real professional. She delivered better value than we agreed on and before the deadline. I understand
+                                <p>Utmärkt jobb och ett riktigt proffs. Hon levererade bättre värde än vi kommit överens om och innan deadline. jag förstår
                                 </p>
 
                                 <div className="bar"></div>
@@ -70,7 +72,7 @@ class Feedback extends Component {
                                 {/* <span>Angular JS Specialist</span> */}
                             </div>
                             <div className="single-feedback">
-                                <p>excellent service, very valuable and helpful audit. I expect that the recommendations will give a positive result. I would
+                                <p>utmärkt service, mycket värdefull och hjälpsam revision. Jag förväntar mig att rekommendationerna kommer att ge ett positivt resultat. jag skulle
                                 </p>
 
                                 <div className="bar"></div>

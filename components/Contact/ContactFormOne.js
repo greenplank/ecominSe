@@ -109,14 +109,14 @@ const ContactFormOne = () => {
     }
     const buttonContents = (
         <React.Fragment>
-            Send Message
+            Skicka meddelande
             {/* <img src={airplane} alt="paper airplane" style={{ marginLeft: "1em" }} /> */}
         </React.Fragment>
     )
     return (
         <section className="contact-page pt-120 pb-80">
             <div className="contact-form">
-                <h2>Get in touch
+                <h2>Komma i kontakt
                 </h2>
                 <form onSubmit={sendEmail}>
                     <div className="container">
@@ -126,7 +126,7 @@ const ContactFormOne = () => {
                                     <input
                                         type="text"
                                         name="name"
-                                        placeholder="name"
+                                        placeholder="namn"
                                         label="Enter your Name"
                                         className="form-control"
                                         id="name"
@@ -140,7 +140,8 @@ const ContactFormOne = () => {
                                 <div className="form-group">
                                     <input
                                         type="text"
-                                        placeholder="E-mail"
+                                        placeholder="E-post
+                                        "
                                         className="form-control"
                                         id="email"
                                         value={email}
@@ -157,7 +158,8 @@ const ContactFormOne = () => {
                                     <input
                                         type="text"
                                         name="phone"
-                                        placeholder="Phone number"
+                                        placeholder="Telefonnummer
+                                        "
                                         className="form-control"
                                         value={phone}
                                         onChange={(event) => setPhone(event.target.value)}
@@ -173,7 +175,8 @@ const ContactFormOne = () => {
                                         label="Subject"
                                         name="subject"
                                         id="subject"
-                                        placeholder="Subject"
+                                        placeholder="Ämne
+                                        "
                                         className="form-control"
                                         value={subject}
                                         onChange={(event) => setSubject(event.target.value)}
@@ -187,7 +190,8 @@ const ContactFormOne = () => {
                                         name="text"
                                         cols="30"
                                         rows="6"
-                                        placeholder="Write your message..."
+                                        placeholder="Skriv ditt meddelande...
+                                        "
                                         className="form-control"
                                         name="message"
                                         InputProps={{ disableUnderline: true }}

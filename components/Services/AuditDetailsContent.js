@@ -20,34 +20,51 @@ class AuditDetailsContent extends Component {
 
                             <div className="col-lg-8 col-md-12">
                                 <div className="services-details-desc">
-                                    <h2>Audit Your Business Website</h2>
-                                    <p>A SEO & SEM Audit Specialist will inspect the robustness of your website's technical framework and infrastructure, assess how friendly your website is to search engines and crawlers, and determine how easy it is for users to navigate and intuitively find content on your website. SEO site audits take a lot of time and resources. But it's worth it to make sure that your site is healthy and performing as well as it can.
+                                    <h2>Granska din företagswebbplats
+</h2>
+                                    <p>En SEO- och SEM-revisionsspecialist kommer att inspektera robustheten hos din webbplats tekniska ramverk och infrastruktur, bedöma hur vänlig din webbplats är mot sökmotorer och sökrobotar och avgöra hur lätt det är för användare att navigera och intuitivt hitta innehåll på din webbplats. SEO-webbplatsrevisioner tar mycket tid och resurser. Men det är värt det att se till att din webbplats är hälsosam och presterar så bra som den kan.
+
                                     </p>
 
-                                    <h2>What is an SEO Site Audit?</h2>
-                                    <p>Your website is analyzed for over 30 days period using award-winning software and tools for SEOs to uncover all the facts, behaviors, and trends. The same is done for your competitor websites. Once complete, you’ll be presented a detailed report explaining what’s really happening on your website, visitor behavior, what’s important / what’s not, marketing impacts, revenue-generating opportunities, potential risks, technical issues, competitor SWOT, a plethora of metrics, and a whole lot more. You'll also get an actionable roadmap you can implement.</p>
-                                    <p>A Site Audit involves a technical and visual review, analyzing your website architecture and contents page by page, and checking all of the technical features that affect search engines and crawlers including security check, customer behavior analytics, etc.</p>
+                                    <h2>Vad är en SEO-webbplatsrevision?
+</h2>
+                                    <p>Din webbplats analyseras i över 30 dagar med prisbelönt programvara och verktyg för SEO:er för att avslöja alla fakta, beteenden och trender. Samma sak görs för dina konkurrenters webbplatser. När du är klar kommer du att presenteras en detaljerad rapport som förklarar vad som verkligen händer på din webbplats, besökarnas beteende, vad som är viktigt/vad som inte är, marknadsföringseffekter, intäktsgenererande möjligheter, potentiella risker, tekniska problem, konkurrentens SWOT, en uppsjö av mätvärden, och en hel del mer. Du får också en handlingsbar färdplan som du kan implementera.
+</p>
+                                    <p>En webbplatsrevision involverar en teknisk och visuell granskning, analyserar din webbplatsarkitektur och innehåll sida för sida, och kontrollerar alla tekniska funktioner som påverkar sökmotorer och sökrobotar inklusive säkerhetskontroll, kundbeteendeanalys, etc.
+</p>
 
                                     <div className="services-details-info">
-                                        <h3>An audit may include:</h3>
+                                        <h3>En revision kan innefatta
+:</h3>
                                         <h4></h4>
                                         <ul>
                                             <li>
-                                                <h4>Technical Crawl</h4>In short, we comb through the structure of your website and use special tools to crawl for errors, missing items, mobile compatibility, duplicate contents or page speed issues that could hinder Search Engines to crawl and rank your site.
+                                                <h4>Teknisk genomsökning
+</h4>Kort sagt, vi går igenom strukturen på din webbplats och använder speciella verktyg för att genomsöka efter fel, saknade objekt, mobilkompatibilitet, dubbletter av innehåll eller problem med sidhastighet som kan hindra sökmotorer att genomsöka och rangordna din webbplats.
+
                                             </li>
                                             <li>
-                                                <h4>Keyword Research</h4>The simplest tool for improving search engine results, keywords and phrases are commonly-searched terms that relate directly to your company and products. It is important to use the right keywords and phrases often enough within your content so that search engines will crawl and rank your website. We will analyze your keyword focus throughout your site content and evaluate opportunities for improvement.
+                                                <h4>Sökordsforskning
+</h4>Det enklaste verktyget för att förbättra sökmotorernas resultat, sökord och fraser är vanliga sökord som direkt relaterar till ditt företag och dina produkter. Det är viktigt att använda rätt sökord och fraser tillräckligt ofta i ditt innehåll för att sökmotorer ska genomsöka och ranka din webbplats. Vi kommer att analysera ditt sökordsfokus genom hela ditt webbplatsinnehåll och utvärdera möjligheter till förbättringar.
+
                                             </li>
                                             <li>
-                                                <h4>Site Layout</h4>Websites that are easy to navigate and have clear calls to action perform better in search results than those that are not. You must remove any features that customers will find distracting or confusing, or slow down your site. Removing these issues allow users to move from page to page with as few barriers as possible.
+                                                <h4>Sid layout
+</h4>Webbplatser som är lätta att navigera och har tydliga uppmaningar ger bättre resultat i sökresultaten än de som inte är det. Du måste ta bort alla funktioner som kunder kommer att tycka är distraherande eller förvirrande, eller sakta ner din webbplats. Genom att ta bort dessa problem kan användare gå från sida till sida med så få hinder som möjligt.
+
                                             </li>
                                             <li>
-                                                <h4>Mobile Optimization</h4>A growing percentage of online searches are performed on smartphones and tablets. Top search engines have changed their algorithm so that mobile friendly sites now get ranked higher in SERPs (Search Engine Result Pages) than those who are not. On the flip, non-mobile sites get ranked lower. And that's dangerous for your business. We check your site for compatibility with mobile platforms or other issues and report back to you.
+                                                <h4>Mobiloptimering</h4>En växande andel av onlinesökningar görs på smartphones och surfplattor. Toppsökmotorer har ändrat sin algoritm så att mobilvänliga sajter nu rankas högre i SERP (Search Engine Result Pages) än de som inte är det. På baksidan rankas icke-mobila webbplatser lägre. Och det är farligt för ditt företag. Vi kontrollerar din webbplats för kompatibilitet med mobila plattformar eller andra problem och rapporterar tillbaka till dig.
+
                                                 <ul>
-                                                    <b>1.</b>	Learn what’s actually going on with your website such as organic visibility, site authority, site security, site responsiveness, etc.<br />
-                                                    <b>2.</b>	See what content visitors value most.<br />
-                                                    <b>3.</b>	Discover how you compare to your competitors.<br />
-                                                    <b>4.</b>	Maximize your site’s effectiveness.<br />
+                                                    <b>1.</b>	Lär dig vad som faktiskt händer med din webbplats, till exempel organisk synlighet, webbplatsauktoritet, webbplatssäkerhet, webbplatsrelevans, etc.
+<br />
+                                                    <b>2.</b>	Se vilket innehåll besökarna värdesätter högst.
+<br />
+                                                    <b>3.</b>	Upptäck hur du jämför dig med dina konkurrenter.
+<br />
+                                                    <b>4.</b>	Maximera din webbplats effektivitet.
+<br />
                                                 </ul>
                                             </li>
                                         </ul>
@@ -57,14 +74,17 @@ class AuditDetailsContent extends Component {
 
                             <div className="col-lg-4 col-md-12">
                                 <div className="services-details-info">
-                                    <h3>LET'S GET STARTED!</h3>
-                                    <p>Our clients, who has used EComIN’s intelligent SEO Site Audit service feel happy and satisfied with their investment. They’re affordable; between Free – € 4 000 depending on your website size and number of competitors. Plenty of cheaper alternatives exist, but smart people know you get what you pay for. Our Professional Site Audit is an in-depth, deep-dive analysis that uncovers the truth and provides actionable plans. </p>
+                                    <h3>LÅT OSS BÖRJA!
+</h3>
+                                    <p>Våra kunder, som har använt EComINs intelligenta SEO Site Audit-tjänst känner sig nöjda och nöjda med sin investering. De är prisvärda; mellan Gratis – € 4 000 beroende på din webbplats storlek och antal konkurrenter. Det finns många billigare alternativ, men smarta människor vet att du får vad du betalar för. Vår professionella webbplatsrevision är en djupgående, djupgående analys som avslöjar sanningen och ger handlingsbara planer.
+ </p>
 
                                 </div>
                                 <div className="services-details-info">
-                                    <h3>CONTACT US TODAY!</h3>
-                                    <p>Not a single SEO element is enough to ensure online success.
-                                        Only by paying close attention to all of these features can you build a site that performs well in searches. Our audits provide you the information and advice you need to do just this. Our professional digital marketing team will review and discuss the final audit report with you, explaining all elements that need attention and recommended next steps. Whether you are looking for a 3rd party, non-branded, opinion on your site or an agency that will take your marketing to the next level, a site audit is a perfect place to start with all new clients (and even annually with existing clients).
+                                    <h3>KONTAKTA OSS IDAG!
+</h3>
+                                    <p>Inte ett enda SEO-element är tillräckligt för att säkerställa framgång online.
+                                        Bara genom att ägna stor uppmärksamhet åt alla dessa funktioner kan du bygga en webbplats som presterar bra i sökningar. Våra revisioner ger dig den information och de råd du behöver för att göra just detta. Vårt professionella digitala marknadsföringsteam kommer att granska och diskutera den slutliga revisionsrapporten med dig, förklara alla delar som behöver uppmärksammas och rekommenderade nästa steg. Oavsett om du letar efter en tredje part, icke-varumärkt, åsikt om din webbplats eller en byrå som tar din marknadsföring till nästa nivå, är en webbplatsrevision ett perfekt ställe att börja med alla nya kunder (och till och med årligen med befintliga kunder) ).
                                     </p>
                                    
                                 </div>
