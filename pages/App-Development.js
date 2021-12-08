@@ -12,8 +12,9 @@ class AppDev extends Component {
         return (
             <>
                 <Head>
-                    <meta name="title" content="Mobile App Development Services | Ecomin IT Solution" />
-                    <meta name="description" content="Mobile application development services from Ecomin IT Solution provide custom mobile experiences for mobile devices, wearables, IoT, and augmented reality devices." />
+                    <title>Utvecklingstjänster för mobilappar | Ecomin IT-lösning</title>
+                    <meta name="title" content="Utvecklingstjänster för mobilappar | Ecomin IT-lösning" />
+                    <meta name="description" content="Mobila applikationsutvecklingstjänster från Ecomin IT Solution tillhandahåller anpassade mobila upplevelser för mobila enheter, bärbara enheter, IoT och augmented reality-enheter." />
                 </Head>
 
                 <NavbarOne />

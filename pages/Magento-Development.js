@@ -11,19 +11,21 @@ class MagentoDevelopment extends Component {
     render() {
         return (
             <>
-              <Head>
-                    <meta name="title" content="Magento Development Serivces - EcomIN" />
-                    <meta name="description" content="EcomIn provides a full suite of Magento development services. We have a certified team of Magento developers. Experts in designing customised websites, E-commerece stores with full functionality, programming, strategy, migrations." />
+                <Head>
+                    <title>Magento utvecklingstjänster - EcomIN
+                    </title>
+                    <meta name="title" content="Magento utvecklingstjänster - EcomIN" />
+                    <meta name="description" content="EcomIn tillhandahåller en komplett uppsättning av Magento-utvecklingstjänster. Vi har ett certifierat team av Magento-utvecklare. Experter på att designa skräddarsydda webbplatser, e-handelsbutiker med full funktionalitet, programmering, strategi och migrationer." />
                 </Head>
 
                 <NavbarOne />
 
-                <PageBanner 
-                    pageTitle="Magento Development" 
+                <PageBanner
+                    pageTitle="Magento Development"
                     BGImage="bg-one"
-                />  
+                />
 
-                <MagentoDetailsContent/>
+                <MagentoDetailsContent />
 
                 <CtaAreaTwo />
 

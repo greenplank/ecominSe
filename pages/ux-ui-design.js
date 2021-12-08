@@ -11,8 +11,9 @@ class UXUIDesign extends Component {
         return (
             <>
                 <Head>
-                    <meta name="title" content="UI/UX Design Services | Web Interface Design Solutions" />
-                    <meta name="description" content="UX design is more analytical and technological than standard style. It necessitates extensive research in order to assess and improve the client experience." />
+                    <title>UI/UX-designtjänster | Designlösningar för webbgränssnitt</title>
+                    <meta name="title" content="UI/UX-designtjänster | Designlösningar för webbgränssnitt" />
+                    <meta name="description" content="UX-design är mer analytisk och teknisk än standardstil. Det kräver omfattande forskning för att bedöma och förbättra klientupplevelsen." />
                 </Head>
 
                 <NavbarOne />

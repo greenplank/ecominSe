@@ -13,8 +13,9 @@ class CloudHosting extends Component {
             <>
 
                 <Head>
-                    <meta name="title" content="Cloud Hosting | 4X More Speed | Limited Time Offer - Ecomin IT Solution" />
-                    <meta name="description" content="We used a data-driven review approach to select the top cloud hosting providers for personal, business, and enterprise requirements in 2021." />
+                    <title>Cloud Hosting | 4X mer hastighet | Tidsbegränsat erbjudande - Ecomin IT-lösning</title>
+                    <meta name="title" content="Cloud Hosting | 4X mer hastighet | Tidsbegränsat erbjudande - Ecomin IT-lösning" />
+                    <meta name="description" content="Vi använde en datadriven granskningsmetod för att välja de bästa moln leverantörerna för personliga, affärs- och företagskrav 2021." />
                 </Head>
 
                 <NavbarOne />

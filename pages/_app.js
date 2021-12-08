@@ -47,7 +47,7 @@ export default class MyApp extends App {
 
                 <Head>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                    <title>EcomIN - Ecommerce & IT Solutions Provider Company</title>
+                    <title>Ecomin – E-handel & IT-tjänster | Konsultverksamhet | Affärslösningar</title>
                 </Head>
 
                 <Component {...pageProps} />

@@ -10,8 +10,10 @@ class CyberSecurity extends Component {
         return (
             <>
                 <Head>
-                    <meta name="title" content="Software testing and QA services - Ecomin IT Solution" />
-                    <meta name="description" content="QA and software testing services are designed to verify that software satisfies all of the criteria and expectations of its users." />
+                    <title>Mjukvarutestning och QA-tjänster - Ecomin IT Solution
+</title>
+                    <meta name="title" content="Mjukvarutestning och QA-tjänster - Ecomin IT Solution" />
+                    <meta name="description" content="QA och mjukvarutesttjänster är utformade för att verifiera att programvaran uppfyller alla kriterier och förväntningar hos användarna." />
                 </Head>
 
                 <NavbarOne />

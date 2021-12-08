@@ -13,8 +13,10 @@ class SocialMediaMarketing extends Component {
         return (
             <>
                 <Head>
-                    <meta name="title" content="Social Media Marketing Services for 2021 - Ecomin" />
-                    <meta name="description" content="Social Media Campaigns: Our Social Media Marketing Services We provide ad campaigns that attract your target demographic and bring you more business." />
+                    <title>Social Media Marknadsföring Services för 2021 - Ecomin
+</title>
+                    <meta name="title" content="Social Media Marknadsföring Services för 2021 - Ecomin" />
+                    <meta name="description" content="Sociala mediekampanjer: Våra marknadsföringstjänster för sociala medier. Vi tillhandahåller annonskampanjer som är anpassad för din målgrupp och ger dig fler affärer." />
                 </Head>
 
                 <NavbarOne />

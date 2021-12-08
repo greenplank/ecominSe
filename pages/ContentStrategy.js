@@ -11,8 +11,12 @@ class ContentStrategy extends Component {
         return (
             <>
                 <Head>
-                    <meta name="title" content="Services for Content Writing | Blogs, Websites, and Sales Landing Pages" />
-                    <meta name="description" content="We're a full-service digital marketing firm that understands the value of high-quality content in your marketing plan." />
+                    <title>Tjänster för innehållsskrivning | Bloggar, webbplatser och försäljningsmålsidor
+                    </title>
+                    <meta name="title" content="Tjänster för innehållsskrivning | Bloggar, webbplatser och försäljningsmålsidor
+" />
+                    <meta name="description" content="Vi är ett fullserviceföretag för digital marknadsföring som förstår värdet av högkvalitativt innehåll i din marknadsföringsplan.
+" />
                 </Head>
 
                 <NavbarOne />

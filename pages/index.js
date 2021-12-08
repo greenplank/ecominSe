@@ -20,8 +20,8 @@ class CreativeAgency extends Component {
                 <Head>
                     <meta name="google-site-verification" content="A_wzV5qMXCsTb1vFJKSlCRfMspRIrcbz0jdONJhxwLw" />
                     <meta name="robots" content="INDEX,FOLLOW" />
-                    <meta name="title" content="Ecomin – Ecomerce & IT Services | Consulting | Business Solutions" />
-                    <meta name="description" content="Ecomin is the best Ecommerce Solution Provider that offers the best eCommerce Development Services and Solutions to small businesses & companies." />
+                    <meta name="title" content="Ecomin – E-handel & IT-tjänster | Konsultverksamhet | Affärslösningar" />
+                    <meta name="description" content="Ecomin är den bästa leverantören av e-handelslösningar som erbjuder de bästa e-handelsutvecklingstjänsterna och lösningarna till små och stora företag." />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-211768101-1"></script>
 
                 </Head>
