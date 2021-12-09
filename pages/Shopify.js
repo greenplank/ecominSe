@@ -11,8 +11,9 @@ class Shopify extends Component {
         return (
             <>
                 <Head>
-                    <meta name="title" content="Shopify Development and Custom Store Setup - EcomIN" />
-                    <meta name="description" content="EcomIN offer a full range of services for Shopify, including setting up your store, theme customizations, and fully unique custom designs. A custom-built Shopify theme allows you to set up your market niche." />
+                    <title>Shopify-utveckling och anpassade butiksinställningar - EcomIN</title>
+                    <meta name="title" content="Shopify-utveckling och anpassade butiksinställningar - EcomIN" />
+                    <meta name="description" content="EcomIN erbjuder ett komplett utbud av tjänster för Shopify, inklusive konfigurering av din butik, temaanpassningar och helt unika anpassade designs. Ett specialbyggt Shopify-tema låter dig ställa in din marknadsnisch." />
                 </Head>
 
                 <NavbarOne />

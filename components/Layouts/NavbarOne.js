@@ -92,7 +92,7 @@ class NavbarOne extends Component {
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/PlatformMigration" activeClassName="active">
+                                                <Link href="/Plattformsmigrering" activeClassName="active">
                                                     <a className="nav-link">Plattformsmigrering</a>
                                                 </Link>
                                             </li>
@@ -102,13 +102,13 @@ class NavbarOne extends Component {
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/CyberSecurity" activeClassName="active">
+                                                <Link href="/Cybersakerhet" activeClassName="active">
                                                     <a className="nav-link">Cybersäkerhet
                                                     </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/SoftwareQATesting" activeClassName="active">
+                                                <Link href="/SoftwareQATestning" activeClassName="active">
                                                     <a className="nav-link">QA-testning av programvara
                                                     </a>
                                                 </Link>
@@ -125,13 +125,13 @@ class NavbarOne extends Component {
 
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
-                                                <Link href="/web-development" activeClassName="active">
+                                                <Link href="/webbutveckling" activeClassName="active">
                                                     <a className="nav-link">Webbutveckling
                                                     </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/React-Next-Development" activeClassName="active">
+                                                <Link href="/Reagera-Nasta-Utveckling" activeClassName="active">
                                                     <a className="nav-link">React&NextJs utveckling
                                                     </a>
                                                 </Link>
@@ -154,7 +154,7 @@ class NavbarOne extends Component {
 
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
-                                                <Link href="/Magento-Development" activeClassName="active">
+                                                <Link href="/Magento-utveckling" activeClassName="active">
                                                     <a className="nav-link">Magento utveckling
                                                     </a>
                                                 </Link>
@@ -185,35 +185,35 @@ class NavbarOne extends Component {
                                         </Link>
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
-                                                <Link href="/Search-Engine-Optimization" activeClassName="active">
+                                                <Link href="/Sokmotoroptimering" activeClassName="active">
                                                     <a className="nav-link">SEO-tjänster
                                                     </a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/Social-Media-Marketing" activeClassName="active">
+                                                <Link href="/Social-Media-Marknadsforing" activeClassName="active">
                                                     <a className="nav-link">Marknadsföring i sociala medier</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/Site-Audit-Report" activeClassName="active">
+                                                <Link href="/Webbplats-revision-rapport" activeClassName="active">
                                                     <a className="nav-link">Rapportering av webbplatsrevision</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/PaidMarketing" activeClassName="active">
+                                                <Link href="/Betald-marknadsforing" activeClassName="active">
                                                     <a className="nav-link">Betald marknadsföring-PPC</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
-                                                <Link href="/ContentStrategy" activeClassName="active">
+                                                <Link href="/Innehallsstrategi" activeClassName="active">
                                                     <a className="nav-link">Innehållsstrategi och skrivande</a>
                                                 </Link>
                                             </li>
                                         </ul>
                                     </li>
                                     <li className="nav-item">
-                                        <Link href="/App-Development">
+                                        <Link href="/App-utveckling">
                                             <a className="nav-link">
                                                 Apputveckling
                                             </a>
@@ -242,7 +242,7 @@ class NavbarOne extends Component {
                                 </ul>
 
                                 <div className="others-options">
-                                    <Link href="/contact">
+                                    <Link href="/Kontakt">
                                         <a className="btn btn-primary">
                                             Få ett citat
                                         </a>

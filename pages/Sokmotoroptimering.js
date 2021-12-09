@@ -11,9 +11,13 @@ class SearchOptimization extends Component {
     render() {
         return (
             <>
-                <Head>
-                    <meta name="title" content="SEO Services from Ecomin: Turn Traffic Increases Into Revenue" />
-                    <meta name="description" content="SEO, or search engine optimization, is the practise of improving search engine results and driving more visitors to a website with the ultimate objective of increasing sales." />
+               <Head>
+                    <title>SEO-tjänster från Ecomin: Förvandla trafikökningar till intäkter
+                    </title>
+                    <meta name="title" content="SEO-tjänster från Ecomin: Förvandla trafikökningar till intäkter
+" />
+                    <meta name="description" content="SEO, eller sökmotoroptimering, är metoden att förbättra sökmotorernas resultat och locka fler besökare till en webbplats med målet att öka försäljning.
+" />
                 </Head>
 
                 <NavbarOne />

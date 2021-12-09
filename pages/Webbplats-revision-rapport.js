@@ -10,9 +10,10 @@ class SiteAudit extends Component {
     render() {
         return (
             <>
-                <Head>
-                    <meta name="title" content="Website Audit Services - SEO Website Audit Agency | Ecomin" />
-                    <meta name="description" content="1-on-1 sessions with our SEO professionals; a complete SEO audit for on-site and off-site SEO; A completed report that includes all findings and recommendations." />
+                 <Head>
+                    <title>Webbplatsrevisionstjänster - SEO Webbplatsrevisionsbyrå | Ecomin</title>
+                    <meta name="title" content="Webbplatsrevisionstjänster - SEO Webbplatsrevisionsbyrå | Ecomin" />
+                    <meta name="description" content="1-mot-1-sessioner med våra SEO-proffs; en komplett SEO-revision för SEO på och utanför platsen; En färdig rapport som innehåller alla resultat och rekommendationer." />
                 </Head>
 
                 <NavbarOne />

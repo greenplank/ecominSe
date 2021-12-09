@@ -33,7 +33,7 @@ class Services extends Component {
                                 <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-global bg-6610f2"></i>
                                     <h3>
-                                        <Link href="/web-development">
+                                        <Link href="/webbutveckling">
                                             <a>webbutveckling
                                             </a>
                                         </Link>
@@ -48,7 +48,7 @@ class Services extends Component {
                                 <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-graph1 bg-ffb700"></i>
                                     <h3>
-                                        <Link href="/Social-Media-Marketing">
+                                        <Link href="/Social-Media-Marknadsforing">
                                             <a>Digital marknadsföring
                                             </a>
                                         </Link>
@@ -63,7 +63,7 @@ class Services extends Component {
                                 <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-phone bg-fc3549"></i>
                                     <h3>
-                                        <Link href="/App-Development">
+                                        <Link href="/App-utveckling">
                                             <a>Utveckling av mobilappar
                                             </a>
                                         </Link>
@@ -77,7 +77,7 @@ class Services extends Component {
                                 <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-cart bg-00d280"></i>
                                     <h3>
-                                        <Link href="/Magento-Development">
+                                        <Link href="/Magento-utveckling">
                                             <a>E-handelsutveckling
 
                                             </a>
@@ -93,7 +93,7 @@ class Services extends Component {
                                 <div className="service-card-one white-bg text-center">
                                     <i className="pe-7s-target bg-ff612f"></i>
                                     <h3>
-                                        <Link href="/Search-Engine-Optimization">
+                                        <Link href="/Sokmotoroptimering">
                                             <a>SEO-optimering
                                             </a>
                                         </Link>

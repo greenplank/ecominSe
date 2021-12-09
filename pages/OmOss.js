@@ -10,7 +10,7 @@ import EcomVsFrelancer from '../components/Services/EcomVsFrelancer';
 import About from '../components/About/About';
 import Footer from '../components/Layouts/Footer';
 
-class Aabout extends Component {
+class OmOss extends Component {
     render() {
         return (
             <>
@@ -43,4 +43,4 @@ class Aabout extends Component {
     }
 }
 
-export default Aabout;
+export default OmOss;

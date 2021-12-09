@@ -57,7 +57,7 @@ class Footer extends Component {
 
 
                                         <li>
-                                            <Link href="/web-development">
+                                            <Link href="/webbutveckling">
                                                 <a>Webbutveckling
                                                 </a>
                                             </Link>
@@ -70,25 +70,25 @@ class Footer extends Component {
                                         </li>
 
                                         <li>
-                                            <Link href="/Search-Engine-Optimization">
+                                            <Link href="/Sokmotoroptimering">
                                                 <a>SEO-tjänster
                                                 </a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/Social-Media-Marketing">
+                                            <Link href="/Social-Media-Marknadsforing">
                                                 <a>Marknadsföring i sociala medier
                                                 </a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/PaidMarketing">
+                                            <Link href="/Betald-marknadsforing">
                                                 <a>Betald marknadsföring-PPC
                                                 </a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/Site-Audit-Report">
+                                            <Link href="/Webbplats-revision-rapport">
                                                 <a>Rapportering av webbplatsrevision
                                                 </a>
                                             </Link>
@@ -122,13 +122,13 @@ class Footer extends Component {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/about">
+                                            <Link href="/OmOss">
                                                 <a>Om oss
                                                 </a>
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/contact">
+                                            <Link href="/Kontakt">
                                                 <a>Kontakta oss
                                                 </a>
                                             </Link>
