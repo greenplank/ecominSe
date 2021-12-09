@@ -18,7 +18,7 @@ class CtaArea extends Component {
 
                         <div className="col-lg-5 col-md-4">
                             <div className="cta-btn-box">
-                                <Link href="/contact">
+                                <Link href="/Kontakt">
                                     <a className="btn btn-primary">Kontakta oss
                                     </a>
                                 </Link>

@@ -46,7 +46,7 @@ class FunFactsTwo extends Component {
                         <p>Tveka inte att kontakta oss
                         </p>
 
-                        <Link href="/contact">
+                        <Link href="/Kontakt">
                             <a className="btn btn-primary">Kontakta oss
                             </a>
                         </Link>

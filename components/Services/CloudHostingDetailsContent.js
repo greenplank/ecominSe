@@ -183,7 +183,7 @@ class CloudHostingDetailsContent extends Component {
 
                                 <div className="col-lg-3 col-md-4">
                                     <div className="cta-btn-box">
-                                        <Link href="/contact">
+                                        <Link href="/Kontakt">
                                             <a className="btn btn-primary">Kontakta oss
                                             </a>
                                         </Link>

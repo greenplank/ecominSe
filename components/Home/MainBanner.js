@@ -34,7 +34,7 @@ class MainBanner extends Component {
                                             <p>EcomIN är en internationell mjukvaruutvecklingsbyrå med säte i Sverige. Från mjukvaruutveckling till digital marknadsföring och design – vi hjälper företag att omvandla sina idéer till verklighet och öka tillväxten.
                                             </p>
 
-                                            <Link href="/web-development" >
+                                            <Link href="/webbutveckling" >
                                                 <a className="btn btn-primary">Våra tjänster
 
                                                 </a>

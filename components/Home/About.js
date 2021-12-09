@@ -52,7 +52,7 @@ class About extends Component {
                                                 {/* <li>Trusted by: (give logos of clients)</li> */}
                                             </ul>
                                         </div>
-                                        <Link href="/about">
+                                        <Link href="/OmOss">
                                             <a className="btn btn-primary">Läs mer
                                             </a>
                                         </Link>
