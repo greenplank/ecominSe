@@ -6,11 +6,18 @@ import ContactInfo from '../components/Contact/ContactInfo';
 import ContactFormOne from '../components/Contact/ContactFormOne';
 import Newsletter from '../components/Common/Newsletter';
 import Footer from '../components/Layouts/Footer';
+import Head from "next/head";
 
 class Contact extends Component {
     render() {
         return (
             <>
+
+                <Head>
+                    <title>Kontakta oss
+                    </title>
+                </Head>
+
                 <NavbarOne />
 
                 <PageBanner

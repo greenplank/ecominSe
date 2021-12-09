@@ -12,8 +12,10 @@ class WebDevelopment extends Component {
         return (
             <>
                 <Head>
-                    <meta name="title" content="Website Design & Development Services | Ecomin IT Solution" />
-                    <meta name="description" content="With quality and professional web development services, you can take your business online and generate more sales and leads." />
+                    <title>Webbplatsdesign och utvecklingstjänster | Ecomin IT-lösning
+                    </title>
+                    <meta name="title" content="Webbplatsdesign och utvecklingstjänster | Ecomin IT-lösning" />
+                    <meta name="description" content="Med kvalitativa och professionella webbutvecklingstjänster kan du ta ditt företag online och generera fler försäljningar och potentiella kunder." />
                 </Head>
 
                 <NavbarOne />

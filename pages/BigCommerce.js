@@ -10,9 +10,10 @@ class BigCommerce extends Component {
     render() {
         return (
             <>
-                <Head>
-                    <meta name="title" content="Advanced Bigcommerce development services - EcomIN" />
-                    <meta name="description" content="Take your store growth to the next level with our advanced BigCommerce Development Service. EcomIN is a certified BigCommerce development company. Our Certified developers customize e-store and multi-store platforms through redevelopment, API integrations, and complete customization." />
+                 <Head>
+                    <title>Avancerade utvecklingstjänster för Bigcommerce - EcomIN</title>
+                    <meta name="title" content="Avancerade utvecklingstjänster för Bigcommerce - EcomIN" />
+                    <meta name="description" content="Ta din butikstillväxt till nästa nivå med vår avancerade BigCommerce Development Service. EcomIN är ett certifierat BigCommerce-utvecklingsföretag. Våra certifierade utvecklare anpassar plattformar för e-butiker och flera butiker genom omutveckling, API-integrationer och fullständig anpassning." />
                 </Head>
 
                 <NavbarOne />

@@ -10,22 +10,26 @@ class Faqs extends Component {
     render() {
         return (
             <>
+                <Head>
+                    <title>FAQs</title>
+                </Head>
+
                 <NavbarOne />
 
-                <PageBanner 
+                <PageBanner
                     pageTitle="Vanliga frågor
-                    " 
+                    "
                     BGImage="bg-one"
-                />  
+                />
 
                 <FaqContent />
 
                 {/* <div className="pb-100">
                     <FaqForm />
                 </div> */}
-                
+
                 <CtaAreaTwo />
-                
+
                 <Footer />
             </>
         );
