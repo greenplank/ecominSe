@@ -219,26 +219,7 @@ class NavbarOne extends Component {
                                             </a>
                                         </Link>
                                     </li>
-                                    {/* <li className="nav-item">
-                                        <Link href="/portfolio">
-                                            <a className="nav-link">
-                                                Portfolio
-                                            </a>
-                                        </Link>
-                                    </li>
-
-                                    <li className="nav-item">
-                                        <Link href="/about">
-                                            <a className="nav-link">About us
-                                            </a>
-                                        </Link>
-                                    </li>
-                                    <li className="nav-item">
-                                        <Link href="/contact">
-                                            <a className="nav-link">Contact Us
-                                            </a>
-                                        </Link>
-                                    </li> */}
+                       
                                 </ul>
 
                                 <div className="others-options">

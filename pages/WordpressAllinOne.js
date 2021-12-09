@@ -5,7 +5,7 @@ import WordpressDetailsContent from '../components/Services/WordpressDetailsCont
 import WordpressPackages from '../components/Services/WordpressPackages';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
-
+import Head from "next/head";
 
 class WordpressAllinOne extends Component {
     render() {
