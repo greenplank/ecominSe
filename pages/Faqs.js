@@ -5,6 +5,7 @@ import FaqContent from '../components/Faq/FaqContent';
 import FaqForm from '../components/Faq/FaqForm';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
+import Head from "next/head";
 
 class Faqs extends Component {
     render() {

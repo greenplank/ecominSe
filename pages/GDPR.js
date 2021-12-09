@@ -5,19 +5,24 @@ import GDPRDetailsContent from '../components/Services/GDPRDetailsContent';
 // import SEOPackages from '../components/Services/SEOPackages';
 import CtaAreaTwo from '../components/Common/CtaAreaTwo';
 import Footer from '../components/Layouts/Footer';
+import Head from "next/head";
 
 class WooCommerce extends Component {
     render() {
         return (
             <>
+                <Head>
+                    <title>GDPR</title>
+                </Head>
+
                 <NavbarOne />
 
-                <PageBanner 
-                    pageTitle="GDPR" 
+                <PageBanner
+                    pageTitle="GDPR"
                     BGImage="bg-one"
-                />  
+                />
 
-                <GDPRDetailsContent/>
+                <GDPRDetailsContent />
 
                 <CtaAreaTwo />
 
