@@ -17,7 +17,7 @@ class SEODetailsContent extends Component {
                                     <h2>I. VILKA VI ÄR OCH HUR VI BEHANDLAR DIN INFORMATION
                                     </h2>
 
-                                    <p><b>1. </b>Denna information används för alla fysiska personer som överför sina personuppgifter (nedan kallade "Personuppgifter") för behandling och lagring av eComIN AB, med säte på Sadelgatan 9, 213 77 Malmö, Sverige, med registreringsnummer 559270-2061 (eComIN AB nedan gemensamt kallat "Företaget") som personuppgiftsansvarig.
+                                    <p><b>1. </b>Denna information används för alla fysiska personer som överför sina personuppgifter (nedan kallade "Personuppgifter") för behandling och lagring av eComIN AB, med säte på Klågarupsvägan 361, SE-212 36 Malmö, Sverige, med registreringsnummer 559270-2061 (eComIN AB nedan gemensamt kallat "Företaget") som personuppgiftsansvarig.
                                     </p>
                                     <p><b>2. </b>Informationen ska särskilt tillhandahållas
 
