@@ -27,7 +27,7 @@ class Footer extends Component {
                                     <ul className="list">
                                         <li>
                                             <Link href="/GDPR">
-                                                <a>GDPR with Klågarupsvägan 361, SE-212 36 Malmö
+                                                <a>GDPR
                                                 </a>
                                             </Link>
                                         </li>
